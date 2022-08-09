@@ -28,7 +28,7 @@ public class NFTRecorder : MonoBehaviour
     public bool captureScreen = false;
 
     [Header("Change character trails")]
-    public RaceType raceType;
+    // public RaceType raceType;
     public bool isFemale = false;
     private bool isFinishSingle = false;
     private int count = 0;
@@ -43,7 +43,7 @@ public class NFTRecorder : MonoBehaviour
         // #endif
     }
 
-    private void SetupCharacter(ClassType classType, int hair, int eye)
+    private void SetupCharacter(RaceType raceType, ClassType classType, int hair, int eye)
     {
         spineController = isFemale ? femaleCharacterController : maleCharacterController;
         femaleCharacterController.gameObject.SetActive(isFemale);
@@ -94,41 +94,44 @@ public class NFTRecorder : MonoBehaviour
     {
         int hairNum = isFemale ? femaleHairNum : maleHairNum;
         int eyeNum = isFemale ? femaleEyeNum : maleEyeNum;
-        int total = Enum.GetNames(typeof(ClassType)).Length * Enum.GetNames(typeof(ElementalType)).Length * hairNum * eyeNum;
-        SetupBackgrounds(raceType);
-        for (int classType = 0; classType < Enum.GetNames(typeof(ClassType)).Length; classType++)
-            for (int elemental = 0; elemental < Enum.GetNames(typeof(ElementalType)).Length; elemental++)
-                for (int hair = 0; hair < hairNum; hair++)
-                    for (int eye = 0; eye < eyeNum; eye++)
-                    {
-                        isFinishSingle = false;
-                        count++;
-                        SetupCharacter((ClassType)classType, hair + 1, eye + 1);
-                        Debug.Log("**** Start record " + Helpers.GetNFTName(isFemale, raceType, (ClassType)classType, (ElementalType)elemental, hair, eye));
-                        Debug.Log("**** " + count + "/" + total + " ****");
-                        if (recordVideo && captureScreen)
+        int total = Enum.GetNames(typeof(RaceType)).Length * Enum.GetNames(typeof(ClassType)).Length * Enum.GetNames(typeof(ElementalType)).Length * hairNum * eyeNum;
+        for (int raceType = 0; raceType < Enum.GetNames(typeof(RaceType)).Length; raceType++)
+        {
+            SetupBackgrounds((RaceType)raceType);
+            for (int classType = 0; classType < Enum.GetNames(typeof(ClassType)).Length; classType++)
+                for (int elemental = 0; elemental < Enum.GetNames(typeof(ElementalType)).Length; elemental++)
+                    for (int hair = 0; hair < hairNum; hair++)
+                        for (int eye = 0; eye < eyeNum; eye++)
                         {
-                            SetupParticles((ElementalType)elemental);
-                            StartCoroutine(CaptureCharacterImage((ClassType)classType, (ElementalType)elemental, hair, eye, 1.7f));
-                            StartCoroutine(StartRecordNFT((ClassType)classType, (ElementalType)elemental, hair, eye));
+                            isFinishSingle = false;
+                            count++;
+                            SetupCharacter((RaceType)raceType, (ClassType)classType, hair + 1, eye + 1);
+                            Debug.Log("**** Start record " + Helpers.GetNFTName(isFemale, (RaceType)raceType, (ClassType)classType, (ElementalType)elemental, hair, eye));
+                            Debug.Log("**** " + count + "/" + total + " ****");
+                            if (recordVideo && captureScreen)
+                            {
+                                SetupParticles((ElementalType)elemental);
+                                StartCoroutine(CaptureCharacterImage((RaceType)raceType, (ClassType)classType, (ElementalType)elemental, hair, eye, 1.7f));
+                                StartCoroutine(StartRecordNFT((RaceType)raceType, (ClassType)classType, (ElementalType)elemental, hair, eye));
+                            }
+                            else if (!recordVideo && captureScreen)
+                            {
+                                SetupScreenResolution(480, 480);
+                                SetupMagicCircle((ElementalType)elemental);
+                                StartCoroutine(CaptureCharacterImage((RaceType)raceType, (ClassType)classType, (ElementalType)elemental, hair, eye, 0.2f, true));
+                            }
+                            else
+                            {
+                                SetupParticles((ElementalType)elemental);
+                                StartCoroutine(StartRecordNFT((RaceType)raceType, (ClassType)classType, (ElementalType)elemental, hair, eye));
+                            }
+                            yield return new WaitUntil(() => isFinishSingle);
+                            if (recordVideo) yield return new WaitForSeconds(0.25f);
                         }
-                        else if (!recordVideo && captureScreen)
-                        {
-                            SetupScreenResolution(480, 480);
-                            SetupMagicCircle((ElementalType)elemental);
-                            StartCoroutine(CaptureCharacterImage((ClassType)classType, (ElementalType)elemental, hair, eye, 0.2f, true));
-                        }
-                        else
-                        {
-                            SetupParticles((ElementalType)elemental);
-                            StartCoroutine(StartRecordNFT((ClassType)classType, (ElementalType)elemental, hair, eye));
-                        }
-                        yield return new WaitUntil(() => isFinishSingle);
-                        yield return new WaitForSeconds(0.5f);
-                    }
+        }
     }
 
-    private IEnumerator StartRecordNFT(ClassType classType, ElementalType elementalType, int hairName, int eyeName)
+    private IEnumerator StartRecordNFT(RaceType raceType, ClassType classType, ElementalType elementalType, int hairName, int eyeName)
     {
         recordController.StartRecording(isFemale, raceType, classType, elementalType, hairName, eyeName);
         Debug.Log("- Start Recording NFT");
@@ -140,7 +143,7 @@ public class NFTRecorder : MonoBehaviour
         Debug.Log("- Stop Recording NFT");
     }
 
-    private IEnumerator CaptureCharacterImage(ClassType classType, ElementalType elementalType, int hairName, int eyeName, float delay = 0.2f, bool captureScreenOnly = false)
+    private IEnumerator CaptureCharacterImage(RaceType raceType, ClassType classType, ElementalType elementalType, int hairName, int eyeName, float delay = 0.2f, bool captureScreenOnly = false)
     {
         // string folderPath = "Assets/NFTImages/";
         string folderPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.DesktopDirectory) + "/NFTImages/";
