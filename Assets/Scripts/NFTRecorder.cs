@@ -31,6 +31,7 @@ public class NFTRecorder : MonoBehaviour
     public RaceType raceType;
     public bool isFemale = false;
     private bool isFinishSingle = false;
+    private int count = 0;
 
     private void Start()
     {
@@ -93,6 +94,7 @@ public class NFTRecorder : MonoBehaviour
     {
         int hairNum = isFemale ? femaleHairNum : maleHairNum;
         int eyeNum = isFemale ? femaleEyeNum : maleEyeNum;
+        int total = Enum.GetNames(typeof(ClassType)).Length * Enum.GetNames(typeof(ElementalType)).Length * hairNum * eyeNum;
         SetupBackgrounds(raceType);
         for (int classType = 0; classType < Enum.GetNames(typeof(ClassType)).Length; classType++)
             for (int elemental = 0; elemental < Enum.GetNames(typeof(ElementalType)).Length; elemental++)
@@ -100,8 +102,10 @@ public class NFTRecorder : MonoBehaviour
                     for (int eye = 0; eye < eyeNum; eye++)
                     {
                         isFinishSingle = false;
+                        count++;
                         SetupCharacter((ClassType)classType, hair + 1, eye + 1);
                         Debug.Log("**** Start record " + Helpers.GetNFTName(isFemale, raceType, (ClassType)classType, (ElementalType)elemental, hair, eye));
+                        Debug.Log("**** " + count + "/" + total + " ****");
                         if (recordVideo && captureScreen)
                         {
                             SetupParticles((ElementalType)elemental);

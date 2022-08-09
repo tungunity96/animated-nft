@@ -787,6 +787,20 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
+  - {fileID: 2100000, guid: 747480a15ec274e689570d888fe0053e, type: 2}
+  - {fileID: 2100000, guid: 4b0884218592342d0b305cb3b8d35809, type: 2}
+  - {fileID: 2100000, guid: db288939586f94b2ebd0895c619acd44, type: 2}
+  - {fileID: 2100000, guid: 3c761172d86f446cc985a74d04b83723, type: 2}
+  - {fileID: 2100000, guid: db288939586f94b2ebd0895c619acd44, type: 2}
+  - {fileID: 2100000, guid: 4b0884218592342d0b305cb3b8d35809, type: 2}
+  - {fileID: 2100000, guid: 3c761172d86f446cc985a74d04b83723, type: 2}
+  - {fileID: 2100000, guid: 4b0884218592342d0b305cb3b8d35809, type: 2}
+  - {fileID: 2100000, guid: 8a2a68afab9e04a8c8918a11ecf6a8ff, type: 2}
+  - {fileID: 2100000, guid: db288939586f94b2ebd0895c619acd44, type: 2}
+  - {fileID: 2100000, guid: 130a0d83f74e84b52972f501b53dadfb, type: 2}
+  - {fileID: 2100000, guid: 4b0884218592342d0b305cb3b8d35809, type: 2}
+  - {fileID: 2100000, guid: 9e1278d3481014d319d28c1daeef11a8, type: 2}
+  - {fileID: 2100000, guid: 747480a15ec274e689570d888fe0053e, type: 2}
   - {fileID: 2100000, guid: 3c761172d86f446cc985a74d04b83723, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -1643,7 +1657,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1620948290
 Transform:
   m_ObjectHideFlags: 0
@@ -11543,11 +11557,11 @@ MonoBehaviour:
   - raceType: 6
     background: {fileID: 1013779372}
     characterPos: {x: 0, y: -4, z: 0}
-  femaleHairNum: 1
-  femaleEyeNum: 1
+  femaleHairNum: 12
+  femaleEyeNum: 8
   maleHairNum: 6
   maleEyeNum: 6
-  recordVideo: 1
+  recordVideo: 0
   captureScreen: 1
   raceType: 3
   isFemale: 1
