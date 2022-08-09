@@ -54,8 +54,10 @@ public class NFTRecorder : MonoBehaviour
     {
         psAuraGround.gameObject.SetActive(true);
         psMagicCircle.gameObject.SetActive(true);
-        psAuraGround.startColor = Helpers.GetElementalColor(elementalType);
-        psMagicCircle.startColor = Helpers.GetElementalColor(elementalType);
+        var mainPs = psAuraGround.main;
+        mainPs.startColor = Helpers.GetElementalColor(elementalType);
+        mainPs = psMagicCircle.main;
+        mainPs.startColor = Helpers.GetElementalColor(elementalType);
     }
 
     private void SetupMagicCircle(ElementalType elementalType)
@@ -137,7 +139,7 @@ public class NFTRecorder : MonoBehaviour
     private IEnumerator CaptureCharacterImage(ClassType classType, ElementalType elementalType, int hairName, int eyeName, float delay = 0.2f, bool captureScreenOnly = false)
     {
         // string folderPath = "Assets/NFTImages/";
-        string folderPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Desktop) + "/Assets/NFTImages/";
+        string folderPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.DesktopDirectory) + "/NFTImages/";
 
         if (!System.IO.Directory.Exists(folderPath))
             System.IO.Directory.CreateDirectory(folderPath);

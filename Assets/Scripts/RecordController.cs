@@ -46,7 +46,7 @@ public class RecordController
     {
         // string mediaOutputFolder = Path.Combine(Application.dataPath, "..", "Recordings");
         // string mediaOutputFolder = "Assets/NFTVideos/";
-        string mediaOutputFolder = System.Environment.GetFolderPath(System.Environment.SpecialFolder.Desktop) + "/Assets/NFTVideos/";
+        string mediaOutputFolder = System.Environment.GetFolderPath(System.Environment.SpecialFolder.DesktopDirectory) + "/NFTVideos/";
         if (!System.IO.Directory.Exists(mediaOutputFolder))
             System.IO.Directory.CreateDirectory(mediaOutputFolder);
 
