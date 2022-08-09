@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: Weapon_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: c8ad0baa9fd1b4bf5993217551589c56, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 8a2a68afab9e04a8c8918a11ecf6a8ff, type: 2}
+  - {fileID: 2100000, guid: 4de41b384652e4c5fbb8b11e1bf65e7c, type: 2}
+  - {fileID: 2100000, guid: ccbf8f921bff443cd8fc390d82c4adf3, type: 2}
+  - {fileID: 2100000, guid: 09c7b8149285a4b12be5bc99e85b699a, type: 2}
+  - {fileID: 2100000, guid: 374756a44560946fdae1a2d17d0f168b, type: 2}
+  - {fileID: 2100000, guid: 66b2b683a6b304443aca223f5f8ca3e4, type: 2}
+  - {fileID: 2100000, guid: 0aebaad521bc54132ae085340776e38d, type: 2}
