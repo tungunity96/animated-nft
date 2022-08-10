@@ -186,3 +186,10 @@ fore_leg/FM_Angel_fore_leg
   orig: 184, 476
   offset: 0, 0
   index: -1
+blank
+  rotate: true
+  xy: 0, 0
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1

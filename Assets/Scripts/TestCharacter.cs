@@ -1,3 +1,5 @@
+using System;
+using System.Collections;
 using UnityEngine;
 
 public class TestCharacter : MonoBehaviour
@@ -11,6 +13,19 @@ public class TestCharacter : MonoBehaviour
     private void Start()
     {
         spineController = GetComponent<SpineController>();
-        spineController.ChangeSkin(raceType, classType, eyeName, hairName);
+        // spineController.ChangeSkin(raceType, classType, eyeName, hairName);
+        // StartCoroutine(spineController.PlayAnimation("Idle", true));
+        StartCoroutine(test());
+    }
+
+    private IEnumerator test()
+    {
+        for (int classType = 0; classType < Enum.GetNames(typeof(ClassType)).Length; classType++)
+        {
+            spineController.ChangeSkin(raceType, (ClassType)classType, eyeName, "6");
+            yield return spineController.PlayAnimation("Idle");
+            yield return spineController.PlayAnimation("Idle");
+            yield return spineController.PlayAnimation("Idle");
+        }
     }
 }

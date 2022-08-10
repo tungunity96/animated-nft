@@ -45,7 +45,7 @@ public enum ClassType
     mage = 2,
     monk = 3,
     priest = 4,
-    rouge = 5,
+    assassin = 5,
     pirate = 6,
     druid = 7,
     engineer = 8,

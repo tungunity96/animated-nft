@@ -11,6 +11,7 @@ public class SpineController : MonoBehaviour
     Spine.Skeleton skeleton;
     Spine.SkeletonData skeletonData;
     SkeletonAnimation skinSkeletonAnimation;
+    Spine.Skin defaultSkin;
 
     [Header("Character Atlases")]
     public SpineAtlasAsset rootAtlas;
@@ -29,11 +30,21 @@ public class SpineController : MonoBehaviour
         skeleton = skeletonAnimation.Skeleton;
         skeletonData = skeleton.Data;
         animationState = skeletonAnimation.AnimationState;
+        defaultSkin = skeletonData.DefaultSkin;
+
+        foreach (var attachment in defaultSkin.GetAttachments())
+        {
+            Debug.Log("slotIndex " + attachment.SlotIndex);
+            Debug.Log("attachment " + attachment.Name);
+        }
     }
 
+    private Spine.AtlasRegion GetDefaultRegion()
+    {
+        return rootAtlas.GetAtlas().FindRegion("blank");
+    }
     public IEnumerator PlayAnimation(string animName, bool loop = false)
     {
-        Debug.Log("Play Animation " + animName);
         var track = animationState.SetAnimation(0, animName, false);
         yield return new WaitForSpineAnimationComplete(track, true);
         if (loop) yield return PlayAnimation(animName, loop);
@@ -63,6 +74,8 @@ public class SpineController : MonoBehaviour
     {
         SetSlotRegion(AtlasType.Hair, "B_Hair", "B_Hair/" + (isFemale ? "FM_" : "M_") + "B_Hair_" + hairName);
         SetSlotRegion(AtlasType.Hair, "F_Hair", "F_Hair/" + (isFemale ? "FM_" : "M_") + "F_Hair_" + hairName);
+        SetSlotRegion(AtlasType.Hair, "ML_Hair", "ML_Hair/" + (isFemale ? "FM_" : "M_") + "ML_Hair_" + hairName);
+        SetSlotRegion(AtlasType.Hair, "MR_Hair", "MR_Hair/" + (isFemale ? "FM_" : "M_") + "MR_Hair_" + hairName);
     }
     public void ChangeEyesRegion(string eyeName)
     {
@@ -79,8 +92,6 @@ public class SpineController : MonoBehaviour
         SetSlotRegion(AtlasType.Class, "Class_fore_coat", "Class_fore_coat/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_coat");
         SetSlotRegion(AtlasType.Class, "Class_fore_leg", "Class_fore_leg/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_leg");
         SetSlotRegion(AtlasType.Class, "Class_back_leg", "Class_back_leg/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_leg");
-        SetSlotRegion(AtlasType.Class, "Class_back_arm1", "Class_back_arm1/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_arm1");
-        SetSlotRegion(AtlasType.Class, "Class_back_arm2", "Class_back_arm2/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_arm2");
         SetSlotRegion(AtlasType.Class, "Class_back_coat", "Class_back_coat/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_coat");
     }
 
@@ -136,12 +147,9 @@ public class SpineController : MonoBehaviour
         Spine.AtlasRegion region = GetAtlasRegion(atlatType, regionName);
         if (region == null)
         {
+            region = GetDefaultRegion();
             Debug.LogError("Cannot find region " + regionName);
-            return;
         }
-
-        // var attachment = slot.Attachment.GetRemappedClone(region);
-        // slot.Attachment = attachment;
         slot.Attachment.SetRegion(region);
         slot.SetToSetupPose();
     }
