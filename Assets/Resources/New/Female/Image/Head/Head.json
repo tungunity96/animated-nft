@@ -1,0 +1,68 @@
+{ "skeleton": { "images": "/d/OneDrive - DoreAzure/Outside/ThaiAnh/Final Character/Image/Head/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "M_Human_Head", "bone": "root", "attachment": "M_Human_Head" },
+	{ "name": "M_Elf_Head", "bone": "root", "attachment": "M_Elf_Head" },
+	{ "name": "M_Devil_Head", "bone": "root", "attachment": "M_Devil_Head" },
+	{ "name": "M_Orc_Head", "bone": "root", "attachment": "M_Orc_Head" },
+	{ "name": "M_Steamborg_Head", "bone": "root", "attachment": "M_Steamborg_Head" },
+	{ "name": "M_Undead_Head", "bone": "root", "attachment": "M_Undead_Head" },
+	{ "name": "M_Angel_Head", "bone": "root", "attachment": "M_Angel_Head" },
+	{ "name": "FM_Human_Head", "bone": "root", "attachment": "FM_Human_Head" },
+	{ "name": "FM_Elf_Head", "bone": "root", "attachment": "FM_Elf_Head" },
+	{ "name": "FM_Devil_Head", "bone": "root", "attachment": "FM_Devil_Head" },
+	{ "name": "FM_Orc_Head", "bone": "root", "attachment": "FM_Orc_Head" },
+	{ "name": "FM_Steamborg_Head", "bone": "root", "attachment": "FM_Steamborg_Head" },
+	{ "name": "FM_Undead_Head", "bone": "root", "attachment": "FM_Undead_Head" },
+	{ "name": "FM_Angle_Head", "bone": "root", "attachment": "FM_Angle_Head" }
+],
+"skins": {
+	"default": {
+		"M_Human_Head": {
+			"M_Human_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"M_Elf_Head": {
+			"M_Elf_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"M_Devil_Head": {
+			"M_Devil_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"M_Orc_Head": {
+			"M_Orc_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"M_Steamborg_Head": {
+			"M_Steamborg_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"M_Undead_Head": {
+			"M_Undead_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"M_Angel_Head": {
+			"M_Angel_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"FM_Human_Head": {
+			"FM_Human_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"FM_Elf_Head": {
+			"FM_Elf_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"FM_Devil_Head": {
+			"FM_Devil_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"FM_Orc_Head": {
+			"FM_Orc_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"FM_Steamborg_Head": {
+			"FM_Steamborg_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"FM_Undead_Head": {
+			"FM_Undead_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		},
+		"FM_Angle_Head": {
+			"FM_Angle_Head": { "x": 330.5, "y": -415.5, "width": 663, "height": 833 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

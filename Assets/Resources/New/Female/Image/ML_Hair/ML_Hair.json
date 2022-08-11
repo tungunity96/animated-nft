@@ -1,0 +1,40 @@
+{ "skeleton": { "images": "/e/Work/OneDrive - Cloud/OneDrive - DoreAzure/Outside/ThaiAnh/Final Character/Image/ML_Hair/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "FM_ML_Hair_1", "bone": "root", "attachment": "FM_ML_Hair_1" },
+	{ "name": "FM_ML_Hair_2", "bone": "root", "attachment": "FM_ML_Hair_2" },
+	{ "name": "FM_ML_Hair_4", "bone": "root", "attachment": "FM_ML_Hair_4" },
+	{ "name": "FM_ML_Hair_5", "bone": "root", "attachment": "FM_ML_Hair_5" },
+	{ "name": "FM_ML_Hair_6", "bone": "root", "attachment": "FM_ML_Hair_6" },
+	{ "name": "FM_ML_Hair_8", "bone": "root", "attachment": "FM_ML_Hair_8" },
+	{ "name": "FM_ML_Hair_12", "bone": "root", "attachment": "FM_ML_Hair_12" }
+],
+"skins": {
+	"default": {
+		"FM_ML_Hair_1": {
+			"FM_ML_Hair_1": { "x": 42.5, "y": -131, "width": 87, "height": 264 }
+		},
+		"FM_ML_Hair_2": {
+			"FM_ML_Hair_2": { "x": 42.5, "y": -131, "width": 87, "height": 264 }
+		},
+		"FM_ML_Hair_4": {
+			"FM_ML_Hair_4": { "x": 42.5, "y": -131, "width": 87, "height": 264 }
+		},
+		"FM_ML_Hair_5": {
+			"FM_ML_Hair_5": { "x": 42.5, "y": -131, "width": 87, "height": 264 }
+		},
+		"FM_ML_Hair_6": {
+			"FM_ML_Hair_6": { "x": 42.5, "y": -131, "width": 87, "height": 264 }
+		},
+		"FM_ML_Hair_8": {
+			"FM_ML_Hair_8": { "x": 42.5, "y": -131, "width": 87, "height": 264 }
+		},
+		"FM_ML_Hair_12": {
+			"FM_ML_Hair_12": { "x": 42.5, "y": -131, "width": 87, "height": 264 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

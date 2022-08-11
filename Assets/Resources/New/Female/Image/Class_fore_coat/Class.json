@@ -1,0 +1,84 @@
+{ "skeleton": { "images": "/e/Work/OneDrive - Cloud/OneDrive - DoreAzure/Outside/ThaiAnh/Final Character/Image/Class_fore_coat/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "M_assassin_fore_coat", "bone": "root", "attachment": "M_assassin_fore_coat" },
+	{ "name": "M_engineer_fore_coat", "bone": "root", "attachment": "M_engineer_fore_coat" },
+	{ "name": "M_hunter_fore_coat", "bone": "root", "attachment": "M_hunter_fore_coat" },
+	{ "name": "M_knight_fore_coat", "bone": "root", "attachment": "M_knight_fore_coat" },
+	{ "name": "M_mage_fore_coat", "bone": "root", "attachment": "M_mage_fore_coat" },
+	{ "name": "M_monk_fore_coat", "bone": "root", "attachment": "M_monk_fore_coat" },
+	{ "name": "M_pirate_fore_coat", "bone": "root", "attachment": "M_pirate_fore_coat" },
+	{ "name": "M_priest_fore_coat", "bone": "root", "attachment": "M_priest_fore_coat" },
+	{ "name": "M_shaman_fore_coat", "bone": "root", "attachment": "M_shaman_fore_coat" },
+	{ "name": "FM_assassin_fore_coat", "bone": "root", "attachment": "FM_assassin_fore_coat" },
+	{ "name": "FM_druid_fore_coat", "bone": "root", "attachment": "FM_druid_fore_coat" },
+	{ "name": "FM_hunter_fore_coat", "bone": "root", "attachment": "FM_hunter_fore_coat" },
+	{ "name": "FM_knight_fore_coat", "bone": "root", "attachment": "FM_knight_fore_coat" },
+	{ "name": "FM_mage_fore_coat", "bone": "root", "attachment": "FM_mage_fore_coat" },
+	{ "name": "FM_monk_fore_coat", "bone": "root", "attachment": "FM_monk_fore_coat" },
+	{ "name": "FM_pirate_fore_coat", "bone": "root", "attachment": "FM_pirate_fore_coat" },
+	{ "name": "FM_priest_Fore_coat", "bone": "root", "attachment": "FM_priest_Fore_coat" },
+	{ "name": "FM_shaman_fore_coat", "bone": "root", "attachment": "FM_shaman_fore_coat" }
+],
+"skins": {
+	"default": {
+		"M_assassin_fore_coat": {
+			"M_assassin_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"M_engineer_fore_coat": {
+			"M_engineer_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"M_hunter_fore_coat": {
+			"M_hunter_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"M_knight_fore_coat": {
+			"M_knight_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"M_mage_fore_coat": {
+			"M_mage_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"M_monk_fore_coat": {
+			"M_monk_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"M_pirate_fore_coat": {
+			"M_pirate_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"M_priest_fore_coat": {
+			"M_priest_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"M_shaman_fore_coat": {
+			"M_shaman_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"FM_assassin_fore_coat": {
+			"FM_assassin_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"FM_druid_fore_coat": {
+			"FM_druid_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"FM_hunter_fore_coat": {
+			"FM_hunter_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"FM_knight_fore_coat": {
+			"FM_knight_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"FM_mage_fore_coat": {
+			"FM_mage_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"FM_monk_fore_coat": {
+			"FM_monk_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"FM_pirate_fore_coat": {
+			"FM_pirate_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"FM_priest_Fore_coat": {
+			"FM_priest_Fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		},
+		"FM_shaman_fore_coat": {
+			"FM_shaman_fore_coat": { "x": 160, "y": -108.5, "width": 322, "height": 219 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

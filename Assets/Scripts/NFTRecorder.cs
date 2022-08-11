@@ -113,7 +113,8 @@ public class NFTRecorder : MonoBehaviour
         for (int raceType = startRace; raceType < Enum.GetNames(typeof(RaceType)).Length; raceType++)
         {
             SetupBackgrounds((RaceType)raceType);
-            for (int classType = startClass; classType < Enum.GetNames(typeof(ClassType)).Length; classType++)
+            for (int classType = startClass; classType < Enum.GetNames(typeof(ClassType)).Length; classType++){
+                if((ClassType) classType == ClassType.knight) continue;
                 for (int elementalType = startElemental; elementalType < Enum.GetNames(typeof(ElementalType)).Length; elementalType++)
                 {
                     for (int hair = 0; hair < hairNum; hair++)
@@ -153,6 +154,7 @@ public class NFTRecorder : MonoBehaviour
                         }
                     SavePlayerPrefs(raceType, classType, elementalType);
                 }
+            }
         }
     }
 

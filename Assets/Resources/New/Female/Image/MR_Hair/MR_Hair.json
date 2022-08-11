@@ -1,0 +1,28 @@
+{ "skeleton": { "images": "/e/Work/OneDrive - Cloud/OneDrive - DoreAzure/Outside/ThaiAnh/Final Character/Image/MR_Hair/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "FM_MR_Hair_4", "bone": "root", "attachment": "FM_MR_Hair_4" },
+	{ "name": "FM_MR_Hair_7", "bone": "root", "attachment": "FM_MR_Hair_7" },
+	{ "name": "FM_MR_Hair_8", "bone": "root", "attachment": "FM_MR_Hair_8" },
+	{ "name": "FM_MR_Hair_10", "bone": "root", "attachment": "FM_MR_Hair_10" }
+],
+"skins": {
+	"default": {
+		"FM_MR_Hair_4": {
+			"FM_MR_Hair_4": { "x": 45.5, "y": -125, "width": 93, "height": 252 }
+		},
+		"FM_MR_Hair_7": {
+			"FM_MR_Hair_7": { "x": 45.5, "y": -125, "width": 93, "height": 252 }
+		},
+		"FM_MR_Hair_8": {
+			"FM_MR_Hair_8": { "x": 45.5, "y": -125, "width": 93, "height": 252 }
+		},
+		"FM_MR_Hair_10": {
+			"FM_MR_Hair_10": { "x": 45.5, "y": -125, "width": 93, "height": 252 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

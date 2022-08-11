@@ -1,0 +1,108 @@
+{ "skeleton": { "images": "/e/Work/OneDrive - Cloud/OneDrive - DoreAzure/Outside/ThaiAnh/Final Character/Image/Sample/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "B_Hair", "bone": "root", "attachment": "B_Hair" },
+	{ "name": "Class_back_coat", "bone": "root", "attachment": "Class_back_coat" },
+	{ "name": "Race_back_hand", "bone": "root", "attachment": "Race_back_hand" },
+	{ "name": "Race_back_arm1", "bone": "root", "attachment": "Race_back_arm1" },
+	{ "name": "Race_back_arm2", "bone": "root", "attachment": "Race_back_arm2" },
+	{ "name": "Race_back_leg", "bone": "root", "attachment": "Race_back_leg" },
+	{ "name": "Race_fore_leg", "bone": "root", "attachment": "Race_fore_leg" },
+	{ "name": "Race_Body", "bone": "root", "attachment": "Race_Body" },
+	{ "name": "fore_arm1", "bone": "root", "attachment": "fore_arm1" },
+	{ "name": "Race_fore_arm2", "bone": "root", "attachment": "Race_fore_arm2" },
+	{ "name": "Race_fore_hand", "bone": "root", "attachment": "Race_fore_hand" },
+	{ "name": "MR_Hair", "bone": "root", "attachment": "MR_Hair" },
+	{ "name": "ML_Hair", "bone": "root", "attachment": "ML_Hair" },
+	{ "name": "Head", "bone": "root", "attachment": "Head" },
+	{ "name": "Class_back_arm2", "bone": "root", "attachment": "Class_back_arm2" },
+	{ "name": "Class_back_arm1", "bone": "root", "attachment": "Class_back_arm1" },
+	{ "name": "Class_back_leg", "bone": "root", "attachment": "Class_back_leg" },
+	{ "name": "Class_fore_leg", "bone": "root", "attachment": "Class_fore_leg" },
+	{ "name": "Class_Body", "bone": "root", "attachment": "Class_Body" },
+	{ "name": "Class_fore_arm2", "bone": "root", "attachment": "Class_fore_arm2" },
+	{ "name": "Class_fore_arm1", "bone": "root", "attachment": "Class_fore_arm1" },
+	{ "name": "Class_fore_coat", "bone": "root", "attachment": "Class_fore_coat" },
+	{ "name": "Eyes", "bone": "root", "attachment": "Eyes" },
+	{ "name": "F_Hair", "bone": "root", "attachment": "F_Hair" }
+],
+"skins": {
+	"default": {
+		"B_Hair": {
+			"B_Hair": { "x": 522.5, "y": -703, "width": 233, "height": 826 }
+		},
+		"Class_back_coat": {
+			"Class_back_coat": { "x": 460.5, "y": -1114, "width": 377, "height": 670 }
+		},
+		"Race_back_hand": {
+			"Race_back_hand": { "x": 237, "y": -1206.5, "width": 114, "height": 115 }
+		},
+		"Race_back_arm1": {
+			"Race_back_arm1": { "x": 264.5, "y": -1102, "width": 105, "height": 210 }
+		},
+		"Race_back_arm2": {
+			"Race_back_arm2": { "x": 312.5, "y": -938, "width": 93, "height": 184 }
+		},
+		"Race_back_leg": {
+			"Race_back_leg": { "x": 272, "y": -1386, "width": 164, "height": 572 }
+		},
+		"Race_fore_leg": {
+			"Race_fore_leg": { "x": 460, "y": -1367.5, "width": 214, "height": 551 }
+		},
+		"Race_Body": {
+			"Race_Body": { "x": 373.5, "y": -995, "width": 209, "height": 398 }
+		},
+		"fore_arm1": {
+			"fore_arm1": { "x": 503.5, "y": -1083, "width": 93, "height": 206 }
+		},
+		"Race_fore_arm2": {
+			"Race_fore_arm2": { "x": 467.5, "y": -945, "width": 95, "height": 174 }
+		},
+		"Race_fore_hand": {
+			"Race_fore_hand": { "x": 508, "y": -1204.5, "width": 116, "height": 119 }
+		},
+		"MR_Hair": {
+			"MR_Hair": { "x": 191, "y": -756, "width": 46, "height": 118 }
+		},
+		"ML_Hair": {
+			"ML_Hair": { "x": 564.5, "y": -614, "width": 53, "height": 118 }
+		},
+		"Head": {
+			"Head": { "x": 378, "y": -414, "width": 520, "height": 830 }
+		},
+		"Class_back_arm2": {
+			"Class_back_arm2": { "x": 250.5, "y": -1095.5, "width": 125, "height": 201 }
+		},
+		"Class_back_arm1": {
+			"Class_back_arm1": { "x": 292, "y": -986, "width": 100, "height": 132 }
+		},
+		"Class_back_leg": {
+			"Class_back_leg": { "x": 273.5, "y": -1469, "width": 167, "height": 344 }
+		},
+		"Class_fore_leg": {
+			"Class_fore_leg": { "x": 481.5, "y": -1465, "width": 185, "height": 352 }
+		},
+		"Class_Body": {
+			"Class_Body": { "x": 359.5, "y": -1063, "width": 255, "height": 336 }
+		},
+		"Class_fore_arm2": {
+			"Class_fore_arm2": { "x": 521, "y": -1088.5, "width": 130, "height": 205 }
+		},
+		"Class_fore_arm1": {
+			"Class_fore_arm1": { "x": 484.5, "y": -982, "width": 115, "height": 154 }
+		},
+		"Class_fore_coat": {
+			"Class_fore_coat": { "x": 385, "y": -851.5, "width": 218, "height": 111 }
+		},
+		"Eyes": {
+			"Eyes": { "x": 345, "y": -662.5, "width": 326, "height": 129 }
+		},
+		"F_Hair": {
+			"F_Hair": { "x": 371, "y": -528.5, "width": 564, "height": 551 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

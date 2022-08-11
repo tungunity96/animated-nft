@@ -1,0 +1,92 @@
+{ "skeleton": { "images": "/e/Work/OneDrive - Cloud/OneDrive - DoreAzure/Outside/ThaiAnh/Final Character/Image/Class_fore_arm2/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "M_assassin_fore_arm2", "bone": "root", "attachment": "M_assassin_fore_arm2" },
+	{ "name": "M_druid_fore_arm2", "bone": "root", "attachment": "M_druid_fore_arm2" },
+	{ "name": "M_engineer_fore_arm2", "bone": "root", "attachment": "M_engineer_fore_arm2" },
+	{ "name": "M_hunter_fore_arm2", "bone": "root", "attachment": "M_hunter_fore_arm2" },
+	{ "name": "M_knight_fore_arm2", "bone": "root", "attachment": "M_knight_fore_arm2" },
+	{ "name": "M_mage_fore_arm2", "bone": "root", "attachment": "M_mage_fore_arm2" },
+	{ "name": "M_monk_fore_arm2", "bone": "root", "attachment": "M_monk_fore_arm2" },
+	{ "name": "M_pirate_fore_arm2", "bone": "root", "attachment": "M_pirate_fore_arm2" },
+	{ "name": "M_priest_fore_arm2", "bone": "root", "attachment": "M_priest_fore_arm2" },
+	{ "name": "M_shaman_fore_arm2", "bone": "root", "attachment": "M_shaman_fore_arm2" },
+	{ "name": "FM_assassin_fore_arm2", "bone": "root", "attachment": "FM_assassin_fore_arm2" },
+	{ "name": "FM_druid_fore_arm2", "bone": "root", "attachment": "FM_druid_fore_arm2" },
+	{ "name": "FM_engineer_fore_arm2", "bone": "root", "attachment": "FM_engineer_fore_arm2" },
+	{ "name": "FM_hunter_fore_arm2", "bone": "root", "attachment": "FM_hunter_fore_arm2" },
+	{ "name": "FM_knight_fore_arm2", "bone": "root", "attachment": "FM_knight_fore_arm2" },
+	{ "name": "FM_mage_fore_arm2", "bone": "root", "attachment": "FM_mage_fore_arm2" },
+	{ "name": "FM_monk_fore_arm2", "bone": "root", "attachment": "FM_monk_fore_arm2" },
+	{ "name": "FM_pirate_fore_arm2", "bone": "root", "attachment": "FM_pirate_fore_arm2" },
+	{ "name": "FM_priest_fore_arm2", "bone": "root", "attachment": "FM_priest_fore_arm2" },
+	{ "name": "FM_shaman_fore_arm2", "bone": "root", "attachment": "FM_shaman_fore_arm2" }
+],
+"skins": {
+	"default": {
+		"M_assassin_fore_arm2": {
+			"M_assassin_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"M_druid_fore_arm2": {
+			"M_druid_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"M_engineer_fore_arm2": {
+			"M_engineer_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"M_hunter_fore_arm2": {
+			"M_hunter_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"M_knight_fore_arm2": {
+			"M_knight_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"M_mage_fore_arm2": {
+			"M_mage_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"M_monk_fore_arm2": {
+			"M_monk_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"M_pirate_fore_arm2": {
+			"M_pirate_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"M_priest_fore_arm2": {
+			"M_priest_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"M_shaman_fore_arm2": {
+			"M_shaman_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"FM_assassin_fore_arm2": {
+			"FM_assassin_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"FM_druid_fore_arm2": {
+			"FM_druid_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"FM_engineer_fore_arm2": {
+			"FM_engineer_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"FM_hunter_fore_arm2": {
+			"FM_hunter_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"FM_knight_fore_arm2": {
+			"FM_knight_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"FM_mage_fore_arm2": {
+			"FM_mage_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"FM_monk_fore_arm2": {
+			"FM_monk_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"FM_pirate_fore_arm2": {
+			"FM_pirate_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"FM_priest_fore_arm2": {
+			"FM_priest_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		},
+		"FM_shaman_fore_arm2": {
+			"FM_shaman_fore_arm2": { "x": 78.5, "y": -152.5, "width": 159, "height": 307 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

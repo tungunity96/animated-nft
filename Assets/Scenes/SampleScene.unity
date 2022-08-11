@@ -333,7 +333,7 @@ Transform:
   m_Father: {fileID: 831752709}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &472977148
+--- !u!1 &367359729
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -341,67 +341,66 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 472977149}
-  - component: {fileID: 472977153}
-  - component: {fileID: 472977152}
-  - component: {fileID: 472977151}
-  - component: {fileID: 472977150}
-  - component: {fileID: 472977154}
+  - component: {fileID: 367359730}
+  - component: {fileID: 367359735}
+  - component: {fileID: 367359734}
+  - component: {fileID: 367359733}
+  - component: {fileID: 367359732}
   m_Layer: 0
-  m_Name: TestFemale
+  m_Name: NewFemale
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
---- !u!4 &472977149
+--- !u!4 &367359730
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 472977148}
+  m_GameObject: {fileID: 367359729}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1587831452}
-  m_RootOrder: 5
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &472977150
+--- !u!114 &367359732
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 472977148}
+  m_GameObject: {fileID: 367359729}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bd8bffc52e841493490f1609c8d98659, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rootAtlas: {fileID: 11400000, guid: 48d4a7fd0909a4e2fae20f70dd259342, type: 2}
-  weaponAtlas: {fileID: 11400000, guid: 6ad950e82bf7d4f52ab018c8f2f48a61, type: 2}
-  classAtlas: {fileID: 11400000, guid: f54f577895bbb474e8b5f4056637f9c6, type: 2}
-  raceAtlas: {fileID: 11400000, guid: a896f365553714946a45f00a0ec0a3c5, type: 2}
-  classForeHandAtlas: {fileID: 11400000, guid: 48f758502a2de411790ada575451ec22, type: 2}
-  hairAtlas: {fileID: 11400000, guid: 6247afd7754934529b14e141b8549eb6, type: 2}
-  eyesAtlas: {fileID: 11400000, guid: 24b2cd716c78d4207bf38eb72cbd8c61, type: 2}
+  rootAtlas: {fileID: 11400000, guid: 59d02da586cb446209d45404b4d59835, type: 2}
+  weaponAtlas: {fileID: 11400000, guid: 96bc81565a6654201ab875b332ee91f0, type: 2}
+  classAtlas: {fileID: 11400000, guid: 48963ad281cb241c7a6b8d1c97eaf210, type: 2}
+  raceAtlas: {fileID: 11400000, guid: 6ee3b86a8ccd348bc913808ed9bf2bee, type: 2}
+  classForeHandAtlas: {fileID: 11400000, guid: 16b476de53ba7458a91d82e7094d164a, type: 2}
+  hairAtlas: {fileID: 11400000, guid: 8de2e1c569b354029b7acf025644642c, type: 2}
+  eyesAtlas: {fileID: 11400000, guid: 0ce0e7d9fbeb24b45b343a443d4d0d0d, type: 2}
   isFemale: 1
---- !u!114 &472977151
+--- !u!114 &367359733
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 472977148}
+  m_GameObject: {fileID: 367359729}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 5c0450e5018924624a70da538f10d391, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 12ec5837b09b04179a509b2c5dc3ed84, type: 2}
   initialSkinName: 
   initialFlipX: 0
   initialFlipY: 0
@@ -426,13 +425,13 @@ MonoBehaviour:
   _animationName: 
   loop: 1
   timeScale: 1
---- !u!23 &472977152
+--- !u!23 &367359734
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 472977148}
+  m_GameObject: {fileID: 367359729}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -446,7 +445,10 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 3c761172d86f446cc985a74d04b83723, type: 2}
+  - {fileID: 2100000, guid: adf56c830110c451a93f49bef7ae9639, type: 2}
+  - {fileID: 2100000, guid: c2db237a1922d4b999ed8a89c3cc76e4, type: 2}
+  - {fileID: 2100000, guid: 270957ab193c44e7a90ab82dc67b0f28, type: 2}
+  - {fileID: 2100000, guid: c2db237a1922d4b999ed8a89c3cc76e4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -464,35 +466,18 @@ MeshRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 626500541
-  m_SortingLayer: 2
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &472977153
+--- !u!33 &367359735
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 472977148}
+  m_GameObject: {fileID: 367359729}
   m_Mesh: {fileID: 0}
---- !u!114 &472977154
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 472977148}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: aa0164afff5644b31bbab97148356540, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  raceType: 0
-  classType: 0
-  elementalType: 0
-  hairName: 1
-  eyeName: 1
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -696,148 +681,6 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!1 &640097032
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 640097036}
-  - component: {fileID: 640097035}
-  - component: {fileID: 640097034}
-  - component: {fileID: 640097033}
-  - component: {fileID: 640097037}
-  m_Layer: 0
-  m_Name: New_Female
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &640097033
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 640097032}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: 5c0450e5018924624a70da538f10d391, type: 2}
-  initialSkinName: 
-  initialFlipX: 0
-  initialFlipY: 0
-  updateWhenInvisible: 3
-  separatorSlotNames: []
-  zSpacing: 0
-  useClipping: 1
-  immutableTriangles: 0
-  pmaVertexColors: 1
-  clearStateOnDisable: 0
-  tintBlack: 0
-  singleSubmesh: 0
-  fixDrawOrder: 0
-  addNormals: 0
-  calculateTangents: 0
-  maskInteraction: 0
-  maskMaterials:
-    materialsMaskDisabled: []
-    materialsInsideMask: []
-    materialsOutsideMask: []
-  disableRenderingOnOverride: 1
-  _animationName: 
-  loop: 1
-  timeScale: 1
---- !u!23 &640097034
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 640097032}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 2
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 3c761172d86f446cc985a74d04b83723, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 626500541
-  m_SortingLayer: 2
-  m_SortingOrder: 0
-  m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &640097035
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 640097032}
-  m_Mesh: {fileID: 0}
---- !u!4 &640097036
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 640097032}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -1}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 1587831452}
-  m_RootOrder: 2
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &640097037
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 640097032}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bd8bffc52e841493490f1609c8d98659, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rootAtlas: {fileID: 11400000, guid: 48d4a7fd0909a4e2fae20f70dd259342, type: 2}
-  weaponAtlas: {fileID: 11400000, guid: 6ad950e82bf7d4f52ab018c8f2f48a61, type: 2}
-  classAtlas: {fileID: 11400000, guid: f54f577895bbb474e8b5f4056637f9c6, type: 2}
-  raceAtlas: {fileID: 11400000, guid: a896f365553714946a45f00a0ec0a3c5, type: 2}
-  classForeHandAtlas: {fileID: 11400000, guid: 48f758502a2de411790ada575451ec22, type: 2}
-  hairAtlas: {fileID: 11400000, guid: 6247afd7754934529b14e141b8549eb6, type: 2}
-  eyesAtlas: {fileID: 11400000, guid: 24b2cd716c78d4207bf38eb72cbd8c61, type: 2}
-  isFemale: 1
 --- !u!1 &831752708
 GameObject:
   m_ObjectHideFlags: 0
@@ -1535,10 +1378,9 @@ Transform:
   m_Children:
   - {fileID: 1620948290}
   - {fileID: 945101504}
-  - {fileID: 640097036}
+  - {fileID: 367359730}
   - {fileID: 592246824}
-  - {fileID: 1886035901}
-  - {fileID: 472977149}
+  - {fileID: 1900967491}
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -6540,7 +6382,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!1 &1886035900
+--- !u!1 &1900967490
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -6548,67 +6390,47 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 1886035901}
-  - component: {fileID: 1886035905}
-  - component: {fileID: 1886035904}
-  - component: {fileID: 1886035903}
-  - component: {fileID: 1886035902}
-  - component: {fileID: 1886035906}
+  - component: {fileID: 1900967491}
+  - component: {fileID: 1900967494}
+  - component: {fileID: 1900967493}
+  - component: {fileID: 1900967492}
+  - component: {fileID: 1900967495}
+  - component: {fileID: 1900967496}
   m_Layer: 0
-  m_Name: TestMale
+  m_Name: TestFemale
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 0
---- !u!4 &1886035901
+--- !u!4 &1900967491
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1886035900}
+  m_GameObject: {fileID: 1900967490}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1587831452}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1886035902
+--- !u!114 &1900967492
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1886035900}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bd8bffc52e841493490f1609c8d98659, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  rootAtlas: {fileID: 11400000, guid: 962e08629074b47779e132c6bef293b4, type: 2}
-  weaponAtlas: {fileID: 11400000, guid: e6ac5742d09454d758a52efe1f711592, type: 2}
-  classAtlas: {fileID: 11400000, guid: bcd10ee74494e4ecebafb8eb0052f68f, type: 2}
-  raceAtlas: {fileID: 11400000, guid: 12e8a045cf7104ec289d40dadc7942ec, type: 2}
-  classForeHandAtlas: {fileID: 11400000, guid: cd48ce9c07ab1471ab5e4bd0bb28499b, type: 2}
-  hairAtlas: {fileID: 11400000, guid: 11241e7da60824ad78207692dc2969dc, type: 2}
-  eyesAtlas: {fileID: 11400000, guid: 033b6e8c68ff4430e9ac196b1da43785, type: 2}
-  isFemale: 0
---- !u!114 &1886035903
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1886035900}
+  m_GameObject: {fileID: 1900967490}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  skeletonDataAsset: {fileID: 11400000, guid: d6a71ba2403bb4a05a3c12fa3313457d, type: 2}
+  skeletonDataAsset: {fileID: 11400000, guid: 12ec5837b09b04179a509b2c5dc3ed84, type: 2}
   initialSkinName: 
   initialFlipX: 0
   initialFlipY: 0
@@ -6630,16 +6452,16 @@ MonoBehaviour:
     materialsInsideMask: []
     materialsOutsideMask: []
   disableRenderingOnOverride: 1
-  _animationName: Idle
+  _animationName: 
   loop: 1
   timeScale: 1
---- !u!23 &1886035904
+--- !u!23 &1900967493
 MeshRenderer:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1886035900}
+  m_GameObject: {fileID: 1900967490}
   m_Enabled: 1
   m_CastShadows: 1
   m_ReceiveShadows: 1
@@ -6653,18 +6475,23 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7fb8a708665504d128c6a848e78ad66c, type: 2}
-  - {fileID: 2100000, guid: a5f7a0406b57a4a0d96f0d9f3acc6044, type: 2}
-  - {fileID: 2100000, guid: 9f6ec127e620341ffb1d9a2fc181f0d1, type: 2}
-  - {fileID: 2100000, guid: a5f7a0406b57a4a0d96f0d9f3acc6044, type: 2}
-  - {fileID: 2100000, guid: 9f6ec127e620341ffb1d9a2fc181f0d1, type: 2}
-  - {fileID: 2100000, guid: a5f7a0406b57a4a0d96f0d9f3acc6044, type: 2}
-  - {fileID: 2100000, guid: f5caacbe109c74838b66aebe6c2b9198, type: 2}
-  - {fileID: 2100000, guid: 9f6ec127e620341ffb1d9a2fc181f0d1, type: 2}
-  - {fileID: 2100000, guid: f24d1955e69f847dda22a6f702cd3821, type: 2}
-  - {fileID: 2100000, guid: a5f7a0406b57a4a0d96f0d9f3acc6044, type: 2}
-  - {fileID: 2100000, guid: d87746e75a3c34588a9381468da04155, type: 2}
-  - {fileID: 2100000, guid: 7fb8a708665504d128c6a848e78ad66c, type: 2}
+  - {fileID: 2100000, guid: bb028a44593f04c2db13adff0554364e, type: 2}
+  - {fileID: 2100000, guid: c2db237a1922d4b999ed8a89c3cc76e4, type: 2}
+  - {fileID: 2100000, guid: 1e4b66aab265447168c4e60ebdfb0b0d, type: 2}
+  - {fileID: 2100000, guid: a6942078e08784fda98f75641534ac8a, type: 2}
+  - {fileID: 2100000, guid: c2db237a1922d4b999ed8a89c3cc76e4, type: 2}
+  - {fileID: 2100000, guid: 1e4b66aab265447168c4e60ebdfb0b0d, type: 2}
+  - {fileID: 2100000, guid: a6942078e08784fda98f75641534ac8a, type: 2}
+  - {fileID: 2100000, guid: 1e4b66aab265447168c4e60ebdfb0b0d, type: 2}
+  - {fileID: 2100000, guid: c2db237a1922d4b999ed8a89c3cc76e4, type: 2}
+  - {fileID: 2100000, guid: 1e4b66aab265447168c4e60ebdfb0b0d, type: 2}
+  - {fileID: 2100000, guid: 391aa299879c34eff81df2adb0754d19, type: 2}
+  - {fileID: 2100000, guid: bb028a44593f04c2db13adff0554364e, type: 2}
+  - {fileID: 2100000, guid: 344a3ce2436174dd39bf718590f93094, type: 2}
+  - {fileID: 2100000, guid: 1e4b66aab265447168c4e60ebdfb0b0d, type: 2}
+  - {fileID: 2100000, guid: 844a3cd5e9e0540fb96db4aef305e4b7, type: 2}
+  - {fileID: 2100000, guid: a6942078e08784fda98f75641534ac8a, type: 2}
+  - {fileID: 2100000, guid: bb028a44593f04c2db13adff0554364e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6686,28 +6513,48 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!33 &1886035905
+--- !u!33 &1900967494
 MeshFilter:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1886035900}
+  m_GameObject: {fileID: 1900967490}
   m_Mesh: {fileID: 0}
---- !u!114 &1886035906
+--- !u!114 &1900967495
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1886035900}
+  m_GameObject: {fileID: 1900967490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd8bffc52e841493490f1609c8d98659, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  rootAtlas: {fileID: 11400000, guid: 59d02da586cb446209d45404b4d59835, type: 2}
+  weaponAtlas: {fileID: 11400000, guid: 96bc81565a6654201ab875b332ee91f0, type: 2}
+  classAtlas: {fileID: 11400000, guid: 48963ad281cb241c7a6b8d1c97eaf210, type: 2}
+  raceAtlas: {fileID: 11400000, guid: 6ee3b86a8ccd348bc913808ed9bf2bee, type: 2}
+  classForeHandAtlas: {fileID: 11400000, guid: 16b476de53ba7458a91d82e7094d164a, type: 2}
+  hairAtlas: {fileID: 11400000, guid: 8de2e1c569b354029b7acf025644642c, type: 2}
+  eyesAtlas: {fileID: 11400000, guid: 0ce0e7d9fbeb24b45b343a443d4d0d0d, type: 2}
+  isFemale: 1
+--- !u!114 &1900967496
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1900967490}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: aa0164afff5644b31bbab97148356540, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   raceType: 0
-  classType: 0
+  classType: 1
   elementalType: 0
   hairName: 1
   eyeName: 1
@@ -11668,7 +11515,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1949355028}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a74c3b068457446579706e9e952707cc, type: 3}
   m_Name: 
@@ -11676,7 +11523,7 @@ MonoBehaviour:
   magicCircleSprite: {fileID: 592246825}
   character: {fileID: 1587831452}
   maleCharacterController: {fileID: 945101505}
-  femaleCharacterController: {fileID: 640097037}
+  femaleCharacterController: {fileID: 367359732}
   psAuraGround: {fileID: 1901283362}
   psMagicCircle: {fileID: 1620948292}
   raceBackgrounds:

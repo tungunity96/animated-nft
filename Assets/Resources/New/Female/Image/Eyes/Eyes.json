@@ -1,0 +1,68 @@
+{ "skeleton": { "images": "/e/Work/OneDrive - Cloud/OneDrive - DoreAzure/Outside/ThaiAnh/Final Character/Image/Eyes/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "M_Eyes_6", "bone": "root", "attachment": "M_Eyes_6" },
+	{ "name": "M_Eyes_5", "bone": "root", "attachment": "M_Eyes_5" },
+	{ "name": "M_Eyes_4", "bone": "root", "attachment": "M_Eyes_4" },
+	{ "name": "M_Eyes_3", "bone": "root", "attachment": "M_Eyes_3" },
+	{ "name": "M_Eyes_2", "bone": "root", "attachment": "M_Eyes_2" },
+	{ "name": "M_Eyes_1", "bone": "root", "attachment": "M_Eyes_1" },
+	{ "name": "FM_Eyes_8", "bone": "root", "attachment": "FM_Eyes_8" },
+	{ "name": "FM_Eyes_7", "bone": "root", "attachment": "FM_Eyes_7" },
+	{ "name": "FM_Eyes_6", "bone": "root", "attachment": "FM_Eyes_6" },
+	{ "name": "FM_Eyes_5", "bone": "root", "attachment": "FM_Eyes_5" },
+	{ "name": "FM_Eyes_4", "bone": "root", "attachment": "FM_Eyes_4" },
+	{ "name": "FM_Eyes_3", "bone": "root", "attachment": "FM_Eyes_3" },
+	{ "name": "FM_Eyes_2", "bone": "root", "attachment": "FM_Eyes_2" },
+	{ "name": "FM_Eyes_1", "bone": "root", "attachment": "FM_Eyes_1" }
+],
+"skins": {
+	"default": {
+		"M_Eyes_6": {
+			"M_Eyes_6": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"M_Eyes_5": {
+			"M_Eyes_5": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"M_Eyes_4": {
+			"M_Eyes_4": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"M_Eyes_3": {
+			"M_Eyes_3": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"M_Eyes_2": {
+			"M_Eyes_2": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"M_Eyes_1": {
+			"M_Eyes_1": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"FM_Eyes_8": {
+			"FM_Eyes_8": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"FM_Eyes_7": {
+			"FM_Eyes_7": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"FM_Eyes_6": {
+			"FM_Eyes_6": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"FM_Eyes_5": {
+			"FM_Eyes_5": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"FM_Eyes_4": {
+			"FM_Eyes_4": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"FM_Eyes_3": {
+			"FM_Eyes_3": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"FM_Eyes_2": {
+			"FM_Eyes_2": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		},
+		"FM_Eyes_1": {
+			"FM_Eyes_1": { "x": 166, "y": -67, "width": 334, "height": 136 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

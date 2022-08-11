@@ -1,0 +1,92 @@
+{ "skeleton": { "images": "/e/Work/OneDrive - Cloud/OneDrive - DoreAzure/Outside/ThaiAnh/Final Character/Image/Class_back_leg/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "M_assassin_back_leg", "bone": "root", "attachment": "M_assassin_back_leg" },
+	{ "name": "M_druid_back_leg", "bone": "root", "attachment": "M_druid_back_leg" },
+	{ "name": "M_engineer_back_leg", "bone": "root", "attachment": "M_engineer_back_leg" },
+	{ "name": "M_hunter_back_leg", "bone": "root", "attachment": "M_hunter_back_leg" },
+	{ "name": "M_knight_back_leg", "bone": "root", "attachment": "M_knight_back_leg" },
+	{ "name": "M_mage_back_leg", "bone": "root", "attachment": "M_mage_back_leg" },
+	{ "name": "M_monk_back_leg", "bone": "root", "attachment": "M_monk_back_leg" },
+	{ "name": "M_pirate_back_leg", "bone": "root", "attachment": "M_pirate_back_leg" },
+	{ "name": "M_priest_back_leg", "bone": "root", "attachment": "M_priest_back_leg" },
+	{ "name": "M_shaman_back_leg", "bone": "root", "attachment": "M_shaman_back_leg" },
+	{ "name": "FM_assassin_back_leg", "bone": "root", "attachment": "FM_assassin_back_leg" },
+	{ "name": "FM_druid_back_leg", "bone": "root", "attachment": "FM_druid_back_leg" },
+	{ "name": "FM_engineer_back_leg", "bone": "root", "attachment": "FM_engineer_back_leg" },
+	{ "name": "FM_hunter_back_leg", "bone": "root", "attachment": "FM_hunter_back_leg" },
+	{ "name": "FM_knight_Back_leg", "bone": "root", "attachment": "FM_knight_Back_leg" },
+	{ "name": "FM_mage_back_leg", "bone": "root", "attachment": "FM_mage_back_leg" },
+	{ "name": "FM_monk_back_leg", "bone": "root", "attachment": "FM_monk_back_leg" },
+	{ "name": "FM_pirate_back_leg", "bone": "root", "attachment": "FM_pirate_back_leg" },
+	{ "name": "FM_priest_back_leg", "bone": "root", "attachment": "FM_priest_back_leg" },
+	{ "name": "FM_shaman_back_leg", "bone": "root", "attachment": "FM_shaman_back_leg" }
+],
+"skins": {
+	"default": {
+		"M_assassin_back_leg": {
+			"M_assassin_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"M_druid_back_leg": {
+			"M_druid_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"M_engineer_back_leg": {
+			"M_engineer_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"M_hunter_back_leg": {
+			"M_hunter_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"M_knight_back_leg": {
+			"M_knight_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"M_mage_back_leg": {
+			"M_mage_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"M_monk_back_leg": {
+			"M_monk_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"M_pirate_back_leg": {
+			"M_pirate_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"M_priest_back_leg": {
+			"M_priest_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"M_shaman_back_leg": {
+			"M_shaman_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"FM_assassin_back_leg": {
+			"FM_assassin_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"FM_druid_back_leg": {
+			"FM_druid_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"FM_engineer_back_leg": {
+			"FM_engineer_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"FM_hunter_back_leg": {
+			"FM_hunter_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"FM_knight_Back_leg": {
+			"FM_knight_Back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"FM_mage_back_leg": {
+			"FM_mage_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"FM_monk_back_leg": {
+			"FM_monk_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"FM_pirate_back_leg": {
+			"FM_pirate_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"FM_priest_back_leg": {
+			"FM_priest_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		},
+		"FM_shaman_back_leg": {
+			"FM_shaman_back_leg": { "x": 118, "y": -276.5, "width": 238, "height": 555 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

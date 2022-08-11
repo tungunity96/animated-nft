@@ -1,0 +1,92 @@
+{ "skeleton": { "images": "/e/Work/OneDrive - Cloud/OneDrive - DoreAzure/Outside/ThaiAnh/Final Character/Image/Class_Body/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "M_assassin_Body", "bone": "root", "attachment": "M_assassin_Body" },
+	{ "name": "M_druid_Body", "bone": "root", "attachment": "M_druid_Body" },
+	{ "name": "M_engineer_Body", "bone": "root", "attachment": "M_engineer_Body" },
+	{ "name": "M_hunter_Body", "bone": "root", "attachment": "M_hunter_Body" },
+	{ "name": "M_knight_Body", "bone": "root", "attachment": "M_knight_Body" },
+	{ "name": "M_mage_Body", "bone": "root", "attachment": "M_mage_Body" },
+	{ "name": "M_monk_Body", "bone": "root", "attachment": "M_monk_Body" },
+	{ "name": "M_pirate_Body", "bone": "root", "attachment": "M_pirate_Body" },
+	{ "name": "M_priest_Body", "bone": "root", "attachment": "M_priest_Body" },
+	{ "name": "M_shaman_Body", "bone": "root", "attachment": "M_shaman_Body" },
+	{ "name": "FM_assassin_Body", "bone": "root", "attachment": "FM_assassin_Body" },
+	{ "name": "FM_druid_Body", "bone": "root", "attachment": "FM_druid_Body" },
+	{ "name": "FM_engineer_Body", "bone": "root", "attachment": "FM_engineer_Body" },
+	{ "name": "FM_hunter_Body", "bone": "root", "attachment": "FM_hunter_Body" },
+	{ "name": "FM_knight_Body", "bone": "root", "attachment": "FM_knight_Body" },
+	{ "name": "FM_mage_Body", "bone": "root", "attachment": "FM_mage_Body" },
+	{ "name": "FM_monk_Body", "bone": "root", "attachment": "FM_monk_Body" },
+	{ "name": "FM_pirate_Body", "bone": "root", "attachment": "FM_pirate_Body" },
+	{ "name": "FM_priest_Body", "bone": "root", "attachment": "FM_priest_Body" },
+	{ "name": "FM_shaman_Body", "bone": "root", "attachment": "FM_shaman_Body" }
+],
+"skins": {
+	"default": {
+		"M_assassin_Body": {
+			"M_assassin_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"M_druid_Body": {
+			"M_druid_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"M_engineer_Body": {
+			"M_engineer_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"M_hunter_Body": {
+			"M_hunter_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"M_knight_Body": {
+			"M_knight_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"M_mage_Body": {
+			"M_mage_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"M_monk_Body": {
+			"M_monk_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"M_pirate_Body": {
+			"M_pirate_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"M_priest_Body": {
+			"M_priest_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"M_shaman_Body": {
+			"M_shaman_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"FM_assassin_Body": {
+			"FM_assassin_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"FM_druid_Body": {
+			"FM_druid_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"FM_engineer_Body": {
+			"FM_engineer_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"FM_hunter_Body": {
+			"FM_hunter_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"FM_knight_Body": {
+			"FM_knight_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"FM_mage_Body": {
+			"FM_mage_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"FM_monk_Body": {
+			"FM_monk_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"FM_pirate_Body": {
+			"FM_pirate_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"FM_priest_Body": {
+			"FM_priest_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		},
+		"FM_shaman_Body": {
+			"FM_shaman_Body": { "x": 174.5, "y": -279, "width": 351, "height": 560 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

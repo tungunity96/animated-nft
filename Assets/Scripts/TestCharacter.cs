@@ -22,7 +22,7 @@ public class TestCharacter : MonoBehaviour
     {
         for (int classType = 0; classType < Enum.GetNames(typeof(ClassType)).Length; classType++)
         {
-            spineController.ChangeSkin(raceType, (ClassType)classType, eyeName, "6");
+            spineController.ChangeSkin(raceType, (ClassType)classType, eyeName, hairName);
             yield return spineController.PlayAnimation("Idle");
             yield return spineController.PlayAnimation("Idle");
             yield return spineController.PlayAnimation("Idle");

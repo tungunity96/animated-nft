@@ -1,0 +1,7 @@
+Multiple layers for the "default" skin have the same name:
+M_B_Hair_3
+Rename or use the [path:name] or [ignore] tag for these layers.
+---
+Multiple layers for the "default" skin have the same name:
+FM_B_Hair_1
+Rename or use the [path:name] or [ignore] tag for these layers.

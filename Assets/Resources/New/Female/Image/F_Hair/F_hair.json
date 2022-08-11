@@ -1,0 +1,84 @@
+{ "skeleton": { "images": "/e/Work/OneDrive - Cloud/OneDrive - DoreAzure/Outside/ThaiAnh/Final Character/Image/F_Hair/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "M_F_Hair_1", "bone": "root", "attachment": "M_F_Hair_1" },
+	{ "name": "M_F_Hair_2", "bone": "root", "attachment": "M_F_Hair_2" },
+	{ "name": "M_F_Hair_3", "bone": "root", "attachment": "M_F_Hair_3" },
+	{ "name": "M_F_Hair_4", "bone": "root", "attachment": "M_F_Hair_4" },
+	{ "name": "M_F_Hair_5", "bone": "root", "attachment": "M_F_Hair_5" },
+	{ "name": "M_F_Hair_6", "bone": "root", "attachment": "M_F_Hair_6" },
+	{ "name": "FM_F_Hair_1", "bone": "root", "attachment": "FM_F_Hair_1" },
+	{ "name": "FM_F_Hair_2", "bone": "root", "attachment": "FM_F_Hair_2" },
+	{ "name": "FM_F_Hair_3", "bone": "root", "attachment": "FM_F_Hair_3" },
+	{ "name": "FM_F_Hair_4", "bone": "root", "attachment": "FM_F_Hair_4" },
+	{ "name": "FM_F_Hair_5", "bone": "root", "attachment": "FM_F_Hair_5" },
+	{ "name": "FM_F_Hair_6", "bone": "root", "attachment": "FM_F_Hair_6" },
+	{ "name": "FM_F_Hair_7", "bone": "root", "attachment": "FM_F_Hair_7" },
+	{ "name": "FM_F_Hair_8", "bone": "root", "attachment": "FM_F_Hair_8" },
+	{ "name": "FM_F_Hair_9", "bone": "root", "attachment": "FM_F_Hair_9" },
+	{ "name": "FM_F_Hair_10", "bone": "root", "attachment": "FM_F_Hair_10" },
+	{ "name": "FM_F_Hair_11", "bone": "root", "attachment": "FM_F_Hair_11" },
+	{ "name": "FM_F_Hair_12", "bone": "root", "attachment": "FM_F_Hair_12" }
+],
+"skins": {
+	"default": {
+		"M_F_Hair_1": {
+			"M_F_Hair_1": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"M_F_Hair_2": {
+			"M_F_Hair_2": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"M_F_Hair_3": {
+			"M_F_Hair_3": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"M_F_Hair_4": {
+			"M_F_Hair_4": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"M_F_Hair_5": {
+			"M_F_Hair_5": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"M_F_Hair_6": {
+			"M_F_Hair_6": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_1": {
+			"FM_F_Hair_1": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_2": {
+			"FM_F_Hair_2": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_3": {
+			"FM_F_Hair_3": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_4": {
+			"FM_F_Hair_4": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_5": {
+			"FM_F_Hair_5": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_6": {
+			"FM_F_Hair_6": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_7": {
+			"FM_F_Hair_7": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_8": {
+			"FM_F_Hair_8": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_9": {
+			"FM_F_Hair_9": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_10": {
+			"FM_F_Hair_10": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_11": {
+			"FM_F_Hair_11": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		},
+		"FM_F_Hair_12": {
+			"FM_F_Hair_12": { "x": 365.5, "y": -362, "width": 733, "height": 726 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
