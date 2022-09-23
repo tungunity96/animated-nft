@@ -11,6 +11,7 @@ public enum AtlasType
     ClassForeHand,
     Eyes,
     Hair,
+    Mouth,
 }
 
 public enum WeaponType
@@ -23,7 +24,7 @@ public enum WeaponType
     dagger = 5,
     gun = 6,
     magicstaff = 7,
-    doubleaxe = 8,
+    crossbow = 8,
     scythe = 9
 }
 
@@ -61,6 +62,23 @@ public enum ElementalType
     metal = 4,
     dark = 5,
     light = 6
+}
+
+public enum AnimationName
+{
+    Die,
+    Idle1,
+    Idle2,
+    GetHit,
+    Walk,
+    HeavyMeleeAttack,
+    BowAttack,
+    CrossbowAttack,
+    GunAttack,
+    LightMeleeAttack,
+    WandAttack,
+    CastSkill1,
+    CastSkill2
 }
 
 [System.Serializable]

@@ -10,22 +10,36 @@ public class TestCharacter : MonoBehaviour
     public ElementalType elementalType;
     public string hairName;
     public string eyeName;
+    public string mouthName;
+    public AnimationName animationName;
+    public bool isTestAll;
     private void Start()
     {
         spineController = GetComponent<SpineController>();
-        // spineController.ChangeSkin(raceType, classType, eyeName, hairName);
-        // StartCoroutine(spineController.PlayAnimation("Idle", true));
-        StartCoroutine(test());
+        if (!IsValidTest()) return;
+        else if (isTestAll) StartCoroutine(TestAll());
+        else TestSingle();
     }
 
-    private IEnumerator test()
+    private bool IsValidTest()
+    {
+        return !String.IsNullOrEmpty(eyeName) && !String.IsNullOrEmpty(hairName) && !String.IsNullOrEmpty(mouthName);
+    }
+
+    private IEnumerator TestAll()
     {
         for (int classType = 0; classType < Enum.GetNames(typeof(ClassType)).Length; classType++)
         {
-            spineController.ChangeSkin(raceType, (ClassType)classType, eyeName, hairName);
-            yield return spineController.PlayAnimation("Idle");
-            yield return spineController.PlayAnimation("Idle");
-            yield return spineController.PlayAnimation("Idle");
+            spineController.ChangeSkin(raceType, (ClassType)classType, eyeName, hairName, mouthName);
+            yield return spineController.PlayAnimation(Helpers.GetAnimationName(animationName));
+            yield return spineController.PlayAnimation(Helpers.GetAnimationName(animationName));
+            yield return spineController.PlayAnimation(Helpers.GetAnimationName(animationName));
         }
+    }
+
+    private void TestSingle()
+    {
+        spineController.ChangeSkin(raceType, classType, eyeName, hairName, mouthName);
+        StartCoroutine(spineController.PlayAnimation(Helpers.GetAnimationName(animationName), true));
     }
 }

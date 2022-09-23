@@ -31,12 +31,6 @@ public class SpineController : MonoBehaviour
         skeletonData = skeleton.Data;
         animationState = skeletonAnimation.AnimationState;
         defaultSkin = skeletonData.DefaultSkin;
-
-        foreach (var attachment in defaultSkin.GetAttachments())
-        {
-            Debug.Log("slotIndex " + attachment.SlotIndex);
-            Debug.Log("attachment " + attachment.Name);
-        }
     }
 
     private Spine.AtlasRegion GetDefaultRegion()
@@ -50,13 +44,14 @@ public class SpineController : MonoBehaviour
         if (loop) yield return PlayAnimation(animName, loop);
     }
 
-    public void ChangeSkin(RaceType raceType, ClassType classType, string eyeName, string hairName)
+    public void ChangeSkin(RaceType raceType, ClassType classType, string eyeName, string hairName, string mouthName)
     {
         ChangeRaceRegion(raceType);
         ChangeClassRegion(classType);
-        ChangeClassForeHandRegion(classType);
+        // ChangeClassForeHandRegion(classType);
         ChangeEyesRegion(eyeName);
         ChangeHairRegion(hairName);
+        ChangeMouthRegion(mouthName);
         ChangeWeaponRegion((WeaponType)classType);
         UpdateSkeletonAnimation();
     }
@@ -82,17 +77,22 @@ public class SpineController : MonoBehaviour
         SetSlotRegion(AtlasType.Eyes, "Eyes", "Eyes/" + (isFemale ? "FM_" : "M_") + "Eyes_" + eyeName);
     }
 
+    public void ChangeMouthRegion(string mouthName)
+    {
+        SetSlotRegion(AtlasType.Race, "mouth", "mouth/Mouth_" + mouthName);
+    }
+
     public void ChangeClassRegion(ClassType classType)
     {
-        SetSlotRegion(AtlasType.Class, "Class_Body", "Class_Body/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_Body");
-        SetSlotRegion(AtlasType.Class, "Class_back_arm1", "Class_back_arm1/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_arm1");
-        SetSlotRegion(AtlasType.Class, "Class_back_arm2", "Class_back_arm2/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_arm2");
-        SetSlotRegion(AtlasType.Class, "Class_fore_arm1", "Class_fore_arm1/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_arm1");
-        SetSlotRegion(AtlasType.Class, "Class_fore_arm2", "Class_fore_arm2/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_arm2");
-        SetSlotRegion(AtlasType.Class, "Class_fore_coat", "Class_fore_coat/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_coat");
-        SetSlotRegion(AtlasType.Class, "Class_fore_leg", "Class_fore_leg/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_leg");
-        SetSlotRegion(AtlasType.Class, "Class_back_leg", "Class_back_leg/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_leg");
-        SetSlotRegion(AtlasType.Class, "Class_back_coat", "Class_back_coat/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_coat");
+        SetSlotRegion(AtlasType.Class, "Class_Body", "Class_Body/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_Body_1");
+        SetSlotRegion(AtlasType.Class, "Class_back_arm1", "Class_back_arm1/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_arm1_1");
+        SetSlotRegion(AtlasType.Class, "Class_back_arm2", "Class_back_arm2/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_arm2_1");
+        SetSlotRegion(AtlasType.Class, "Class_fore_arm1", "Class_fore_arm1/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_arm1_1");
+        SetSlotRegion(AtlasType.Class, "Class_fore_arm2", "Class_fore_arm2/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_arm2_1");
+        SetSlotRegion(AtlasType.Class, "Class_fore_coat", "Class_fore_coat/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_coat_1");
+        SetSlotRegion(AtlasType.Class, "Class_fore_leg", "Class_fore_leg/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_leg_1");
+        SetSlotRegion(AtlasType.Class, "Class_back_leg", "Class_back_leg/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_leg_1");
+        SetSlotRegion(AtlasType.Class, "Class_back_coat", "Class_back_coat/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_coat_1");
     }
 
     public void ChangeRaceRegion(RaceType raceType)

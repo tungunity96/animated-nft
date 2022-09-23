@@ -42,12 +42,12 @@ public class NFTRecorder : MonoBehaviour
         StartCoroutine(RecordNFTs());
     }
 
-    private void SetupCharacter(RaceType raceType, ClassType classType, int hair, int eye)
+    private void SetupCharacter(RaceType raceType, ClassType classType, int hair, int eye, int mouth)
     {
         spineController = isFemale ? femaleCharacterController : maleCharacterController;
         femaleCharacterController.gameObject.SetActive(isFemale);
         maleCharacterController.gameObject.SetActive(!isFemale);
-        spineController.ChangeSkin(raceType, classType, eye.ToString(), hair.ToString());
+        spineController.ChangeSkin(raceType, classType, eye.ToString(), hair.ToString(), mouth.ToString());
     }
 
     private void SetupParticles(ElementalType elementalType)
@@ -108,13 +108,13 @@ public class NFTRecorder : MonoBehaviour
         int hairNum = isFemale ? femaleHairNum : maleHairNum;
         int eyeNum = isFemale ? femaleEyeNum : maleEyeNum;
         int total = Enum.GetNames(typeof(RaceType)).Length * Enum.GetNames(typeof(ClassType)).Length * Enum.GetNames(typeof(ElementalType)).Length * hairNum * eyeNum;
-        GetPlayerPrefs();
+        // GetPlayerPrefs();
 
         for (int raceType = startRace; raceType < Enum.GetNames(typeof(RaceType)).Length; raceType++)
         {
             SetupBackgrounds((RaceType)raceType);
-            for (int classType = startClass; classType < Enum.GetNames(typeof(ClassType)).Length; classType++){
-                if((ClassType) classType == ClassType.knight) continue;
+            for (int classType = startClass; classType < Enum.GetNames(typeof(ClassType)).Length; classType++)
+            {
                 for (int elementalType = startElemental; elementalType < Enum.GetNames(typeof(ElementalType)).Length; elementalType++)
                 {
                     for (int hair = 0; hair < hairNum; hair++)
@@ -122,7 +122,8 @@ public class NFTRecorder : MonoBehaviour
                         {
                             isFinishSingle = false;
                             count++;
-                            SetupCharacter((RaceType)raceType, (ClassType)classType, hair + 1, eye + 1);
+                            //TODO: Change setup character
+                            SetupCharacter((RaceType)raceType, (ClassType)classType, hair + 1, eye + 1, 1);
                             Debug.Log("**** Start record " + Helpers.GetNFTName(isFemale, (RaceType)raceType, (ClassType)classType, (ElementalType)elementalType, hair, eye));
                             Debug.Log("**** " + count + "/" + total + " ****");
                             if (recordVideo && captureScreen)
@@ -152,7 +153,7 @@ public class NFTRecorder : MonoBehaviour
                             }
 #endif
                         }
-                    SavePlayerPrefs(raceType, classType, elementalType);
+                    // SavePlayerPrefs(raceType, classType, elementalType);
                 }
             }
         }
