@@ -1,0 +1,836 @@
+
+Root_Female.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blank
+  rotate: true
+  xy: 0, 0
+  size: 0, 0
+  orig: 0, 0
+  offset: 0, 0
+  index: -1
+Body/FM_Angel_Body
+  rotate: true
+  xy: 494, 1254
+  size: 178, 339
+  orig: 178, 339
+  offset: 0, 0
+  index: -1
+Class_Body/FM_assassin/FM_assassin_Body_1
+  rotate: true
+  xy: 958, 235
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_hunter/FM_hunter_Body_1
+  rotate: true
+  xy: 1436, 235
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_hunter/FM_hunter_Body_11
+  rotate: true
+  xy: 480, 79
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_priest/FM_priest_Body_2
+  rotate: true
+  xy: 2, 2
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_pirate/FM_pirate_back_arm1_1
+  rotate: true
+  xy: 1363, 1829
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_2
+  rotate: true
+  xy: 574, 1737
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_3
+  rotate: true
+  xy: 793, 1729
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_4
+  rotate: true
+  xy: 1012, 1728
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_5
+  rotate: true
+  xy: 1231, 1709
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_1
+  rotate: true
+  xy: 1055, 1552
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_priest/FM_priest_back_arm2_2
+  rotate: true
+  xy: 1298, 1532
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_priest/FM_priest_back_arm2_3
+  rotate: true
+  xy: 502, 1443
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_priest/FM_priest_back_arm2_4
+  rotate: true
+  xy: 745, 1434
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_priest/FM_priest_back_arm2_5
+  rotate: true
+  xy: 1701, 1434
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_1
+  rotate: true
+  xy: 756, 980
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_hunter/FM_hunter_back_leg_1
+  rotate: true
+  xy: 2, 879
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_priest/FM_priest_back_leg_2
+  rotate: true
+  xy: 1230, 853
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_priest/FM_priest_back_leg_3
+  rotate: true
+  xy: 476, 776
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_priest/FM_priest_back_leg_4
+  rotate: false
+  xy: 1704, 772
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_1
+  rotate: false
+  xy: 1868, 1728
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_monk/FM_monk_fore_arm1_1
+  rotate: false
+  xy: 1541, 1473
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_2
+  rotate: true
+  xy: 988, 1392
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_3
+  rotate: true
+  xy: 1204, 1372
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_4
+  rotate: true
+  xy: 1420, 1313
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_5
+  rotate: true
+  xy: 2, 1297
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_1
+  rotate: true
+  xy: 1450, 1689
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_mage/FM_mage_fore_arm2_1
+  rotate: true
+  xy: 1713, 1591
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_priest/FM_priest_fore_arm2_2
+  rotate: true
+  xy: 2, 1613
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_priest/FM_priest_fore_arm2_3
+  rotate: true
+  xy: 265, 1608
+  size: 135, 262
+  orig: 135, 264
+  offset: 0, 1
+  index: -1
+Class_fore_arm2/FM_priest/FM_priest_fore_arm2_4
+  rotate: true
+  xy: 529, 1600
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_priest/FM_priest_fore_arm2_5
+  rotate: true
+  xy: 792, 1591
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_1
+  rotate: false
+  xy: 218, 1269
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_hunter/FM_hunter_fore_coat_1
+  rotate: false
+  xy: 1636, 1246
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_2
+  rotate: false
+  xy: 835, 1204
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_3
+  rotate: false
+  xy: 1111, 1184
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_4
+  rotate: false
+  xy: 480, 1066
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_5
+  rotate: false
+  xy: 1387, 1057
+  size: 274, 187
+  orig: 276, 187
+  offset: 1, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_1
+  rotate: true
+  xy: 950, 616
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_hunter/FM_hunter_fore_leg_1
+  rotate: true
+  xy: 2, 539
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_priest/FM_priest_fore_leg_2
+  rotate: true
+  xy: 1428, 535
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_priest/FM_priest_fore_leg_3
+  rotate: true
+  xy: 480, 379
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_priest/FM_priest_fore_leg_4
+  rotate: true
+  xy: 2, 302
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_1
+  rotate: false
+  xy: 1582, 1826
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_close_1
+  rotate: false
+  xy: 2, 1750
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_close_3
+  rotate: false
+  xy: 288, 1745
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_1
+  rotate: true
+  xy: 2, 1949
+  size: 74, 224
+  orig: 74, 224
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_12
+  rotate: true
+  xy: 1358, 1949
+  size: 74, 224
+  orig: 74, 224
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_2
+  rotate: true
+  xy: 228, 1949
+  size: 74, 224
+  orig: 74, 224
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_4
+  rotate: true
+  xy: 454, 1949
+  size: 74, 224
+  orig: 74, 224
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_5
+  rotate: true
+  xy: 680, 1949
+  size: 74, 224
+  orig: 74, 224
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_6
+  rotate: true
+  xy: 906, 1949
+  size: 74, 224
+  orig: 74, 224
+  offset: 0, 0
+  index: -1
+ML_Hair/FM_ML_Hair_8
+  rotate: true
+  xy: 1132, 1949
+  size: 74, 224
+  orig: 74, 224
+  offset: 0, 0
+  index: -1
+MR_Hair/FM_MR_Hair_10
+  rotate: true
+  xy: 218, 1868
+  size: 79, 214
+  orig: 79, 214
+  offset: 0, 0
+  index: -1
+MR_Hair/FM_MR_Hair_4
+  rotate: true
+  xy: 1584, 1944
+  size: 79, 214
+  orig: 79, 214
+  offset: 0, 0
+  index: -1
+MR_Hair/FM_MR_Hair_7
+  rotate: true
+  xy: 1800, 1944
+  size: 79, 214
+  orig: 79, 214
+  offset: 0, 0
+  index: -1
+MR_Hair/FM_MR_Hair_8
+  rotate: true
+  xy: 2, 1868
+  size: 79, 214
+  orig: 79, 214
+  offset: 0, 0
+  index: -1
+back_arm1/FM_Angel_back_arm1
+  rotate: true
+  xy: 434, 1863
+  size: 84, 173
+  orig: 84, 173
+  offset: 0, 0
+  index: -1
+back_arm2/FM_Angel_back_arm2
+  rotate: true
+  xy: 1070, 1848
+  size: 99, 185
+  orig: 99, 185
+  offset: 0, 0
+  index: -1
+back_hand/FM_Angel_back_hand
+  rotate: false
+  xy: 801, 1849
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+back_leg/FM_Angel_back_leg
+  rotate: true
+  xy: 2, 1457
+  size: 149, 498
+  orig: 149, 498
+  offset: 0, 0
+  index: -1
+fore_arm1/FM_Angel_fore_arm1
+  rotate: true
+  xy: 901, 1849
+  size: 98, 167
+  orig: 98, 167
+  offset: 0, 0
+  index: -1
+fore_arm2/FM_Angel_fore_arm2
+  rotate: true
+  xy: 609, 1857
+  size: 90, 190
+  orig: 90, 190
+  offset: 0, 0
+  index: -1
+fore_hand/FM_Angel_fore_hand
+  rotate: true
+  xy: 1257, 1846
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+fore_leg/FM_Angel_fore_leg
+  rotate: true
+  xy: 2, 1083
+  size: 184, 476
+  orig: 184, 476
+  offset: 0, 0
+  index: -1
+
+Root_Female2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_Body/FM_priest/FM_priest_Body_3
+  rotate: true
+  xy: 1544, 902
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_priest/FM_priest_Body_4
+  rotate: true
+  xy: 1544, 602
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_priest/FM_priest_Body_5
+  rotate: true
+  xy: 1544, 302
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_mage/FM_mage_back_coat_1
+  rotate: false
+  xy: 1544, 1202
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Weapon/axe
+  rotate: false
+  xy: 2, 1037
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/bow
+  rotate: false
+  xy: 2, 279
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+back_body/FM_priest/FM_priest_back_Body_2
+  rotate: true
+  xy: 1544, 2
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+
+Root_Female3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/crossbow
+  rotate: false
+  xy: 2, 760
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/dagger
+  rotate: false
+  xy: 2, 2
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+
+Root_Female4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/gun
+  rotate: false
+  xy: 2, 760
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/magicstaff
+  rotate: false
+  xy: 2, 2
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+
+Root_Female5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Weapon/spear
+  rotate: false
+  xy: 2, 760
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+Weapon/sword
+  rotate: false
+  xy: 2, 2
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+
+Root_Female6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Hair/FM_B_Hair_1
+  rotate: true
+  xy: 2, 636
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_2
+  rotate: false
+  xy: 942, 330
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_3
+  rotate: true
+  xy: 2, 2
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+Weapon/wand
+  rotate: false
+  xy: 2, 1270
+  size: 1540, 756
+  orig: 1540, 756
+  offset: 0, 0
+  index: -1
+
+Root_Female7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Hair/FM_B_Hair_4
+  rotate: false
+  xy: 2, 636
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_5
+  rotate: true
+  xy: 2, 2
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_6
+  rotate: true
+  xy: 636, 942
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_7
+  rotate: false
+  xy: 942, 2
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+
+Root_Female8.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Hair/FM_B_Hair_10
+  rotate: true
+  xy: 636, 942
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_11
+  rotate: false
+  xy: 942, 2
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_8
+  rotate: false
+  xy: 2, 636
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+B_Hair/FM_B_Hair_9
+  rotate: true
+  xy: 2, 2
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+
+Root_Female9.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_Hair/FM_B_Hair_12
+  rotate: false
+  xy: 2, 904
+  size: 632, 938
+  orig: 632, 938
+  offset: 0, 0
+  index: -1
+Head/FM_Angel_Head
+  rotate: false
+  xy: 2, 194
+  size: 564, 708
+  orig: 564, 708
+  offset: 0, 0
+  index: -1
+mouth/Mouth_1
+  rotate: false
+  xy: 568, 194
+  size: 564, 708
+  orig: 564, 708
+  offset: 0, 0
+  index: -1
+mouth/Mouth_2
+  rotate: true
+  xy: 1134, 1278
+  size: 564, 708
+  orig: 564, 708
+  offset: 0, 0
+  index: -1
+mouth/Mouth_3
+  rotate: true
+  xy: 1134, 712
+  size: 564, 708
+  orig: 564, 708
+  offset: 0, 0
+  index: -1
+mouth/Mouth_hit_1
+  rotate: false
+  xy: 1134, 2
+  size: 564, 708
+  orig: 564, 708
+  offset: 0, 0
+  index: -1
+
+Root_Female10.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Hair/FM_F_Hair_1
+  rotate: false
+  xy: 712, 1240
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_2
+  rotate: false
+  xy: 1337, 1240
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_3
+  rotate: false
+  xy: 2, 674
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_4
+  rotate: false
+  xy: 627, 621
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_5
+  rotate: false
+  xy: 1252, 621
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_6
+  rotate: false
+  xy: 2, 55
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_7
+  rotate: false
+  xy: 627, 2
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_8
+  rotate: false
+  xy: 1252, 2
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+mouth/Mouth_hit_2
+  rotate: true
+  xy: 2, 1293
+  size: 564, 708
+  orig: 564, 708
+  offset: 0, 0
+  index: -1
+
+Root_Female11.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_Hair/FM_F_Hair_10
+  rotate: true
+  xy: 627, 621
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_11
+  rotate: true
+  xy: 2, 2
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_12
+  rotate: false
+  xy: 621, 2
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1
+F_Hair/FM_F_Hair_9
+  rotate: false
+  xy: 2, 627
+  size: 623, 617
+  orig: 623, 617
+  offset: 0, 0
+  index: -1

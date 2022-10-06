@@ -1,0 +1,1144 @@
+
+Class_Female.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_arm1/FM_assassin/FM_assassin_back_arm1_2
+  rotate: true
+  xy: 171, 1835
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_assassin/FM_assassin_back_arm1_4
+  rotate: true
+  xy: 390, 1835
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_assassin/FM_assassin_back_arm1_5
+  rotate: true
+  xy: 609, 1835
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_druid/FM_druid_back_arm1_1
+  rotate: true
+  xy: 828, 1835
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_engineer/FM_engineer_back_arm1_1
+  rotate: true
+  xy: 1047, 1835
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_1
+  rotate: true
+  xy: 1266, 1835
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_2
+  rotate: true
+  xy: 1485, 1835
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_3
+  rotate: true
+  xy: 1704, 1835
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_4
+  rotate: false
+  xy: 1923, 1736
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_5
+  rotate: true
+  xy: 2, 1715
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_6
+  rotate: true
+  xy: 221, 1715
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_mage/FM_mage_back_arm1_1
+  rotate: true
+  xy: 440, 1715
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_pirate/FM_pirate_back_arm1_1
+  rotate: true
+  xy: 659, 1715
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_1
+  rotate: true
+  xy: 878, 1715
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_1
+  rotate: true
+  xy: 791, 1284
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_2
+  rotate: true
+  xy: 1034, 1267
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_3
+  rotate: true
+  xy: 1277, 1267
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_4
+  rotate: true
+  xy: 1520, 1267
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_5
+  rotate: true
+  xy: 2, 1147
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_6
+  rotate: true
+  xy: 245, 1147
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_druid/FM_druid_back_arm2_1
+  rotate: true
+  xy: 488, 1147
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_engineer/FM_engineer_back_arm2_1
+  rotate: true
+  xy: 1763, 1147
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_hunter/FM_hunter_back_arm2_1
+  rotate: true
+  xy: 731, 1127
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_1
+  rotate: true
+  xy: 974, 1110
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_2
+  rotate: true
+  xy: 1217, 1110
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_3
+  rotate: true
+  xy: 1460, 1110
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_4
+  rotate: true
+  xy: 2, 990
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_5
+  rotate: true
+  xy: 245, 990
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_6
+  rotate: true
+  xy: 488, 990
+  size: 155, 241
+  orig: 157, 241
+  offset: 1, 0
+  index: -1
+Class_back_arm2/FM_mage/FM_mage_back_arm2_1
+  rotate: true
+  xy: 1703, 990
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_monk/FM_monk_back_arm2_1
+  rotate: true
+  xy: 731, 970
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_pirate/FM_pirate_back_arm2_1
+  rotate: true
+  xy: 974, 953
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_priest/FM_priest_back_arm2_1
+  rotate: true
+  xy: 1217, 953
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_shaman/FM_shaman_back_arm2_1
+  rotate: true
+  xy: 1460, 953
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_1
+  rotate: true
+  xy: 1570, 2
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_1
+  rotate: false
+  xy: 1886, 1520
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_2
+  rotate: false
+  xy: 1843, 1304
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_3
+  rotate: true
+  xy: 2, 830
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_4
+  rotate: true
+  xy: 218, 830
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_5
+  rotate: true
+  xy: 434, 830
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_druid/FM_druid_fore_arm1_1
+  rotate: true
+  xy: 1703, 830
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_engineer/FM_engineer_fore_arm1_1
+  rotate: true
+  xy: 650, 810
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_hunter/FM_hunter_fore_arm1_1
+  rotate: true
+  xy: 866, 793
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_1
+  rotate: true
+  xy: 1082, 793
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_2
+  rotate: true
+  xy: 1298, 793
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_3
+  rotate: false
+  xy: 1514, 737
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_4
+  rotate: true
+  xy: 2, 670
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_5
+  rotate: true
+  xy: 218, 670
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_6
+  rotate: true
+  xy: 434, 670
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_mage/FM_mage_fore_arm1_1
+  rotate: true
+  xy: 1674, 670
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_monk/FM_monk_fore_arm1_1
+  rotate: true
+  xy: 650, 650
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_pirate/FM_pirate_fore_arm1_1
+  rotate: true
+  xy: 866, 633
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_1
+  rotate: true
+  xy: 1082, 633
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_shaman/FM_shaman_fore_arm1_1
+  rotate: true
+  xy: 1298, 633
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_1
+  rotate: true
+  xy: 1097, 1698
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_2
+  rotate: true
+  xy: 1360, 1698
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_3
+  rotate: true
+  xy: 1623, 1698
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_4
+  rotate: true
+  xy: 2, 1578
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_5
+  rotate: true
+  xy: 265, 1578
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_6
+  rotate: true
+  xy: 528, 1578
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_druid/FM_druid_fore_arm2_1
+  rotate: true
+  xy: 791, 1578
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_engineer/FM_engineer_fore_arm2_1
+  rotate: true
+  xy: 1054, 1561
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_hunter/FM_hunter_fore_arm2_1
+  rotate: true
+  xy: 1317, 1561
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_1
+  rotate: true
+  xy: 1580, 1561
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_2
+  rotate: true
+  xy: 2, 1441
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_3
+  rotate: true
+  xy: 265, 1441
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_4
+  rotate: true
+  xy: 528, 1441
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_5
+  rotate: true
+  xy: 791, 1441
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_6
+  rotate: true
+  xy: 1054, 1424
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_mage/FM_mage_fore_arm2_1
+  rotate: true
+  xy: 1317, 1424
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_monk/FM_monk_fore_arm2_1
+  rotate: true
+  xy: 1580, 1424
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_pirate/FM_pirate_fore_arm2_1
+  rotate: true
+  xy: 2, 1304
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_priest/FM_priest_fore_arm2_1
+  rotate: true
+  xy: 265, 1304
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_shaman/FM_shaman_fore_arm2_1
+  rotate: true
+  xy: 528, 1304
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_1
+  rotate: false
+  xy: 1514, 482
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_2
+  rotate: false
+  xy: 466, 462
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_3
+  rotate: false
+  xy: 742, 445
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_5
+  rotate: false
+  xy: 1018, 445
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_6
+  rotate: true
+  xy: 1790, 394
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_druid/FM_druid_fore_coat_1
+  rotate: true
+  xy: 1294, 357
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_hunter/FM_hunter_fore_coat_1
+  rotate: false
+  xy: 2, 317
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_1
+  rotate: false
+  xy: 1482, 294
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_2
+  rotate: false
+  xy: 278, 274
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_3
+  rotate: false
+  xy: 554, 257
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_4
+  rotate: false
+  xy: 830, 257
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_5
+  rotate: false
+  xy: 1758, 206
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_6
+  rotate: true
+  xy: 1106, 169
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_mage/FM_mage_fore_coat_1
+  rotate: false
+  xy: 2, 129
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_monk/FM_monk_fore_coat_1
+  rotate: false
+  xy: 1294, 106
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_pirate/FM_pirate_fore_coat_1
+  rotate: false
+  xy: 278, 86
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_1
+  rotate: false
+  xy: 554, 69
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_shaman/FM_shaman_fore_coat_1
+  rotate: false
+  xy: 830, 69
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+back_body/FM_assassin/FM_assassin_back_Body_1
+  rotate: false
+  xy: 232, 505
+  size: 232, 163
+  orig: 298, 476
+  offset: 35, 98
+  index: -1
+back_body/FM_engineer/FM_engineer_back_Body_1
+  rotate: false
+  xy: 2, 508
+  size: 228, 160
+  orig: 298, 476
+  offset: 4, 89
+  index: -1
+fore_arm1/FM_Angel_fore_arm1
+  rotate: true
+  xy: 2, 1855
+  size: 98, 167
+  orig: 98, 167
+  offset: 0, 0
+  index: -1
+
+Class_Female2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_leg/FM_assassin/FM_assassin_back_leg_2
+  rotate: true
+  xy: 2, 1799
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_3
+  rotate: true
+  xy: 476, 1799
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_4
+  rotate: true
+  xy: 950, 1799
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_5
+  rotate: true
+  xy: 1424, 1799
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_6
+  rotate: true
+  xy: 2, 1595
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_druid/FM_druid_back_leg_1
+  rotate: true
+  xy: 476, 1595
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_engineer/FM_engineer_back_leg_1
+  rotate: true
+  xy: 950, 1595
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_hunter/FM_hunter_back_leg_1
+  rotate: true
+  xy: 1424, 1595
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_1
+  rotate: true
+  xy: 2, 1391
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_2
+  rotate: true
+  xy: 476, 1391
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_3
+  rotate: true
+  xy: 950, 1391
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_4
+  rotate: true
+  xy: 1424, 1391
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_5
+  rotate: true
+  xy: 2, 1187
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_6
+  rotate: true
+  xy: 476, 1187
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_mage/FM_mage_back_leg_1
+  rotate: true
+  xy: 950, 1187
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_monk/FM_monk_back_leg_1
+  rotate: true
+  xy: 1424, 1187
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_pirate/FM_pirate_back_leg_1
+  rotate: true
+  xy: 2, 983
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_priest/FM_priest_back_leg_1
+  rotate: true
+  xy: 476, 983
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_shaman/FM_shaman_back_leg_1
+  rotate: true
+  xy: 950, 983
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_1
+  rotate: true
+  xy: 1424, 950
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_2
+  rotate: true
+  xy: 2, 746
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_3
+  rotate: true
+  xy: 480, 746
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_4
+  rotate: true
+  xy: 958, 713
+  size: 235, 477
+  orig: 235, 479
+  offset: 0, 1
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_5
+  rotate: true
+  xy: 1437, 713
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_6
+  rotate: true
+  xy: 2, 509
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_druid/FM_druid_fore_leg_1
+  rotate: true
+  xy: 480, 509
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_engineer/FM_engineer_fore_leg_1
+  rotate: true
+  xy: 958, 476
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_hunter/FM_hunter_fore_leg_1
+  rotate: true
+  xy: 1436, 476
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_1
+  rotate: true
+  xy: 2, 272
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_2
+  rotate: true
+  xy: 480, 272
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_3
+  rotate: true
+  xy: 958, 239
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_4
+  rotate: true
+  xy: 1436, 239
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_5
+  rotate: true
+  xy: 2, 35
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_6
+  rotate: true
+  xy: 480, 35
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_mage/FM_mage_fore_leg_1
+  rotate: true
+  xy: 958, 2
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_monk/FM_monk_fore_leg_1
+  rotate: true
+  xy: 1436, 2
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+
+Class_Female3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_Body/FM_assassin/FM_assassin_Body_1
+  rotate: true
+  xy: 1436, 1604
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_assassin/FM_assassin_Body_2
+  rotate: true
+  xy: 2, 1367
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_assassin/FM_assassin_Body_3
+  rotate: true
+  xy: 480, 1367
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_assassin/FM_assassin_Body_4
+  rotate: true
+  xy: 958, 1367
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_assassin/FM_assassin_Body_5
+  rotate: true
+  xy: 1436, 1304
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_assassin/FM_assassin_Body_6
+  rotate: true
+  xy: 2, 1067
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_druid/FM_druid_Body_1
+  rotate: true
+  xy: 480, 1067
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_engineer/FM_engineer_Body_1
+  rotate: true
+  xy: 958, 1067
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_hunter/FM_hunter_Body_1
+  rotate: true
+  xy: 1436, 1004
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_1
+  rotate: true
+  xy: 2, 767
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_2
+  rotate: true
+  xy: 480, 767
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_3
+  rotate: true
+  xy: 958, 767
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_4
+  rotate: true
+  xy: 1436, 704
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_5
+  rotate: true
+  xy: 2, 467
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_6
+  rotate: true
+  xy: 480, 467
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_mage/FM_mage_Body_1
+  rotate: true
+  xy: 958, 467
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_monk/FM_monk_Body_1
+  rotate: true
+  xy: 1436, 404
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_pirate/FM_pirate_Body_1
+  rotate: true
+  xy: 2, 167
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_priest/FM_priest_Body_1
+  rotate: true
+  xy: 480, 167
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_shaman/FM_shaman_Body_1
+  rotate: true
+  xy: 958, 167
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_assassin/FM_assassin_back_coat_3
+  rotate: true
+  xy: 1436, 2
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_pirate/FM_pirate_fore_leg_1
+  rotate: true
+  xy: 2, 1667
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_priest/FM_priest_fore_leg_1
+  rotate: true
+  xy: 480, 1667
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_shaman/FM_shaman_fore_leg_1
+  rotate: true
+  xy: 958, 1667
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+
+Class_Female4.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_coat/FM_hunter/FM_hunter_back_coat_1
+  rotate: false
+  xy: 2, 404
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_knight/FM_knight_back_coat_4
+  rotate: false
+  xy: 404, 404
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_knight/FM_knight_back_coat_6
+  rotate: true
+  xy: 2, 2
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_mage/FM_mage_back_coat_1
+  rotate: false
+  xy: 806, 404
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_priest/FM_priest_back_coat_1
+  rotate: true
+  xy: 595, 2
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1

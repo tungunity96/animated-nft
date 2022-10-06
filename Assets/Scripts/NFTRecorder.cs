@@ -47,7 +47,7 @@ public class NFTRecorder : MonoBehaviour
         spineController = isFemale ? femaleCharacterController : maleCharacterController;
         femaleCharacterController.gameObject.SetActive(isFemale);
         maleCharacterController.gameObject.SetActive(!isFemale);
-        spineController.ChangeSkin(raceType, classType, eye.ToString(), hair.ToString(), mouth.ToString());
+        // spineController.ChangeSkin(raceType, classType, eye.ToString(), hair.ToString(), mouth.ToString());
     }
 
     private void SetupParticles(ElementalType elementalType)

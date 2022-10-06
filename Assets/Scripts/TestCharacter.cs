@@ -8,9 +8,10 @@ public class TestCharacter : MonoBehaviour
     public RaceType raceType;
     public ClassType classType;
     public ElementalType elementalType;
-    public string hairName;
-    public string eyeName;
-    public string mouthName;
+    public string hairName = "1";
+    public string eyeName = "1";
+    public string mouthName = "1";
+    public string clothesId = "1";
     public AnimationName animationName;
     public bool isTestAll;
     private void Start()
@@ -30,7 +31,7 @@ public class TestCharacter : MonoBehaviour
     {
         for (int classType = 0; classType < Enum.GetNames(typeof(ClassType)).Length; classType++)
         {
-            spineController.ChangeSkin(raceType, (ClassType)classType, eyeName, hairName, mouthName);
+            spineController.ChangeSkin(raceType, (ClassType)classType, clothesId, eyeName, hairName, mouthName);
             yield return spineController.PlayAnimation(Helpers.GetAnimationName(animationName));
             yield return spineController.PlayAnimation(Helpers.GetAnimationName(animationName));
             yield return spineController.PlayAnimation(Helpers.GetAnimationName(animationName));
@@ -39,7 +40,7 @@ public class TestCharacter : MonoBehaviour
 
     private void TestSingle()
     {
-        spineController.ChangeSkin(raceType, classType, eyeName, hairName, mouthName);
+        spineController.ChangeSkin(raceType, classType, clothesId, eyeName, hairName, mouthName);
         StartCoroutine(spineController.PlayAnimation(Helpers.GetAnimationName(animationName), true));
     }
 }
