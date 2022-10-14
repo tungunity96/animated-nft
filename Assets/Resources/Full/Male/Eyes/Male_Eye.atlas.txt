@@ -1,0 +1,83 @@
+
+Male_Eye.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyes/M_Eyes_1
+  rotate: true
+  xy: 2, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_10
+  rotate: true
+  xy: 830, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_11
+  rotate: true
+  xy: 968, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_2
+  rotate: false
+  xy: 2, 2
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_3
+  rotate: true
+  xy: 140, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_4
+  rotate: true
+  xy: 278, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_5
+  rotate: false
+  xy: 338, 2
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_6
+  rotate: true
+  xy: 416, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_7
+  rotate: true
+  xy: 554, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_8
+  rotate: false
+  xy: 674, 2
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1
+Eyes/M_Eyes_9
+  rotate: true
+  xy: 692, 140
+  size: 334, 136
+  orig: 334, 136
+  offset: 0, 0
+  index: -1

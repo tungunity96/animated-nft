@@ -1,0 +1,97 @@
+
+Female_Eye.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyes/FM_Eyes_1
+  rotate: false
+  xy: 2, 356
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_10
+  rotate: false
+  xy: 288, 2
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_11
+  rotate: false
+  xy: 574, 120
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_12
+  rotate: true
+  xy: 860, 188
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_13
+  rotate: false
+  xy: 574, 2
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_2
+  rotate: false
+  xy: 2, 238
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_3
+  rotate: false
+  xy: 288, 356
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_4
+  rotate: false
+  xy: 2, 120
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_5
+  rotate: false
+  xy: 288, 238
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_6
+  rotate: false
+  xy: 574, 356
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_7
+  rotate: false
+  xy: 2, 2
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_8
+  rotate: false
+  xy: 288, 120
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
+Eyes/FM_Eyes_9
+  rotate: false
+  xy: 574, 238
+  size: 284, 116
+  orig: 284, 116
+  offset: 0, 0
+  index: -1
