@@ -1,0 +1,3306 @@
+
+Male_Class.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_arm1/M_assassin/M_assassin_back_arm1_1
+  rotate: true
+  xy: 2, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_assassin/M_assassin_back_arm1_2
+  rotate: true
+  xy: 157, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_assassin/M_assassin_back_arm1_3
+  rotate: true
+  xy: 312, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_assassin/M_assassin_back_arm1_4
+  rotate: true
+  xy: 467, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_assassin/M_assassin_back_arm1_5
+  rotate: true
+  xy: 622, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_assassin/M_assassin_back_arm1_6
+  rotate: true
+  xy: 777, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_druid/M_druid_back_arm1_1
+  rotate: true
+  xy: 932, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_druid/M_druid_back_arm1_2
+  rotate: true
+  xy: 1087, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_druid/M_druid_back_arm1_3
+  rotate: true
+  xy: 1242, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_druid/M_druid_back_arm1_4
+  rotate: true
+  xy: 1397, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_druid/M_druid_back_arm1_5
+  rotate: true
+  xy: 1552, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_druid/M_druid_back_arm1_6
+  rotate: true
+  xy: 1707, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_engineer/M_engineer_back_arm1_1
+  rotate: true
+  xy: 1862, 1916
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_engineer/M_engineer_back_arm1_2
+  rotate: true
+  xy: 2, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_engineer/M_engineer_back_arm1_4
+  rotate: true
+  xy: 157, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_engineer/M_engineer_back_arm1_5
+  rotate: true
+  xy: 312, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_engineer/M_engineer_back_arm1_6
+  rotate: true
+  xy: 467, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_hunter/M_hunter_back_arm1_1
+  rotate: true
+  xy: 622, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_hunter/M_hunter_back_arm1_2
+  rotate: true
+  xy: 777, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_hunter/M_hunter_back_arm1_4
+  rotate: true
+  xy: 932, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_hunter/M_hunter_back_arm1_5
+  rotate: true
+  xy: 1087, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_knight/M_knight_back_arm1_1
+  rotate: true
+  xy: 1242, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_knight/M_knight_back_arm1_2
+  rotate: true
+  xy: 1397, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_knight/M_knight_back_arm1_3
+  rotate: true
+  xy: 1552, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_knight/M_knight_back_arm1_4
+  rotate: true
+  xy: 1707, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_knight/M_knight_back_arm1_5
+  rotate: true
+  xy: 1862, 1831
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_knight/M_knight_back_arm1_6
+  rotate: true
+  xy: 2, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_mage/M_mage_back_arm1_1
+  rotate: true
+  xy: 157, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_mage/M_mage_back_arm1_2
+  rotate: true
+  xy: 312, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_mage/M_mage_back_arm1_3
+  rotate: true
+  xy: 467, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_mage/M_mage_back_arm1_4
+  rotate: true
+  xy: 622, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_mage/M_mage_back_arm1_5
+  rotate: true
+  xy: 777, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_mage/M_mage_back_arm1_6
+  rotate: true
+  xy: 932, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_monk/M_monk_back_arm1_1
+  rotate: true
+  xy: 1087, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_monk/M_monk_back_arm1_5
+  rotate: true
+  xy: 1242, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_monk/M_monk_back_arm1_6
+  rotate: true
+  xy: 1397, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_pirate/M_pirate_back_arm1_1
+  rotate: true
+  xy: 1552, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_pirate/M_pirate_back_arm1_2
+  rotate: true
+  xy: 1707, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_pirate/M_pirate_back_arm1_3
+  rotate: true
+  xy: 1862, 1746
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_pirate/M_pirate_back_arm1_4
+  rotate: true
+  xy: 2, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_pirate/M_pirate_back_arm1_5
+  rotate: true
+  xy: 157, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_pirate/M_pirate_back_arm1_6
+  rotate: true
+  xy: 312, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_priest/M_priest_back_arm1_1
+  rotate: true
+  xy: 467, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_priest/M_priest_back_arm1_2
+  rotate: true
+  xy: 622, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_priest/M_priest_back_arm1_3
+  rotate: true
+  xy: 777, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_priest/M_priest_back_arm1_4
+  rotate: true
+  xy: 932, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_priest/M_priest_back_arm1_5
+  rotate: true
+  xy: 1087, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_priest/M_priest_back_arm1_6
+  rotate: true
+  xy: 1242, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_shaman/M_shaman_back_arm1_4
+  rotate: true
+  xy: 1397, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm1/M_shaman/M_shaman_back_arm1_6
+  rotate: true
+  xy: 1552, 1661
+  size: 83, 153
+  orig: 83, 153
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_assassin/M_assassin_back_arm2_1
+  rotate: true
+  xy: 560, 1065
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_assassin/M_assassin_back_arm2_2
+  rotate: true
+  xy: 732, 1065
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_assassin/M_assassin_back_arm2_3
+  rotate: true
+  xy: 904, 1065
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_assassin/M_assassin_back_arm2_4
+  rotate: true
+  xy: 1076, 1065
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_assassin/M_assassin_back_arm2_5
+  rotate: true
+  xy: 1248, 1065
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_assassin/M_assassin_back_arm2_6
+  rotate: true
+  xy: 1420, 1065
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_druid/M_druid_back_arm2_1
+  rotate: true
+  xy: 1592, 1053
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_druid/M_druid_back_arm2_2
+  rotate: true
+  xy: 1764, 1036
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_druid/M_druid_back_arm2_3
+  rotate: false
+  xy: 1936, 975
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_druid/M_druid_back_arm2_4
+  rotate: true
+  xy: 2, 967
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_druid/M_druid_back_arm2_5
+  rotate: true
+  xy: 174, 967
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_druid/M_druid_back_arm2_6
+  rotate: true
+  xy: 346, 966
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_engineer/M_engineer_back_arm2_1
+  rotate: true
+  xy: 518, 954
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_engineer/M_engineer_back_arm2_2
+  rotate: true
+  xy: 690, 954
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_engineer/M_engineer_back_arm2_3
+  rotate: true
+  xy: 862, 954
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_engineer/M_engineer_back_arm2_4
+  rotate: true
+  xy: 1034, 954
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_engineer/M_engineer_back_arm2_5
+  rotate: true
+  xy: 1206, 954
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_engineer/M_engineer_back_arm2_6
+  rotate: true
+  xy: 1378, 954
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_hunter/M_hunter_back_arm2_1
+  rotate: true
+  xy: 1550, 942
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_hunter/M_hunter_back_arm2_2
+  rotate: true
+  xy: 1722, 925
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_hunter/M_hunter_back_arm2_5
+  rotate: true
+  xy: 1550, 608
+  size: 110, 170
+  orig: 116, 170
+  offset: 3, 0
+  index: -1
+Class_back_arm2/M_hunter/M_hunter_back_arm2_6
+  rotate: true
+  xy: 2, 856
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_knight/M_knight_back_arm2_1
+  rotate: true
+  xy: 174, 856
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_knight/M_knight_back_arm2_2
+  rotate: true
+  xy: 346, 855
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_knight/M_knight_back_arm2_3
+  rotate: true
+  xy: 518, 843
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_knight/M_knight_back_arm2_4
+  rotate: true
+  xy: 690, 843
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_knight/M_knight_back_arm2_5
+  rotate: true
+  xy: 862, 843
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_knight/M_knight_back_arm2_6
+  rotate: true
+  xy: 690, 508
+  size: 111, 170
+  orig: 111, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_mage/M_mage_back_arm2_1
+  rotate: true
+  xy: 1034, 843
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_mage/M_mage_back_arm2_2
+  rotate: true
+  xy: 1206, 843
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_mage/M_mage_back_arm2_3
+  rotate: true
+  xy: 1378, 843
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_mage/M_mage_back_arm2_4
+  rotate: true
+  xy: 1550, 831
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_mage/M_mage_back_arm2_5
+  rotate: true
+  xy: 1722, 814
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_mage/M_mage_back_arm2_6
+  rotate: true
+  xy: 2, 745
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_monk/M_monk_back_arm2_1
+  rotate: true
+  xy: 174, 745
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_monk/M_monk_back_arm2_2
+  rotate: true
+  xy: 346, 744
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_monk/M_monk_back_arm2_3
+  rotate: true
+  xy: 518, 732
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_monk/M_monk_back_arm2_4
+  rotate: true
+  xy: 690, 732
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_monk/M_monk_back_arm2_5
+  rotate: true
+  xy: 1722, 591
+  size: 110, 170
+  orig: 110, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_monk/M_monk_back_arm2_6
+  rotate: true
+  xy: 2, 522
+  size: 110, 170
+  orig: 110, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_pirate/M_pirate_back_arm2_1
+  rotate: true
+  xy: 862, 732
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_pirate/M_pirate_back_arm2_2
+  rotate: true
+  xy: 174, 522
+  size: 110, 170
+  orig: 110, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_pirate/M_pirate_back_arm2_3
+  rotate: true
+  xy: 346, 521
+  size: 110, 170
+  orig: 110, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_pirate/M_pirate_back_arm2_4
+  rotate: true
+  xy: 1034, 732
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_pirate/M_pirate_back_arm2_5
+  rotate: true
+  xy: 1206, 732
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_pirate/M_pirate_back_arm2_6
+  rotate: true
+  xy: 1378, 732
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_priest/M_priest_back_arm2_1
+  rotate: true
+  xy: 1550, 720
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_priest/M_priest_back_arm2_2
+  rotate: true
+  xy: 1722, 703
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_priest/M_priest_back_arm2_3
+  rotate: true
+  xy: 2, 634
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_priest/M_priest_back_arm2_4
+  rotate: true
+  xy: 174, 634
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_priest/M_priest_back_arm2_5
+  rotate: true
+  xy: 346, 633
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_priest/M_priest_back_arm2_6
+  rotate: true
+  xy: 518, 509
+  size: 110, 170
+  orig: 110, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_shaman/M_shaman_back_arm2_1
+  rotate: true
+  xy: 518, 621
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_shaman/M_shaman_back_arm2_2
+  rotate: true
+  xy: 690, 621
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_shaman/M_shaman_back_arm2_3
+  rotate: true
+  xy: 862, 621
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_shaman/M_shaman_back_arm2_4
+  rotate: true
+  xy: 1034, 621
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_shaman/M_shaman_back_arm2_5
+  rotate: true
+  xy: 1206, 621
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_back_arm2/M_shaman/M_shaman_back_arm2_6
+  rotate: true
+  xy: 1378, 621
+  size: 109, 170
+  orig: 109, 170
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_assassin/M_assassin_fore_arm1_1
+  rotate: true
+  xy: 1893, 1632
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_assassin/M_assassin_fore_arm1_2
+  rotate: true
+  xy: 1894, 861
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_assassin/M_assassin_fore_arm1_3
+  rotate: true
+  xy: 1894, 747
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_assassin/M_assassin_fore_arm1_4
+  rotate: true
+  xy: 1894, 633
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_assassin/M_assassin_fore_arm1_5
+  rotate: true
+  xy: 1894, 519
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_assassin/M_assassin_fore_arm1_6
+  rotate: true
+  xy: 862, 507
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_druid/M_druid_fore_arm1_1
+  rotate: true
+  xy: 1015, 507
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_druid/M_druid_fore_arm1_2
+  rotate: true
+  xy: 1168, 507
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_druid/M_druid_fore_arm1_3
+  rotate: true
+  xy: 1321, 507
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_druid/M_druid_fore_arm1_4
+  rotate: true
+  xy: 1474, 494
+  size: 112, 152
+  orig: 112, 154
+  offset: 0, 1
+  index: -1
+Class_fore_arm1/M_druid/M_druid_fore_arm1_5
+  rotate: true
+  xy: 1628, 477
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_druid/M_druid_fore_arm1_6
+  rotate: true
+  xy: 2, 408
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_engineer/M_engineer_fore_arm1_1
+  rotate: true
+  xy: 155, 408
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_engineer/M_engineer_fore_arm1_2
+  rotate: true
+  xy: 308, 407
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_engineer/M_engineer_fore_arm1_3
+  rotate: true
+  xy: 1781, 405
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_engineer/M_engineer_fore_arm1_4
+  rotate: true
+  xy: 461, 395
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_engineer/M_engineer_fore_arm1_5
+  rotate: true
+  xy: 614, 394
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_engineer/M_engineer_fore_arm1_6
+  rotate: true
+  xy: 767, 393
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_hunter/M_hunter_fore_arm1_1
+  rotate: true
+  xy: 920, 393
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_hunter/M_hunter_fore_arm1_2
+  rotate: true
+  xy: 1073, 393
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_hunter/M_hunter_fore_arm1_4
+  rotate: true
+  xy: 1226, 393
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_hunter/M_hunter_fore_arm1_5
+  rotate: true
+  xy: 1379, 380
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_hunter/M_hunter_fore_arm1_6
+  rotate: false
+  xy: 1934, 366
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_knight/M_knight_fore_arm1_1
+  rotate: true
+  xy: 1532, 363
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_knight/M_knight_fore_arm1_2
+  rotate: true
+  xy: 2, 294
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_knight/M_knight_fore_arm1_3
+  rotate: true
+  xy: 155, 294
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_knight/M_knight_fore_arm1_4
+  rotate: true
+  xy: 308, 293
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_knight/M_knight_fore_arm1_5
+  rotate: true
+  xy: 1685, 291
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_knight/M_knight_fore_arm1_6
+  rotate: true
+  xy: 461, 281
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_mage/M_mage_fore_arm1_1
+  rotate: true
+  xy: 614, 280
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_mage/M_mage_fore_arm1_2
+  rotate: true
+  xy: 767, 279
+  size: 112, 152
+  orig: 112, 152
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_mage/M_mage_fore_arm1_3
+  rotate: true
+  xy: 921, 279
+  size: 112, 152
+  orig: 112, 152
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_mage/M_mage_fore_arm1_4
+  rotate: true
+  xy: 1075, 279
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_mage/M_mage_fore_arm1_5
+  rotate: true
+  xy: 1228, 266
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_mage/M_mage_fore_arm1_6
+  rotate: true
+  xy: 1838, 252
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_monk/M_monk_fore_arm1_1
+  rotate: true
+  xy: 1381, 249
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_monk/M_monk_fore_arm1_5
+  rotate: true
+  xy: 2, 180
+  size: 112, 152
+  orig: 112, 152
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_monk/M_monk_fore_arm1_6
+  rotate: false
+  xy: 1534, 210
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_pirate/M_pirate_fore_arm1_1
+  rotate: true
+  xy: 156, 179
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_pirate/M_pirate_fore_arm1_2
+  rotate: true
+  xy: 1648, 177
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_pirate/M_pirate_fore_arm1_3
+  rotate: true
+  xy: 309, 167
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_pirate/M_pirate_fore_arm1_4
+  rotate: true
+  xy: 462, 166
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_pirate/M_pirate_fore_arm1_5
+  rotate: true
+  xy: 615, 165
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_pirate/M_pirate_fore_arm1_6
+  rotate: true
+  xy: 768, 165
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_priest/M_priest_fore_arm1_1
+  rotate: true
+  xy: 921, 165
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_priest/M_priest_fore_arm1_2
+  rotate: true
+  xy: 1074, 165
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_priest/M_priest_fore_arm1_3
+  rotate: true
+  xy: 1227, 152
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_priest/M_priest_fore_arm1_4
+  rotate: true
+  xy: 1801, 138
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_priest/M_priest_fore_arm1_5
+  rotate: true
+  xy: 1380, 135
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_priest/M_priest_fore_arm1_6
+  rotate: true
+  xy: 2, 66
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_shaman/M_shaman_fore_arm1_4
+  rotate: true
+  xy: 155, 65
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_shaman/M_shaman_fore_arm1_5
+  rotate: true
+  xy: 1533, 63
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/M_shaman/M_shaman_fore_arm1_6
+  rotate: true
+  xy: 308, 53
+  size: 112, 151
+  orig: 112, 151
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_assassin/M_assassin_fore_arm2_1
+  rotate: true
+  xy: 1707, 1649
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_assassin/M_assassin_fore_arm2_2
+  rotate: true
+  xy: 2, 1564
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_assassin/M_assassin_fore_arm2_3
+  rotate: true
+  xy: 188, 1564
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_assassin/M_assassin_fore_arm2_4
+  rotate: true
+  xy: 374, 1564
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_assassin/M_assassin_fore_arm2_5
+  rotate: true
+  xy: 560, 1564
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_assassin/M_assassin_fore_arm2_6
+  rotate: true
+  xy: 746, 1564
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_druid/M_druid_fore_arm2_1
+  rotate: true
+  xy: 932, 1564
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_druid/M_druid_fore_arm2_2
+  rotate: true
+  xy: 1118, 1564
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_druid/M_druid_fore_arm2_3
+  rotate: true
+  xy: 1304, 1564
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_druid/M_druid_fore_arm2_4
+  rotate: true
+  xy: 1490, 1564
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_druid/M_druid_fore_arm2_5
+  rotate: true
+  xy: 1676, 1552
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_druid/M_druid_fore_arm2_6
+  rotate: true
+  xy: 1862, 1535
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_engineer/M_engineer_fore_arm2_1
+  rotate: true
+  xy: 2, 1467
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_engineer/M_engineer_fore_arm2_2
+  rotate: true
+  xy: 188, 1467
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_engineer/M_engineer_fore_arm2_3
+  rotate: true
+  xy: 374, 1467
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_engineer/M_engineer_fore_arm2_4
+  rotate: true
+  xy: 560, 1467
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_engineer/M_engineer_fore_arm2_5
+  rotate: true
+  xy: 746, 1467
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_engineer/M_engineer_fore_arm2_6
+  rotate: true
+  xy: 932, 1467
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_hunter/M_hunter_fore_arm2_1
+  rotate: true
+  xy: 1118, 1467
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_hunter/M_hunter_fore_arm2_2
+  rotate: true
+  xy: 1304, 1467
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_hunter/M_hunter_fore_arm2_4
+  rotate: true
+  xy: 1490, 1467
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_hunter/M_hunter_fore_arm2_5
+  rotate: true
+  xy: 1676, 1455
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_hunter/M_hunter_fore_arm2_6
+  rotate: true
+  xy: 1862, 1438
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_knight/M_knight_fore_arm2_1
+  rotate: true
+  xy: 2, 1370
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_knight/M_knight_fore_arm2_2
+  rotate: true
+  xy: 188, 1370
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_knight/M_knight_fore_arm2_3
+  rotate: true
+  xy: 374, 1370
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_knight/M_knight_fore_arm2_4
+  rotate: true
+  xy: 560, 1370
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_knight/M_knight_fore_arm2_5
+  rotate: true
+  xy: 746, 1370
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_knight/M_knight_fore_arm2_6
+  rotate: true
+  xy: 932, 1370
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_mage/M_mage_fore_arm2_1
+  rotate: true
+  xy: 1118, 1370
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_mage/M_mage_fore_arm2_2
+  rotate: true
+  xy: 1304, 1370
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_mage/M_mage_fore_arm2_3
+  rotate: true
+  xy: 1490, 1370
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_mage/M_mage_fore_arm2_4
+  rotate: true
+  xy: 1676, 1358
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_mage/M_mage_fore_arm2_5
+  rotate: true
+  xy: 1862, 1341
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_mage/M_mage_fore_arm2_6
+  rotate: true
+  xy: 2, 1273
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_monk/M_monk_fore_arm2_1
+  rotate: true
+  xy: 188, 1273
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_monk/M_monk_fore_arm2_2
+  rotate: true
+  xy: 374, 1273
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_monk/M_monk_fore_arm2_3
+  rotate: true
+  xy: 560, 1273
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_monk/M_monk_fore_arm2_4
+  rotate: true
+  xy: 746, 1273
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_monk/M_monk_fore_arm2_5
+  rotate: true
+  xy: 932, 1273
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_monk/M_monk_fore_arm2_6
+  rotate: true
+  xy: 1118, 1273
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_pirate/M_pirate_fore_arm2_1
+  rotate: true
+  xy: 1304, 1273
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_pirate/M_pirate_fore_arm2_2
+  rotate: true
+  xy: 1490, 1273
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_pirate/M_pirate_fore_arm2_3
+  rotate: true
+  xy: 1676, 1261
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_pirate/M_pirate_fore_arm2_4
+  rotate: true
+  xy: 1862, 1244
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_pirate/M_pirate_fore_arm2_5
+  rotate: true
+  xy: 2, 1176
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_pirate/M_pirate_fore_arm2_6
+  rotate: true
+  xy: 188, 1176
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_priest/M_priest_fore_arm2_1
+  rotate: true
+  xy: 374, 1176
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_priest/M_priest_fore_arm2_2
+  rotate: true
+  xy: 2, 1078
+  size: 96, 184
+  orig: 97, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_priest/M_priest_fore_arm2_3
+  rotate: true
+  xy: 560, 1176
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_priest/M_priest_fore_arm2_4
+  rotate: true
+  xy: 746, 1176
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_priest/M_priest_fore_arm2_5
+  rotate: true
+  xy: 188, 1078
+  size: 96, 184
+  orig: 97, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_priest/M_priest_fore_arm2_6
+  rotate: true
+  xy: 932, 1176
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_shaman/M_shaman_fore_arm2_1
+  rotate: true
+  xy: 1118, 1176
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_shaman/M_shaman_fore_arm2_2
+  rotate: true
+  xy: 1304, 1176
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_shaman/M_shaman_fore_arm2_3
+  rotate: true
+  xy: 1490, 1176
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_shaman/M_shaman_fore_arm2_4
+  rotate: true
+  xy: 374, 1077
+  size: 97, 184
+  orig: 99, 184
+  offset: 1, 0
+  index: -1
+Class_fore_arm2/M_shaman/M_shaman_fore_arm2_5
+  rotate: true
+  xy: 1676, 1164
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/M_shaman/M_shaman_fore_arm2_6
+  rotate: true
+  xy: 1862, 1147
+  size: 95, 184
+  orig: 95, 184
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_assassin/M_assassin_fore_coat_1
+  rotate: false
+  xy: 461, 32
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_assassin/M_assassin_fore_coat_2
+  rotate: false
+  xy: 656, 32
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_assassin/M_assassin_fore_coat_3
+  rotate: false
+  xy: 851, 32
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_assassin/M_assassin_fore_coat_4
+  rotate: false
+  xy: 1046, 19
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_assassin/M_assassin_fore_coat_5
+  rotate: false
+  xy: 1686, 5
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_assassin/M_assassin_fore_coat_6
+  rotate: false
+  xy: 1241, 2
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+
+Male_Class2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_leg/M_assassin/M_assassin_back_leg_1
+  rotate: true
+  xy: 1562, 1307
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_assassin/M_assassin_back_leg_2
+  rotate: true
+  xy: 2, 1174
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_assassin/M_assassin_back_leg_3
+  rotate: true
+  xy: 337, 1174
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_assassin/M_assassin_back_leg_4
+  rotate: true
+  xy: 672, 1174
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_assassin/M_assassin_back_leg_5
+  rotate: true
+  xy: 1007, 1174
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_assassin/M_assassin_back_leg_6
+  rotate: true
+  xy: 1342, 1162
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_druid/M_druid_back_leg_1
+  rotate: true
+  xy: 1677, 1162
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_druid/M_druid_back_leg_2
+  rotate: true
+  xy: 2, 1029
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_druid/M_druid_back_leg_3
+  rotate: true
+  xy: 337, 1029
+  size: 143, 334
+  orig: 143, 344
+  offset: 0, 5
+  index: -1
+Class_back_leg/M_druid/M_druid_back_leg_4
+  rotate: true
+  xy: 673, 1029
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_druid/M_druid_back_leg_5
+  rotate: true
+  xy: 1008, 1017
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_druid/M_druid_back_leg_6
+  rotate: true
+  xy: 1343, 1017
+  size: 143, 334
+  orig: 143, 338
+  offset: 0, 2
+  index: -1
+Class_back_leg/M_engineer/M_engineer_back_leg_1
+  rotate: true
+  xy: 1679, 1017
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_engineer/M_engineer_back_leg_2
+  rotate: true
+  xy: 2, 884
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_engineer/M_engineer_back_leg_3
+  rotate: true
+  xy: 337, 884
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_engineer/M_engineer_back_leg_4
+  rotate: true
+  xy: 672, 884
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_engineer/M_engineer_back_leg_5
+  rotate: true
+  xy: 1007, 872
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_engineer/M_engineer_back_leg_6
+  rotate: true
+  xy: 1342, 872
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_hunter/M_hunter_back_leg_1
+  rotate: true
+  xy: 1677, 872
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_hunter/M_hunter_back_leg_2
+  rotate: true
+  xy: 2, 739
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_hunter/M_hunter_back_leg_3
+  rotate: true
+  xy: 337, 739
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_hunter/M_hunter_back_leg_4
+  rotate: true
+  xy: 672, 739
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_hunter/M_hunter_back_leg_5
+  rotate: true
+  xy: 1007, 727
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_hunter/M_hunter_back_leg_6
+  rotate: true
+  xy: 1342, 727
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_knight/M_knight_back_leg_1
+  rotate: true
+  xy: 1677, 727
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_knight/M_knight_back_leg_2
+  rotate: true
+  xy: 2, 594
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_knight/M_knight_back_leg_3
+  rotate: true
+  xy: 337, 594
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_knight/M_knight_back_leg_4
+  rotate: true
+  xy: 672, 594
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_knight/M_knight_back_leg_5
+  rotate: true
+  xy: 1007, 582
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_knight/M_knight_back_leg_6
+  rotate: true
+  xy: 1342, 582
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_mage/M_mage_back_leg_1
+  rotate: true
+  xy: 1677, 582
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_mage/M_mage_back_leg_2
+  rotate: true
+  xy: 2, 449
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_mage/M_mage_back_leg_3
+  rotate: true
+  xy: 337, 449
+  size: 143, 334
+  orig: 143, 336
+  offset: 0, 1
+  index: -1
+Class_back_leg/M_mage/M_mage_back_leg_4
+  rotate: true
+  xy: 673, 437
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_mage/M_mage_back_leg_5
+  rotate: true
+  xy: 1008, 437
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_mage/M_mage_back_leg_6
+  rotate: true
+  xy: 1343, 437
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_monk/M_monk_back_leg_1
+  rotate: true
+  xy: 1678, 437
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_monk/M_monk_back_leg_2
+  rotate: true
+  xy: 2, 304
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_monk/M_monk_back_leg_3
+  rotate: true
+  xy: 337, 304
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_monk/M_monk_back_leg_4
+  rotate: true
+  xy: 672, 292
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_monk/M_monk_back_leg_5
+  rotate: true
+  xy: 1007, 292
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_monk/M_monk_back_leg_6
+  rotate: true
+  xy: 1342, 292
+  size: 143, 334
+  orig: 143, 338
+  offset: 0, 2
+  index: -1
+Class_back_leg/M_pirate/M_pirate_back_leg_1
+  rotate: true
+  xy: 1678, 292
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_pirate/M_pirate_back_leg_2
+  rotate: true
+  xy: 2, 159
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_pirate/M_pirate_back_leg_3
+  rotate: true
+  xy: 337, 159
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_pirate/M_pirate_back_leg_4
+  rotate: true
+  xy: 672, 147
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_pirate/M_pirate_back_leg_6
+  rotate: true
+  xy: 1007, 147
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_priest/M_priest_back_leg_1
+  rotate: true
+  xy: 1342, 147
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_priest/M_priest_back_leg_2
+  rotate: true
+  xy: 1677, 147
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_priest/M_priest_back_leg_3
+  rotate: true
+  xy: 2, 14
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_priest/M_priest_back_leg_4
+  rotate: true
+  xy: 337, 14
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_priest/M_priest_back_leg_5
+  rotate: true
+  xy: 672, 2
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_priest/M_priest_back_leg_6
+  rotate: true
+  xy: 1007, 2
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_shaman/M_shaman_back_leg_1
+  rotate: true
+  xy: 1342, 2
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_shaman/M_shaman_back_leg_2
+  rotate: true
+  xy: 1677, 2
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_druid/M_druid_fore_coat_2
+  rotate: false
+  xy: 2, 1851
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_druid/M_druid_fore_coat_3
+  rotate: false
+  xy: 197, 1851
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_druid/M_druid_fore_coat_4
+  rotate: false
+  xy: 392, 1851
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_druid/M_druid_fore_coat_5
+  rotate: false
+  xy: 587, 1851
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_druid/M_druid_fore_coat_6
+  rotate: false
+  xy: 782, 1851
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_engineer/M_engineer_fore_coat_1
+  rotate: false
+  xy: 977, 1851
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_engineer/M_engineer_fore_coat_4
+  rotate: false
+  xy: 1172, 1851
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_engineer/M_engineer_fore_coat_5
+  rotate: false
+  xy: 1367, 1851
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_engineer/M_engineer_fore_coat_6
+  rotate: false
+  xy: 1562, 1851
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_hunter/M_hunter_fore_coat_1
+  rotate: false
+  xy: 1757, 1851
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_hunter/M_hunter_fore_coat_2
+  rotate: false
+  xy: 2, 1718
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_hunter/M_hunter_fore_coat_3
+  rotate: false
+  xy: 197, 1718
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_hunter/M_hunter_fore_coat_4
+  rotate: false
+  xy: 392, 1718
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_hunter/M_hunter_fore_coat_5
+  rotate: false
+  xy: 587, 1718
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_hunter/M_hunter_fore_coat_6
+  rotate: false
+  xy: 782, 1718
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_knight/M_knight_fore_coat_1
+  rotate: false
+  xy: 977, 1718
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_knight/M_knight_fore_coat_2
+  rotate: false
+  xy: 1172, 1718
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_knight/M_knight_fore_coat_3
+  rotate: false
+  xy: 1367, 1718
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_knight/M_knight_fore_coat_4
+  rotate: false
+  xy: 1562, 1718
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_knight/M_knight_fore_coat_5
+  rotate: false
+  xy: 1757, 1718
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_knight/M_knight_fore_coat_6
+  rotate: false
+  xy: 2, 1585
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_mage/M_mage_fore_coat_1
+  rotate: false
+  xy: 197, 1585
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_mage/M_mage_fore_coat_2
+  rotate: false
+  xy: 392, 1585
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_mage/M_mage_fore_coat_3
+  rotate: false
+  xy: 587, 1585
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_mage/M_mage_fore_coat_4
+  rotate: false
+  xy: 782, 1585
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_mage/M_mage_fore_coat_5
+  rotate: false
+  xy: 977, 1585
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_mage/M_mage_fore_coat_6
+  rotate: false
+  xy: 1172, 1585
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_monk/M_monk_fore_coat_1
+  rotate: false
+  xy: 1367, 1585
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_monk/M_monk_fore_coat_2
+  rotate: false
+  xy: 1562, 1585
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_monk/M_monk_fore_coat_3
+  rotate: false
+  xy: 1757, 1585
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_monk/M_monk_fore_coat_4
+  rotate: false
+  xy: 2, 1452
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_monk/M_monk_fore_coat_5
+  rotate: false
+  xy: 197, 1452
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_monk/M_monk_fore_coat_6
+  rotate: false
+  xy: 392, 1452
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_pirate/M_pirate_fore_coat_1
+  rotate: false
+  xy: 587, 1452
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_pirate/M_pirate_fore_coat_3
+  rotate: false
+  xy: 782, 1452
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_pirate/M_pirate_fore_coat_4
+  rotate: false
+  xy: 977, 1452
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_priest/M_priest_fore_coat_1
+  rotate: false
+  xy: 1172, 1452
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_priest/M_priest_fore_coat_2
+  rotate: false
+  xy: 1367, 1452
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_priest/M_priest_fore_coat_3
+  rotate: false
+  xy: 1562, 1452
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_priest/M_priest_fore_coat_4
+  rotate: false
+  xy: 1757, 1452
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_priest/M_priest_fore_coat_5
+  rotate: false
+  xy: 2, 1319
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_priest/M_priest_fore_coat_6
+  rotate: false
+  xy: 197, 1319
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_shaman/M_shaman_fore_coat_1
+  rotate: false
+  xy: 392, 1319
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_shaman/M_shaman_fore_coat_2
+  rotate: false
+  xy: 587, 1319
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_shaman/M_shaman_fore_coat_3
+  rotate: false
+  xy: 782, 1319
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_shaman/M_shaman_fore_coat_4
+  rotate: false
+  xy: 977, 1319
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_shaman/M_shaman_fore_coat_5
+  rotate: false
+  xy: 1172, 1319
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+Class_fore_coat/M_shaman/M_shaman_fore_coat_6
+  rotate: false
+  xy: 1367, 1319
+  size: 193, 131
+  orig: 193, 131
+  offset: 0, 0
+  index: -1
+
+Male_Class3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_Body/M_assassin/M_assassin_Body_1
+  rotate: false
+  xy: 597, 41
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_assassin/M_assassin_Body_2
+  rotate: true
+  xy: 1088, 361
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_assassin/M_assassin_Body_3
+  rotate: false
+  xy: 810, 40
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_assassin/M_assassin_Body_4
+  rotate: false
+  xy: 706, 717
+  size: 212, 336
+  orig: 214, 336
+  offset: 1, 0
+  index: -1
+Class_Body/M_assassin/M_assassin_Body_5
+  rotate: true
+  xy: 1426, 361
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_assassin/M_assassin_Body_6
+  rotate: true
+  xy: 1023, 148
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_druid/M_druid_Body_1
+  rotate: true
+  xy: 1361, 148
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_druid/M_druid_Body_2
+  rotate: false
+  xy: 1699, 23
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_druid/M_druid_Body_3
+  rotate: false
+  xy: 1410, 1706
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_druid/M_druid_Body_4
+  rotate: false
+  xy: 1410, 1368
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_druid/M_druid_Body_5
+  rotate: true
+  xy: 1410, 1155
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_druid/M_druid_Body_6
+  rotate: true
+  xy: 1410, 942
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_engineer/M_engineer_Body_1
+  rotate: true
+  xy: 1427, 729
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_engineer/M_engineer_Body_2
+  rotate: false
+  xy: 384, 297
+  size: 211, 337
+  orig: 211, 338
+  offset: 0, 1
+  index: -1
+Class_Body/M_engineer/M_engineer_Body_3
+  rotate: false
+  xy: 1764, 391
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_engineer/M_engineer_Body_4
+  rotate: false
+  xy: 1623, 1706
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_engineer/M_engineer_Body_5
+  rotate: true
+  xy: 1623, 1493
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_engineer/M_engineer_Body_6
+  rotate: false
+  xy: 1748, 1155
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_hunter/M_hunter_Body_1
+  rotate: false
+  xy: 1765, 817
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_pirate/M_pirate_Body_6
+  rotate: false
+  xy: 706, 379
+  size: 212, 336
+  orig: 216, 336
+  offset: 2, 0
+  index: -1
+Class_Body/M_priest/M_priest_Body_3
+  rotate: false
+  xy: 2, 92
+  size: 211, 337
+  orig: 211, 337
+  offset: 0, 0
+  index: -1
+Class_Body/M_priest/M_priest_Body_5
+  rotate: false
+  xy: 2, 431
+  size: 212, 337
+  orig: 212, 337
+  offset: 0, 0
+  index: -1
+Class_Body/M_shaman/M_shaman_Body_3
+  rotate: true
+  xy: 1088, 574
+  size: 211, 337
+  orig: 211, 337
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_assassin/M_assassin_back_coat_3
+  rotate: false
+  xy: 2, 1625
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_assassin/M_assassin_back_coat_4
+  rotate: true
+  xy: 2, 1340
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_assassin/M_assassin_back_coat_6
+  rotate: true
+  xy: 287, 1759
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_druid/M_druid_back_coat_1
+  rotate: false
+  xy: 421, 1340
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_engineer/M_engineer_back_coat_1
+  rotate: true
+  xy: 2, 1055
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_hunter/M_hunter_back_coat_1
+  rotate: true
+  xy: 421, 1055
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_knight/M_knight_back_coat_1
+  rotate: true
+  xy: 706, 1759
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_mage/M_mage_back_coat_1
+  rotate: true
+  xy: 706, 1474
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_mage/M_mage_back_coat_2
+  rotate: false
+  xy: 840, 1055
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_mage/M_mage_back_coat_3
+  rotate: false
+  xy: 1125, 1625
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_mage/M_mage_back_coat_5
+  rotate: false
+  xy: 1125, 1206
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_pirate/M_pirate_back_coat_1
+  rotate: false
+  xy: 1125, 787
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_priest/M_priest_back_coat_1
+  rotate: true
+  xy: 2, 770
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_coat/M_shaman/M_shaman_back_coat_1
+  rotate: false
+  xy: 421, 636
+  size: 283, 417
+  orig: 283, 417
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_pirate/M_pirate_back_leg_5
+  rotate: true
+  xy: 1023, 2
+  size: 144, 333
+  orig: 148, 333
+  offset: 2, 0
+  index: -1
+Class_back_leg/M_shaman/M_shaman_back_leg_3
+  rotate: true
+  xy: 1358, 3
+  size: 143, 334
+  orig: 143, 334
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_shaman/M_shaman_back_leg_4
+  rotate: true
+  xy: 1427, 584
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_assassin/M_assassin_fore_leg_1
+  rotate: false
+  xy: 920, 378
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_assassin/M_assassin_fore_leg_2
+  rotate: false
+  xy: 1836, 1706
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_assassin/M_assassin_fore_leg_4
+  rotate: false
+  xy: 216, 431
+  size: 166, 337
+  orig: 166, 338
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_hunter/M_hunter_fore_leg_2
+  rotate: false
+  xy: 920, 716
+  size: 166, 337
+  orig: 166, 337
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_pirate/M_pirate_fore_leg_2
+  rotate: false
+  xy: 215, 92
+  size: 166, 337
+  orig: 166, 344
+  offset: 0, 3
+  index: -1
+
+Male_Class4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_Body/M_hunter/M_hunter_Body_2
+  rotate: true
+  xy: 1016, 215
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_hunter/M_hunter_Body_3
+  rotate: true
+  xy: 1354, 215
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_hunter/M_hunter_Body_4
+  rotate: true
+  xy: 1692, 215
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_hunter/M_hunter_Body_5
+  rotate: true
+  xy: 2, 70
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_hunter/M_hunter_Body_6
+  rotate: true
+  xy: 340, 47
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_knight/M_knight_Body_1
+  rotate: true
+  xy: 678, 47
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_knight/M_knight_Body_2
+  rotate: true
+  xy: 1016, 2
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_knight/M_knight_Body_3
+  rotate: true
+  xy: 1354, 2
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_knight/M_knight_Body_4
+  rotate: true
+  xy: 1692, 2
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_shaman/M_shaman_back_leg_5
+  rotate: true
+  xy: 2, 1795
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_back_leg/M_shaman/M_shaman_back_leg_6
+  rotate: true
+  xy: 337, 1795
+  size: 143, 333
+  orig: 143, 333
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_assassin/M_assassin_fore_leg_3
+  rotate: true
+  xy: 672, 1772
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_assassin/M_assassin_fore_leg_5
+  rotate: true
+  xy: 1010, 1772
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_assassin/M_assassin_fore_leg_6
+  rotate: true
+  xy: 1348, 1772
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_druid/M_druid_fore_leg_1
+  rotate: true
+  xy: 1686, 1772
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_druid/M_druid_fore_leg_2
+  rotate: true
+  xy: 2, 1627
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_druid/M_druid_fore_leg_3
+  rotate: true
+  xy: 340, 1604
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_druid/M_druid_fore_leg_4
+  rotate: true
+  xy: 678, 1604
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_druid/M_druid_fore_leg_5
+  rotate: true
+  xy: 1016, 1604
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_druid/M_druid_fore_leg_6
+  rotate: true
+  xy: 1354, 1604
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_engineer/M_engineer_fore_leg_1
+  rotate: true
+  xy: 1692, 1604
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_engineer/M_engineer_fore_leg_2
+  rotate: true
+  xy: 2, 1459
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_engineer/M_engineer_fore_leg_3
+  rotate: true
+  xy: 340, 1436
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_engineer/M_engineer_fore_leg_4
+  rotate: true
+  xy: 678, 1436
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_engineer/M_engineer_fore_leg_5
+  rotate: true
+  xy: 1016, 1436
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_engineer/M_engineer_fore_leg_6
+  rotate: true
+  xy: 1354, 1436
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_hunter/M_hunter_fore_leg_1
+  rotate: true
+  xy: 1692, 1436
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_hunter/M_hunter_fore_leg_3
+  rotate: true
+  xy: 2, 1291
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_hunter/M_hunter_fore_leg_4
+  rotate: true
+  xy: 340, 1268
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_hunter/M_hunter_fore_leg_5
+  rotate: true
+  xy: 678, 1268
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_hunter/M_hunter_fore_leg_6
+  rotate: true
+  xy: 1016, 1268
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_knight/M_knight_fore_leg_1
+  rotate: true
+  xy: 1354, 1268
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_knight/M_knight_fore_leg_2
+  rotate: true
+  xy: 1692, 1268
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_knight/M_knight_fore_leg_3
+  rotate: true
+  xy: 2, 1123
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_knight/M_knight_fore_leg_4
+  rotate: true
+  xy: 340, 1100
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_knight/M_knight_fore_leg_5
+  rotate: true
+  xy: 678, 1100
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_knight/M_knight_fore_leg_6
+  rotate: true
+  xy: 1016, 1100
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_mage/M_mage_fore_leg_1
+  rotate: true
+  xy: 1354, 1100
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_mage/M_mage_fore_leg_2
+  rotate: true
+  xy: 1692, 1100
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_mage/M_mage_fore_leg_3
+  rotate: true
+  xy: 2, 955
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_mage/M_mage_fore_leg_4
+  rotate: true
+  xy: 340, 932
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_mage/M_mage_fore_leg_5
+  rotate: true
+  xy: 678, 932
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_mage/M_mage_fore_leg_6
+  rotate: true
+  xy: 1016, 932
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_monk/M_monk_fore_leg_1
+  rotate: true
+  xy: 1354, 932
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_monk/M_monk_fore_leg_2
+  rotate: true
+  xy: 1692, 932
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_monk/M_monk_fore_leg_3
+  rotate: true
+  xy: 2, 787
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_monk/M_monk_fore_leg_4
+  rotate: true
+  xy: 340, 764
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_monk/M_monk_fore_leg_5
+  rotate: true
+  xy: 678, 764
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_monk/M_monk_fore_leg_6
+  rotate: true
+  xy: 1016, 764
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_pirate/M_pirate_fore_leg_1
+  rotate: true
+  xy: 1354, 764
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_pirate/M_pirate_fore_leg_3
+  rotate: true
+  xy: 1692, 764
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_pirate/M_pirate_fore_leg_4
+  rotate: true
+  xy: 2, 619
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_pirate/M_pirate_fore_leg_5
+  rotate: true
+  xy: 340, 596
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_pirate/M_pirate_fore_leg_6
+  rotate: true
+  xy: 678, 596
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_priest/M_priest_fore_leg_1
+  rotate: true
+  xy: 1016, 596
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_priest/M_priest_fore_leg_2
+  rotate: true
+  xy: 1354, 596
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_priest/M_priest_fore_leg_3
+  rotate: true
+  xy: 1692, 596
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_priest/M_priest_fore_leg_4
+  rotate: true
+  xy: 2, 451
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_priest/M_priest_fore_leg_5
+  rotate: true
+  xy: 340, 428
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_priest/M_priest_fore_leg_6
+  rotate: true
+  xy: 678, 428
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_shaman/M_shaman_fore_leg_1
+  rotate: true
+  xy: 1016, 428
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_shaman/M_shaman_fore_leg_2
+  rotate: true
+  xy: 1354, 428
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_shaman/M_shaman_fore_leg_3
+  rotate: true
+  xy: 1692, 428
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_shaman/M_shaman_fore_leg_4
+  rotate: true
+  xy: 2, 283
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_shaman/M_shaman_fore_leg_5
+  rotate: true
+  xy: 340, 260
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+Class_fore_leg/M_shaman/M_shaman_fore_leg_6
+  rotate: true
+  xy: 678, 260
+  size: 166, 336
+  orig: 166, 336
+  offset: 0, 0
+  index: -1
+
+Male_Class5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_Body/M_knight/M_knight_Body_5
+  rotate: true
+  xy: 2, 854
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_knight/M_knight_Body_6
+  rotate: true
+  xy: 340, 854
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_mage/M_mage_Body_1
+  rotate: true
+  xy: 678, 854
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_mage/M_mage_Body_2
+  rotate: true
+  xy: 1016, 854
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_mage/M_mage_Body_3
+  rotate: true
+  xy: 1354, 854
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_mage/M_mage_Body_4
+  rotate: true
+  xy: 1692, 854
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_mage/M_mage_Body_5
+  rotate: true
+  xy: 2, 641
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_mage/M_mage_Body_6
+  rotate: true
+  xy: 340, 641
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_monk/M_monk_Body_1
+  rotate: true
+  xy: 678, 641
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_monk/M_monk_Body_2
+  rotate: true
+  xy: 1016, 641
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_monk/M_monk_Body_3
+  rotate: true
+  xy: 1354, 641
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_monk/M_monk_Body_4
+  rotate: true
+  xy: 1692, 641
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_monk/M_monk_Body_5
+  rotate: true
+  xy: 2, 428
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_monk/M_monk_Body_6
+  rotate: true
+  xy: 340, 428
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_pirate/M_pirate_Body_1
+  rotate: true
+  xy: 678, 428
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_pirate/M_pirate_Body_2
+  rotate: true
+  xy: 1016, 428
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_pirate/M_pirate_Body_3
+  rotate: true
+  xy: 1354, 428
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_pirate/M_pirate_Body_4
+  rotate: true
+  xy: 1692, 428
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_pirate/M_pirate_Body_5
+  rotate: true
+  xy: 2, 215
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_priest/M_priest_Body_1
+  rotate: true
+  xy: 340, 215
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_priest/M_priest_Body_2
+  rotate: true
+  xy: 678, 215
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_priest/M_priest_Body_4
+  rotate: true
+  xy: 1016, 215
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_priest/M_priest_Body_6
+  rotate: true
+  xy: 1354, 215
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_shaman/M_shaman_Body_1
+  rotate: true
+  xy: 1692, 215
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_shaman/M_shaman_Body_2
+  rotate: true
+  xy: 2, 2
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_shaman/M_shaman_Body_4
+  rotate: true
+  xy: 340, 2
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_shaman/M_shaman_Body_5
+  rotate: true
+  xy: 678, 2
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1
+Class_Body/M_shaman/M_shaman_Body_6
+  rotate: true
+  xy: 1016, 2
+  size: 211, 336
+  orig: 211, 336
+  offset: 0, 0
+  index: -1

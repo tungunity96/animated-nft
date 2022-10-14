@@ -1,0 +1,3238 @@
+
+Class_Female.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_arm1/FM_assassin/FM_assassin_back_arm1_2
+  rotate: true
+  xy: 171, 1892
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_assassin/FM_assassin_back_arm1_4
+  rotate: true
+  xy: 390, 1892
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_assassin/FM_assassin_back_arm1_5
+  rotate: true
+  xy: 609, 1892
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_druid/FM_druid_back_arm1_1
+  rotate: true
+  xy: 828, 1892
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_druid/FM_druid_back_arm1_3
+  rotate: true
+  xy: 1047, 1892
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_druid/FM_druid_back_arm1_4
+  rotate: true
+  xy: 1266, 1892
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_druid/FM_druid_back_arm1_5
+  rotate: true
+  xy: 1485, 1892
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_druid/FM_druid_back_arm1_6
+  rotate: true
+  xy: 1704, 1892
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_engineer/FM_engineer_back_arm1_1
+  rotate: false
+  xy: 1923, 1793
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_engineer/FM_engineer_back_arm1_4
+  rotate: true
+  xy: 2, 1772
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_engineer/FM_engineer_back_arm1_5
+  rotate: true
+  xy: 221, 1772
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_engineer/FM_engineer_back_arm1_6
+  rotate: true
+  xy: 440, 1772
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_hunter/FM_hunter_back_arm1_4
+  rotate: true
+  xy: 659, 1772
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_1
+  rotate: true
+  xy: 878, 1772
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_2
+  rotate: true
+  xy: 1097, 1772
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_3
+  rotate: true
+  xy: 1316, 1772
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_4
+  rotate: true
+  xy: 1535, 1772
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_5
+  rotate: true
+  xy: 2, 1652
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_knight/FM_knight_back_arm1_6
+  rotate: true
+  xy: 221, 1652
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_mage/FM_mage_back_arm1_1
+  rotate: true
+  xy: 440, 1652
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_mage/FM_mage_back_arm1_2
+  rotate: true
+  xy: 659, 1652
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_mage/FM_mage_back_arm1_3
+  rotate: true
+  xy: 878, 1652
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_mage/FM_mage_back_arm1_4
+  rotate: true
+  xy: 1097, 1652
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_mage/FM_mage_back_arm1_5
+  rotate: true
+  xy: 1316, 1652
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_mage/FM_mage_back_arm1_6
+  rotate: true
+  xy: 1535, 1652
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_monk/FM_monk_back_arm1_2
+  rotate: false
+  xy: 1914, 1574
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_monk/FM_monk_back_arm1_6
+  rotate: true
+  xy: 2, 1532
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_pirate/FM_pirate_back_arm1_1
+  rotate: true
+  xy: 221, 1532
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_pirate/FM_pirate_back_arm1_2
+  rotate: true
+  xy: 440, 1532
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_pirate/FM_pirate_back_arm1_3
+  rotate: true
+  xy: 659, 1532
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_pirate/FM_pirate_back_arm1_4
+  rotate: true
+  xy: 878, 1532
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_pirate/FM_pirate_back_arm1_5
+  rotate: true
+  xy: 1097, 1532
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_pirate/FM_pirate_back_arm1_6
+  rotate: true
+  xy: 1316, 1532
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_1
+  rotate: true
+  xy: 1535, 1532
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_2
+  rotate: true
+  xy: 2, 1412
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_3
+  rotate: true
+  xy: 221, 1412
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_4
+  rotate: true
+  xy: 440, 1412
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_5
+  rotate: true
+  xy: 659, 1412
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_priest/FM_priest_back_arm1_6
+  rotate: true
+  xy: 878, 1412
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_shaman/FM_shaman_back_arm1_2
+  rotate: true
+  xy: 1097, 1412
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_shaman/FM_shaman_back_arm1_3
+  rotate: true
+  xy: 1097, 1412
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_shaman/FM_shaman_back_arm1_4
+  rotate: true
+  xy: 1316, 1412
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm1/FM_shaman/FM_shaman_back_arm1_6
+  rotate: true
+  xy: 1535, 1412
+  size: 118, 217
+  orig: 118, 217
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_1
+  rotate: true
+  xy: 1318, 433
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_2
+  rotate: true
+  xy: 1317, 276
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_3
+  rotate: true
+  xy: 265, 159
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_4
+  rotate: true
+  xy: 508, 159
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_5
+  rotate: true
+  xy: 751, 159
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_assassin/FM_assassin_back_arm2_6
+  rotate: true
+  xy: 994, 159
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_druid/FM_druid_back_arm2_1
+  rotate: true
+  xy: 1237, 119
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_druid/FM_druid_back_arm2_2
+  rotate: true
+  xy: 1480, 69
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_druid/FM_druid_back_arm2_3
+  rotate: true
+  xy: 1723, 24
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_druid/FM_druid_back_arm2_4
+  rotate: true
+  xy: 2, 21
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_druid/FM_druid_back_arm2_5
+  rotate: true
+  xy: 245, 2
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_druid/FM_druid_back_arm2_6
+  rotate: true
+  xy: 488, 2
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_engineer/FM_engineer_back_arm2_1
+  rotate: true
+  xy: 731, 2
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_engineer/FM_engineer_back_arm2_2
+  rotate: true
+  xy: 974, 2
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_1
+  rotate: false
+  xy: 1754, 1676
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_2
+  rotate: false
+  xy: 1754, 1460
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_3
+  rotate: false
+  xy: 1580, 1196
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_4
+  rotate: false
+  xy: 1843, 970
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_assassin/FM_assassin_fore_arm1_5
+  rotate: false
+  xy: 1843, 754
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_druid/FM_druid_fore_arm1_1
+  rotate: false
+  xy: 1843, 538
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_druid/FM_druid_fore_arm1_3
+  rotate: true
+  xy: 1824, 341
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_druid/FM_druid_fore_arm1_4
+  rotate: true
+  xy: 1823, 181
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_1
+  rotate: true
+  xy: 1754, 1323
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_2
+  rotate: true
+  xy: 2, 1275
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_3
+  rotate: true
+  xy: 265, 1275
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_4
+  rotate: true
+  xy: 528, 1275
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_5
+  rotate: true
+  xy: 791, 1275
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_assassin/FM_assassin_fore_arm2_6
+  rotate: true
+  xy: 1054, 1275
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_druid/FM_druid_fore_arm2_1
+  rotate: true
+  xy: 1317, 1275
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_druid/FM_druid_fore_arm2_2
+  rotate: true
+  xy: 1740, 1186
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_druid/FM_druid_fore_arm2_3
+  rotate: true
+  xy: 2, 1138
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_druid/FM_druid_fore_arm2_4
+  rotate: true
+  xy: 265, 1138
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_druid/FM_druid_fore_arm2_5
+  rotate: true
+  xy: 528, 1138
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_druid/FM_druid_fore_arm2_6
+  rotate: true
+  xy: 1560, 226
+  size: 136, 261
+  orig: 136, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_engineer/FM_engineer_fore_arm2_1
+  rotate: true
+  xy: 791, 1138
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_engineer/FM_engineer_fore_arm2_2
+  rotate: true
+  xy: 1054, 1138
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_engineer/FM_engineer_fore_arm2_3
+  rotate: true
+  xy: 1317, 1138
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_engineer/FM_engineer_fore_arm2_4
+  rotate: true
+  xy: 1580, 1049
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_engineer/FM_engineer_fore_arm2_5
+  rotate: true
+  xy: 2, 1001
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_engineer/FM_engineer_fore_arm2_6
+  rotate: true
+  xy: 265, 1001
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_hunter/FM_hunter_fore_arm2_1
+  rotate: true
+  xy: 528, 1001
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_hunter/FM_hunter_fore_arm2_2
+  rotate: true
+  xy: 791, 1001
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_hunter/FM_hunter_fore_arm2_5
+  rotate: true
+  xy: 1054, 1001
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_hunter/FM_hunter_fore_arm2_6
+  rotate: true
+  xy: 1317, 1001
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_1
+  rotate: true
+  xy: 1580, 912
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_2
+  rotate: true
+  xy: 2, 864
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_3
+  rotate: true
+  xy: 265, 864
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_4
+  rotate: true
+  xy: 528, 864
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_5
+  rotate: true
+  xy: 791, 864
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_knight/FM_knight_fore_arm2_6
+  rotate: true
+  xy: 1054, 864
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_mage/FM_mage_fore_arm2_1
+  rotate: true
+  xy: 1317, 864
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_mage/FM_mage_fore_arm2_2
+  rotate: true
+  xy: 1580, 775
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_mage/FM_mage_fore_arm2_3
+  rotate: true
+  xy: 2, 727
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_mage/FM_mage_fore_arm2_4
+  rotate: true
+  xy: 265, 727
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_mage/FM_mage_fore_arm2_5
+  rotate: true
+  xy: 528, 727
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_monk/FM_monk_fore_arm2_1
+  rotate: true
+  xy: 791, 727
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_monk/FM_monk_fore_arm2_2
+  rotate: true
+  xy: 1054, 727
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_monk/FM_monk_fore_arm2_3
+  rotate: true
+  xy: 1317, 727
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_monk/FM_monk_fore_arm2_4
+  rotate: true
+  xy: 1580, 638
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_monk/FM_monk_fore_arm2_5
+  rotate: true
+  xy: 2, 590
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_monk/FM_monk_fore_arm2_6
+  rotate: true
+  xy: 265, 590
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_pirate/FM_pirate_fore_arm2_1
+  rotate: true
+  xy: 528, 590
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_pirate/FM_pirate_fore_arm2_2
+  rotate: true
+  xy: 791, 590
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_pirate/FM_pirate_fore_arm2_3
+  rotate: true
+  xy: 1054, 590
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_pirate/FM_pirate_fore_arm2_4
+  rotate: true
+  xy: 1317, 590
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_pirate/FM_pirate_fore_arm2_5
+  rotate: true
+  xy: 1580, 501
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_pirate/FM_pirate_fore_arm2_6
+  rotate: true
+  xy: 2, 453
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_priest/FM_priest_fore_arm2_1
+  rotate: true
+  xy: 265, 453
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_priest/FM_priest_fore_arm2_2
+  rotate: true
+  xy: 528, 453
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_priest/FM_priest_fore_arm2_3
+  rotate: true
+  xy: 791, 453
+  size: 135, 262
+  orig: 135, 264
+  offset: 0, 1
+  index: -1
+Class_fore_arm2/FM_priest/FM_priest_fore_arm2_4
+  rotate: true
+  xy: 1055, 453
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_priest/FM_priest_fore_arm2_5
+  rotate: true
+  xy: 1561, 364
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_shaman/FM_shaman_fore_arm2_1
+  rotate: true
+  xy: 2, 316
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_shaman/FM_shaman_fore_arm2_2
+  rotate: true
+  xy: 265, 316
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_shaman/FM_shaman_fore_arm2_3
+  rotate: true
+  xy: 528, 316
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_shaman/FM_shaman_fore_arm2_4
+  rotate: true
+  xy: 2, 178
+  size: 136, 261
+  orig: 140, 261
+  offset: 2, 0
+  index: -1
+Class_fore_arm2/FM_shaman/FM_shaman_fore_arm2_5
+  rotate: true
+  xy: 791, 316
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+Class_fore_arm2/FM_shaman/FM_shaman_fore_arm2_6
+  rotate: true
+  xy: 1054, 316
+  size: 135, 261
+  orig: 135, 261
+  offset: 0, 0
+  index: -1
+fore_arm1/FM_Angel_fore_arm1
+  rotate: true
+  xy: 2, 1912
+  size: 98, 167
+  orig: 98, 167
+  offset: 0, 0
+  index: -1
+
+Class_Female2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_arm2/FM_engineer/FM_engineer_back_arm2_3
+  rotate: true
+  xy: 2, 1808
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_engineer/FM_engineer_back_arm2_4
+  rotate: true
+  xy: 245, 1808
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_engineer/FM_engineer_back_arm2_5
+  rotate: true
+  xy: 488, 1808
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_engineer/FM_engineer_back_arm2_6
+  rotate: true
+  xy: 731, 1808
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_hunter/FM_hunter_back_arm2_1
+  rotate: true
+  xy: 974, 1808
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_hunter/FM_hunter_back_arm2_2
+  rotate: true
+  xy: 1217, 1808
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_hunter/FM_hunter_back_arm2_5
+  rotate: true
+  xy: 1460, 1808
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_hunter/FM_hunter_back_arm2_6
+  rotate: true
+  xy: 1703, 1808
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_1
+  rotate: true
+  xy: 2, 1651
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_2
+  rotate: true
+  xy: 245, 1651
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_3
+  rotate: true
+  xy: 488, 1651
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_4
+  rotate: true
+  xy: 731, 1651
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_5
+  rotate: true
+  xy: 974, 1651
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_knight/FM_knight_back_arm2_6
+  rotate: true
+  xy: 1217, 1651
+  size: 155, 241
+  orig: 157, 241
+  offset: 1, 0
+  index: -1
+Class_back_arm2/FM_mage/FM_mage_back_arm2_1
+  rotate: true
+  xy: 1460, 1651
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_mage/FM_mage_back_arm2_2
+  rotate: true
+  xy: 1703, 1651
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_mage/FM_mage_back_arm2_3
+  rotate: true
+  xy: 2, 1494
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_mage/FM_mage_back_arm2_4
+  rotate: true
+  xy: 245, 1494
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_mage/FM_mage_back_arm2_5
+  rotate: true
+  xy: 488, 1494
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_monk/FM_monk_back_arm2_1
+  rotate: true
+  xy: 731, 1494
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_monk/FM_monk_back_arm2_2
+  rotate: true
+  xy: 974, 1494
+  size: 155, 241
+  orig: 157, 241
+  offset: 1, 0
+  index: -1
+Class_back_arm2/FM_monk/FM_monk_back_arm2_3
+  rotate: true
+  xy: 1217, 1494
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_monk/FM_monk_back_arm2_4
+  rotate: true
+  xy: 1460, 1494
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_monk/FM_monk_back_arm2_5
+  rotate: true
+  xy: 1703, 1494
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_monk/FM_monk_back_arm2_6
+  rotate: true
+  xy: 2, 1337
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_pirate/FM_pirate_back_arm2_1
+  rotate: true
+  xy: 245, 1337
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_pirate/FM_pirate_back_arm2_2
+  rotate: true
+  xy: 488, 1337
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_pirate/FM_pirate_back_arm2_3
+  rotate: true
+  xy: 731, 1337
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_pirate/FM_pirate_back_arm2_4
+  rotate: true
+  xy: 974, 1337
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_pirate/FM_pirate_back_arm2_5
+  rotate: true
+  xy: 1217, 1337
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_pirate/FM_pirate_back_arm2_6
+  rotate: true
+  xy: 245, 1022
+  size: 156, 241
+  orig: 156, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_priest/FM_priest_back_arm2_1
+  rotate: true
+  xy: 1460, 1337
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_priest/FM_priest_back_arm2_2
+  rotate: true
+  xy: 1703, 1337
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_priest/FM_priest_back_arm2_3
+  rotate: true
+  xy: 2, 1180
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_priest/FM_priest_back_arm2_4
+  rotate: true
+  xy: 245, 1180
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_priest/FM_priest_back_arm2_5
+  rotate: true
+  xy: 488, 1180
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_shaman/FM_shaman_back_arm2_1
+  rotate: true
+  xy: 731, 1180
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_shaman/FM_shaman_back_arm2_2
+  rotate: true
+  xy: 974, 1180
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_shaman/FM_shaman_back_arm2_3
+  rotate: true
+  xy: 1217, 1180
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_shaman/FM_shaman_back_arm2_4
+  rotate: true
+  xy: 1460, 1180
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_shaman/FM_shaman_back_arm2_5
+  rotate: true
+  xy: 1703, 1180
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_back_arm2/FM_shaman/FM_shaman_back_arm2_6
+  rotate: true
+  xy: 2, 1023
+  size: 155, 241
+  orig: 155, 241
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_druid/FM_druid_fore_arm1_5
+  rotate: true
+  xy: 488, 1020
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_druid/FM_druid_fore_arm1_6
+  rotate: true
+  xy: 704, 1020
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_engineer/FM_engineer_fore_arm1_1
+  rotate: true
+  xy: 920, 1020
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_engineer/FM_engineer_fore_arm1_3
+  rotate: true
+  xy: 1136, 1020
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_engineer/FM_engineer_fore_arm1_4
+  rotate: true
+  xy: 1352, 1020
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_engineer/FM_engineer_fore_arm1_5
+  rotate: true
+  xy: 1568, 1020
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_engineer/FM_engineer_fore_arm1_6
+  rotate: true
+  xy: 1784, 1020
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_hunter/FM_hunter_fore_arm1_1
+  rotate: true
+  xy: 2, 863
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_hunter/FM_hunter_fore_arm1_4
+  rotate: true
+  xy: 218, 862
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_hunter/FM_hunter_fore_arm1_6
+  rotate: true
+  xy: 434, 860
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_1
+  rotate: true
+  xy: 650, 860
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_2
+  rotate: true
+  xy: 866, 860
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_3
+  rotate: true
+  xy: 1082, 860
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_4
+  rotate: true
+  xy: 1298, 860
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_5
+  rotate: true
+  xy: 1514, 860
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_knight/FM_knight_fore_arm1_6
+  rotate: true
+  xy: 1730, 860
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_mage/FM_mage_fore_arm1_1
+  rotate: true
+  xy: 2, 703
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_mage/FM_mage_fore_arm1_2
+  rotate: true
+  xy: 218, 702
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_mage/FM_mage_fore_arm1_3
+  rotate: true
+  xy: 434, 700
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_mage/FM_mage_fore_arm1_4
+  rotate: true
+  xy: 650, 700
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_mage/FM_mage_fore_arm1_5
+  rotate: true
+  xy: 866, 700
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_mage/FM_mage_fore_arm1_6
+  rotate: true
+  xy: 1082, 700
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_monk/FM_monk_fore_arm1_1
+  rotate: true
+  xy: 1298, 700
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_monk/FM_monk_fore_arm1_2
+  rotate: true
+  xy: 1514, 700
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_monk/FM_monk_fore_arm1_6
+  rotate: true
+  xy: 1730, 700
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_pirate/FM_pirate_fore_arm1_1
+  rotate: true
+  xy: 2, 543
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_pirate/FM_pirate_fore_arm1_2
+  rotate: true
+  xy: 218, 542
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_pirate/FM_pirate_fore_arm1_3
+  rotate: true
+  xy: 434, 540
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_pirate/FM_pirate_fore_arm1_4
+  rotate: true
+  xy: 650, 540
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_pirate/FM_pirate_fore_arm1_5
+  rotate: true
+  xy: 866, 540
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_pirate/FM_pirate_fore_arm1_6
+  rotate: true
+  xy: 1082, 540
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_1
+  rotate: true
+  xy: 1298, 540
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_2
+  rotate: true
+  xy: 1514, 540
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_3
+  rotate: true
+  xy: 1730, 540
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_4
+  rotate: true
+  xy: 2, 383
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_5
+  rotate: true
+  xy: 218, 382
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_priest/FM_priest_fore_arm1_6
+  rotate: true
+  xy: 434, 380
+  size: 158, 215
+  orig: 158, 218
+  offset: 0, 2
+  index: -1
+Class_fore_arm1/FM_shaman/FM_shaman_fore_arm1_1
+  rotate: true
+  xy: 651, 380
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_shaman/FM_shaman_fore_arm1_2
+  rotate: true
+  xy: 867, 380
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_shaman/FM_shaman_fore_arm1_3
+  rotate: true
+  xy: 867, 380
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_shaman/FM_shaman_fore_arm1_4
+  rotate: true
+  xy: 1083, 380
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_shaman/FM_shaman_fore_arm1_5
+  rotate: true
+  xy: 1299, 380
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_arm1/FM_shaman/FM_shaman_fore_arm1_6
+  rotate: true
+  xy: 1515, 380
+  size: 158, 214
+  orig: 158, 214
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_1
+  rotate: false
+  xy: 236, 192
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_2
+  rotate: false
+  xy: 512, 192
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_3
+  rotate: false
+  xy: 788, 192
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_5
+  rotate: false
+  xy: 1064, 192
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_assassin/FM_assassin_fore_coat_6
+  rotate: false
+  xy: 1340, 192
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_druid/FM_druid_fore_coat_1
+  rotate: false
+  xy: 1616, 190
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_druid/FM_druid_fore_coat_2
+  rotate: false
+  xy: 2, 4
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_druid/FM_druid_fore_coat_4
+  rotate: false
+  xy: 278, 4
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_druid/FM_druid_fore_coat_5
+  rotate: false
+  xy: 554, 4
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_druid/FM_druid_fore_coat_6
+  rotate: false
+  xy: 830, 4
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_engineer/FM_engineer_fore_coat_3
+  rotate: false
+  xy: 1106, 4
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_engineer/FM_engineer_fore_coat_4
+  rotate: false
+  xy: 1382, 2
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_engineer/FM_engineer_fore_coat_5
+  rotate: false
+  xy: 1658, 2
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+back_body/FM_assassin/FM_assassin_back_Body_1
+  rotate: false
+  xy: 2, 217
+  size: 232, 163
+  orig: 298, 476
+  offset: 35, 98
+  index: -1
+back_body/FM_engineer/FM_engineer_back_Body_1
+  rotate: false
+  xy: 1731, 378
+  size: 228, 160
+  orig: 298, 476
+  offset: 4, 89
+  index: -1
+
+Class_Female3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_leg/FM_assassin/FM_assassin_back_leg_1
+  rotate: true
+  xy: 1382, 818
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_2
+  rotate: true
+  xy: 2, 630
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_3
+  rotate: true
+  xy: 476, 630
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_4
+  rotate: true
+  xy: 950, 614
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_5
+  rotate: true
+  xy: 1424, 614
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_assassin/FM_assassin_back_leg_6
+  rotate: true
+  xy: 2, 426
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_druid/FM_druid_back_leg_1
+  rotate: true
+  xy: 476, 426
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_druid/FM_druid_back_leg_2
+  rotate: true
+  xy: 950, 410
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_druid/FM_druid_back_leg_3
+  rotate: true
+  xy: 1424, 410
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_druid/FM_druid_back_leg_4
+  rotate: true
+  xy: 2, 222
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_druid/FM_druid_back_leg_5
+  rotate: true
+  xy: 476, 222
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_druid/FM_druid_back_leg_6
+  rotate: true
+  xy: 950, 206
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_engineer/FM_engineer_back_leg_1
+  rotate: true
+  xy: 1424, 206
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_engineer/FM_engineer_back_leg_2
+  rotate: true
+  xy: 2, 18
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_engineer/FM_engineer_back_leg_3
+  rotate: true
+  xy: 476, 18
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_engineer/FM_engineer_back_leg_4
+  rotate: true
+  xy: 950, 2
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_engineer/FM_engineer_back_leg_5
+  rotate: true
+  xy: 1424, 2
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_engineer/FM_engineer_fore_coat_6
+  rotate: false
+  xy: 2, 1774
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_hunter/FM_hunter_fore_coat_1
+  rotate: false
+  xy: 278, 1774
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_hunter/FM_hunter_fore_coat_2
+  rotate: false
+  xy: 554, 1774
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_hunter/FM_hunter_fore_coat_3
+  rotate: false
+  xy: 830, 1774
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_hunter/FM_hunter_fore_coat_4
+  rotate: false
+  xy: 1106, 1774
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_hunter/FM_hunter_fore_coat_5
+  rotate: false
+  xy: 1382, 1774
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_hunter/FM_hunter_fore_coat_6
+  rotate: false
+  xy: 1658, 1774
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_1
+  rotate: false
+  xy: 2, 1586
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_2
+  rotate: false
+  xy: 278, 1586
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_3
+  rotate: false
+  xy: 554, 1586
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_4
+  rotate: false
+  xy: 830, 1586
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_5
+  rotate: false
+  xy: 1106, 1586
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_knight/FM_knight_fore_coat_6
+  rotate: false
+  xy: 1382, 1586
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_mage/FM_mage_fore_coat_1
+  rotate: false
+  xy: 1658, 1586
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_mage/FM_mage_fore_coat_2
+  rotate: false
+  xy: 2, 1398
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_mage/FM_mage_fore_coat_3
+  rotate: false
+  xy: 278, 1398
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_mage/FM_mage_fore_coat_4
+  rotate: false
+  xy: 554, 1398
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_mage/FM_mage_fore_coat_5
+  rotate: false
+  xy: 830, 1398
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_mage/FM_mage_fore_coat_6
+  rotate: false
+  xy: 1106, 1398
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_monk/FM_monk_fore_coat_1
+  rotate: false
+  xy: 1382, 1398
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_monk/FM_monk_fore_coat_2
+  rotate: false
+  xy: 1658, 1398
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_monk/FM_monk_fore_coat_3
+  rotate: false
+  xy: 2, 1210
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_monk/FM_monk_fore_coat_4
+  rotate: false
+  xy: 278, 1210
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_monk/FM_monk_fore_coat_5
+  rotate: false
+  xy: 554, 1210
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_monk/FM_monk_fore_coat_6
+  rotate: false
+  xy: 830, 1210
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_pirate/FM_pirate_fore_coat_1
+  rotate: false
+  xy: 1106, 1210
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_pirate/FM_pirate_fore_coat_4
+  rotate: false
+  xy: 1382, 1210
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_pirate/FM_pirate_fore_coat_5
+  rotate: false
+  xy: 1658, 1210
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_1
+  rotate: false
+  xy: 2, 1022
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_2
+  rotate: false
+  xy: 278, 1022
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_3
+  rotate: false
+  xy: 554, 1022
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_4
+  rotate: false
+  xy: 830, 1022
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_5
+  rotate: false
+  xy: 1106, 833
+  size: 274, 187
+  orig: 276, 187
+  offset: 1, 0
+  index: -1
+Class_fore_coat/FM_priest/FM_priest_fore_coat_6
+  rotate: false
+  xy: 1106, 1022
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_shaman/FM_shaman_fore_coat_1
+  rotate: false
+  xy: 1382, 1022
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_shaman/FM_shaman_fore_coat_2
+  rotate: false
+  xy: 1658, 1022
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_shaman/FM_shaman_fore_coat_3
+  rotate: false
+  xy: 2, 834
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_shaman/FM_shaman_fore_coat_4
+  rotate: false
+  xy: 278, 834
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_shaman/FM_shaman_fore_coat_5
+  rotate: false
+  xy: 554, 834
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+Class_fore_coat/FM_shaman/FM_shaman_fore_coat_6
+  rotate: false
+  xy: 830, 834
+  size: 274, 186
+  orig: 274, 186
+  offset: 0, 0
+  index: -1
+
+Class_Female4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_leg/FM_engineer/FM_engineer_back_leg_6
+  rotate: true
+  xy: 2, 1838
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_hunter/FM_hunter_back_leg_1
+  rotate: true
+  xy: 476, 1838
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_hunter/FM_hunter_back_leg_2
+  rotate: true
+  xy: 950, 1838
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_hunter/FM_hunter_back_leg_3
+  rotate: true
+  xy: 1424, 1838
+  size: 202, 473
+  orig: 202, 473
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_hunter/FM_hunter_back_leg_4
+  rotate: true
+  xy: 2, 1634
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_hunter/FM_hunter_back_leg_5
+  rotate: true
+  xy: 476, 1634
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_hunter/FM_hunter_back_leg_6
+  rotate: true
+  xy: 950, 1634
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_1
+  rotate: true
+  xy: 1424, 1634
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_2
+  rotate: true
+  xy: 2, 1430
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_3
+  rotate: true
+  xy: 476, 1430
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_4
+  rotate: true
+  xy: 950, 1430
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_5
+  rotate: true
+  xy: 1424, 1430
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_knight/FM_knight_back_leg_6
+  rotate: true
+  xy: 2, 1226
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_mage/FM_mage_back_leg_1
+  rotate: true
+  xy: 476, 1226
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_mage/FM_mage_back_leg_2
+  rotate: true
+  xy: 950, 1226
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_mage/FM_mage_back_leg_3
+  rotate: true
+  xy: 1424, 1226
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_mage/FM_mage_back_leg_4
+  rotate: true
+  xy: 2, 1022
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_mage/FM_mage_back_leg_5
+  rotate: true
+  xy: 476, 1022
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_mage/FM_mage_back_leg_6
+  rotate: true
+  xy: 950, 1022
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_monk/FM_monk_back_leg_1
+  rotate: true
+  xy: 1424, 1022
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_monk/FM_monk_back_leg_2
+  rotate: true
+  xy: 2, 818
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_monk/FM_monk_back_leg_3
+  rotate: true
+  xy: 476, 818
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_monk/FM_monk_back_leg_4
+  rotate: true
+  xy: 950, 818
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_monk/FM_monk_back_leg_5
+  rotate: true
+  xy: 1424, 818
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_monk/FM_monk_back_leg_6
+  rotate: true
+  xy: 2, 614
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_pirate/FM_pirate_back_leg_1
+  rotate: true
+  xy: 476, 614
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_pirate/FM_pirate_back_leg_2
+  rotate: true
+  xy: 950, 614
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_pirate/FM_pirate_back_leg_3
+  rotate: true
+  xy: 1424, 614
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_pirate/FM_pirate_back_leg_4
+  rotate: true
+  xy: 2, 410
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_pirate/FM_pirate_back_leg_5
+  rotate: true
+  xy: 476, 410
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_pirate/FM_pirate_back_leg_6
+  rotate: true
+  xy: 950, 410
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_priest/FM_priest_back_leg_1
+  rotate: true
+  xy: 1424, 410
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_priest/FM_priest_back_leg_2
+  rotate: true
+  xy: 2, 206
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_priest/FM_priest_back_leg_3
+  rotate: true
+  xy: 476, 206
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_priest/FM_priest_back_leg_4
+  rotate: true
+  xy: 950, 206
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_priest/FM_priest_back_leg_5
+  rotate: true
+  xy: 1424, 206
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_priest/FM_priest_back_leg_6
+  rotate: true
+  xy: 2, 2
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_shaman/FM_shaman_back_leg_1
+  rotate: true
+  xy: 476, 2
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_shaman/FM_shaman_back_leg_2
+  rotate: true
+  xy: 950, 2
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_shaman/FM_shaman_back_leg_3
+  rotate: true
+  xy: 1424, 2
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+
+Class_Female5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_leg/FM_shaman/FM_shaman_back_leg_4
+  rotate: true
+  xy: 2, 1694
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_shaman/FM_shaman_back_leg_5
+  rotate: true
+  xy: 476, 1694
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_back_leg/FM_shaman/FM_shaman_back_leg_6
+  rotate: true
+  xy: 950, 1694
+  size: 202, 472
+  orig: 202, 472
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_1
+  rotate: true
+  xy: 1424, 1661
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_2
+  rotate: true
+  xy: 2, 1457
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_3
+  rotate: true
+  xy: 480, 1457
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_4
+  rotate: true
+  xy: 958, 1424
+  size: 235, 477
+  orig: 235, 479
+  offset: 0, 1
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_5
+  rotate: true
+  xy: 1437, 1424
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_assassin/FM_assassin_fore_leg_6
+  rotate: true
+  xy: 2, 1220
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_druid/FM_druid_fore_leg_1
+  rotate: true
+  xy: 480, 1220
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_druid/FM_druid_fore_leg_2
+  rotate: true
+  xy: 958, 1187
+  size: 235, 477
+  orig: 235, 478
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_druid/FM_druid_fore_leg_3
+  rotate: true
+  xy: 1437, 1187
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_druid/FM_druid_fore_leg_4
+  rotate: true
+  xy: 2, 983
+  size: 235, 477
+  orig: 235, 478
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_druid/FM_druid_fore_leg_5
+  rotate: true
+  xy: 481, 950
+  size: 235, 477
+  orig: 235, 477
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_druid/FM_druid_fore_leg_6
+  rotate: true
+  xy: 960, 950
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_engineer/FM_engineer_fore_leg_1
+  rotate: true
+  xy: 1438, 950
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_engineer/FM_engineer_fore_leg_2
+  rotate: true
+  xy: 2, 746
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_engineer/FM_engineer_fore_leg_3
+  rotate: true
+  xy: 480, 713
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_engineer/FM_engineer_fore_leg_4
+  rotate: true
+  xy: 958, 713
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_engineer/FM_engineer_fore_leg_5
+  rotate: true
+  xy: 1436, 713
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_engineer/FM_engineer_fore_leg_6
+  rotate: true
+  xy: 2, 509
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_hunter/FM_hunter_fore_leg_1
+  rotate: true
+  xy: 480, 476
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_hunter/FM_hunter_fore_leg_2
+  rotate: true
+  xy: 958, 476
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_hunter/FM_hunter_fore_leg_3
+  rotate: true
+  xy: 1436, 476
+  size: 235, 477
+  orig: 235, 478
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_hunter/FM_hunter_fore_leg_4
+  rotate: true
+  xy: 2, 272
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_hunter/FM_hunter_fore_leg_5
+  rotate: true
+  xy: 480, 239
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_hunter/FM_hunter_fore_leg_6
+  rotate: true
+  xy: 958, 239
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_1
+  rotate: true
+  xy: 1436, 239
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_2
+  rotate: true
+  xy: 2, 35
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_3
+  rotate: true
+  xy: 480, 2
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_4
+  rotate: true
+  xy: 958, 2
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_5
+  rotate: true
+  xy: 1436, 2
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+
+Class_Female6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_Body/FM_assassin/FM_assassin_Body_1
+  rotate: true
+  xy: 1436, 2
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_knight/FM_knight_fore_leg_6
+  rotate: true
+  xy: 2, 1724
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_mage/FM_mage_fore_leg_1
+  rotate: true
+  xy: 480, 1724
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_mage/FM_mage_fore_leg_2
+  rotate: true
+  xy: 958, 1724
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_mage/FM_mage_fore_leg_3
+  rotate: true
+  xy: 1436, 1724
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_mage/FM_mage_fore_leg_4
+  rotate: true
+  xy: 2, 1487
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_mage/FM_mage_fore_leg_5
+  rotate: true
+  xy: 480, 1487
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_mage/FM_mage_fore_leg_6
+  rotate: true
+  xy: 958, 1487
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_monk/FM_monk_fore_leg_1
+  rotate: true
+  xy: 1436, 1487
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_monk/FM_monk_fore_leg_2
+  rotate: true
+  xy: 2, 1250
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_monk/FM_monk_fore_leg_3
+  rotate: true
+  xy: 480, 1250
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_monk/FM_monk_fore_leg_4
+  rotate: true
+  xy: 958, 1250
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_monk/FM_monk_fore_leg_5
+  rotate: true
+  xy: 1436, 1250
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_monk/FM_monk_fore_leg_6
+  rotate: true
+  xy: 2, 1013
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_pirate/FM_pirate_fore_leg_1
+  rotate: true
+  xy: 480, 1013
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_pirate/FM_pirate_fore_leg_2
+  rotate: true
+  xy: 958, 1013
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_pirate/FM_pirate_fore_leg_3
+  rotate: true
+  xy: 1436, 1013
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_pirate/FM_pirate_fore_leg_4
+  rotate: true
+  xy: 2, 776
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_pirate/FM_pirate_fore_leg_5
+  rotate: true
+  xy: 480, 776
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_pirate/FM_pirate_fore_leg_6
+  rotate: true
+  xy: 958, 776
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_priest/FM_priest_fore_leg_1
+  rotate: true
+  xy: 1436, 776
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_priest/FM_priest_fore_leg_2
+  rotate: true
+  xy: 2, 539
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_priest/FM_priest_fore_leg_3
+  rotate: true
+  xy: 480, 539
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_priest/FM_priest_fore_leg_4
+  rotate: true
+  xy: 958, 539
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_priest/FM_priest_fore_leg_5
+  rotate: true
+  xy: 1436, 539
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_priest/FM_priest_fore_leg_6
+  rotate: true
+  xy: 2, 302
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_shaman/FM_shaman_fore_leg_1
+  rotate: true
+  xy: 480, 302
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_shaman/FM_shaman_fore_leg_2
+  rotate: true
+  xy: 958, 302
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_shaman/FM_shaman_fore_leg_3
+  rotate: true
+  xy: 1436, 302
+  size: 235, 477
+  orig: 235, 482
+  offset: 0, 2
+  index: -1
+Class_fore_leg/FM_shaman/FM_shaman_fore_leg_4
+  rotate: true
+  xy: 2, 65
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_shaman/FM_shaman_fore_leg_5
+  rotate: true
+  xy: 480, 65
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+Class_fore_leg/FM_shaman/FM_shaman_fore_leg_6
+  rotate: true
+  xy: 958, 65
+  size: 235, 476
+  orig: 235, 476
+  offset: 0, 0
+  index: -1
+
+Class_Female7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_Body/FM_assassin/FM_assassin_Body_2
+  rotate: true
+  xy: 2, 1502
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_assassin/FM_assassin_Body_3
+  rotate: true
+  xy: 480, 1502
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_assassin/FM_assassin_Body_4
+  rotate: true
+  xy: 958, 1502
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_assassin/FM_assassin_Body_5
+  rotate: true
+  xy: 1436, 1502
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_assassin/FM_assassin_Body_6
+  rotate: true
+  xy: 2, 1202
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_druid/FM_druid_Body_1
+  rotate: true
+  xy: 480, 1202
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_druid/FM_druid_Body_2
+  rotate: true
+  xy: 958, 1202
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_druid/FM_druid_Body_3
+  rotate: true
+  xy: 1436, 1202
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_druid/FM_druid_Body_4
+  rotate: true
+  xy: 2, 902
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_druid/FM_druid_Body_5
+  rotate: true
+  xy: 480, 902
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_druid/FM_druid_Body_6
+  rotate: true
+  xy: 958, 902
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_engineer/FM_engineer_Body_1
+  rotate: true
+  xy: 1436, 902
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_engineer/FM_engineer_Body_2
+  rotate: true
+  xy: 2, 602
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_engineer/FM_engineer_Body_3
+  rotate: true
+  xy: 480, 602
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_engineer/FM_engineer_Body_4
+  rotate: true
+  xy: 958, 602
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_engineer/FM_engineer_Body_5
+  rotate: true
+  xy: 1436, 602
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_engineer/FM_engineer_Body_6
+  rotate: true
+  xy: 2, 302
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_hunter/FM_hunter_Body_1
+  rotate: true
+  xy: 480, 302
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_hunter/FM_hunter_Body_2
+  rotate: true
+  xy: 958, 302
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_hunter/FM_hunter_Body_3
+  rotate: true
+  xy: 1436, 302
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_hunter/FM_hunter_Body_4
+  rotate: true
+  xy: 2, 2
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_hunter/FM_hunter_Body_5
+  rotate: true
+  xy: 480, 2
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_hunter/FM_hunter_Body_6
+  rotate: true
+  xy: 958, 2
+  size: 298, 477
+  orig: 298, 479
+  offset: 0, 1
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_1
+  rotate: true
+  xy: 1437, 2
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+
+Class_Female8.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_Body/FM_knight/FM_knight_Body_2
+  rotate: true
+  xy: 2, 1502
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_3
+  rotate: true
+  xy: 480, 1502
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_4
+  rotate: true
+  xy: 958, 1502
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_5
+  rotate: true
+  xy: 1436, 1502
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_knight/FM_knight_Body_6
+  rotate: true
+  xy: 2, 1202
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_mage/FM_mage_Body_1
+  rotate: true
+  xy: 480, 1202
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_mage/FM_mage_Body_2
+  rotate: true
+  xy: 958, 1202
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_mage/FM_mage_Body_3
+  rotate: true
+  xy: 1436, 1202
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_mage/FM_mage_Body_4
+  rotate: true
+  xy: 2, 902
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_mage/FM_mage_Body_5
+  rotate: true
+  xy: 480, 902
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_mage/FM_mage_Body_6
+  rotate: true
+  xy: 958, 902
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_monk/FM_monk_Body_1
+  rotate: true
+  xy: 1436, 902
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_monk/FM_monk_Body_2
+  rotate: true
+  xy: 2, 602
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_monk/FM_monk_Body_3
+  rotate: true
+  xy: 480, 602
+  size: 298, 477
+  orig: 298, 477
+  offset: 0, 0
+  index: -1
+Class_Body/FM_monk/FM_monk_Body_4
+  rotate: true
+  xy: 959, 602
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_monk/FM_monk_Body_5
+  rotate: true
+  xy: 1437, 602
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_monk/FM_monk_Body_6
+  rotate: true
+  xy: 2, 302
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_pirate/FM_pirate_Body_1
+  rotate: true
+  xy: 480, 302
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_pirate/FM_pirate_Body_2
+  rotate: true
+  xy: 958, 302
+  size: 298, 477
+  orig: 298, 477
+  offset: 0, 0
+  index: -1
+Class_Body/FM_pirate/FM_pirate_Body_3
+  rotate: true
+  xy: 1437, 302
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_pirate/FM_pirate_Body_4
+  rotate: true
+  xy: 2, 2
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_pirate/FM_pirate_Body_5
+  rotate: true
+  xy: 480, 2
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_pirate/FM_pirate_Body_6
+  rotate: true
+  xy: 958, 2
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_priest/FM_priest_Body_1
+  rotate: true
+  xy: 1436, 2
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+
+Class_Female9.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_Body/FM_priest/FM_priest_Body_2
+  rotate: true
+  xy: 2, 1508
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_priest/FM_priest_Body_3
+  rotate: true
+  xy: 480, 1508
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_priest/FM_priest_Body_4
+  rotate: true
+  xy: 958, 1508
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_priest/FM_priest_Body_5
+  rotate: true
+  xy: 1436, 1508
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_priest/FM_priest_Body_6
+  rotate: true
+  xy: 2, 1208
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_shaman/FM_shaman_Body_1
+  rotate: true
+  xy: 480, 1208
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_shaman/FM_shaman_Body_2
+  rotate: true
+  xy: 958, 1208
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_shaman/FM_shaman_Body_3
+  rotate: true
+  xy: 1436, 1208
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_shaman/FM_shaman_Body_4
+  rotate: true
+  xy: 2, 908
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_shaman/FM_shaman_Body_5
+  rotate: true
+  xy: 480, 908
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_Body/FM_shaman/FM_shaman_Body_6
+  rotate: true
+  xy: 958, 908
+  size: 298, 476
+  orig: 298, 476
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_assassin/FM_assassin_back_coat_3
+  rotate: true
+  xy: 1436, 806
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_hunter/FM_hunter_back_coat_1
+  rotate: true
+  xy: 2, 506
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_knight/FM_knight_back_coat_4
+  rotate: true
+  xy: 595, 506
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_knight/FM_knight_back_coat_6
+  rotate: true
+  xy: 1188, 404
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_mage/FM_mage_back_coat_1
+  rotate: true
+  xy: 2, 104
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_mage/FM_mage_back_coat_2
+  rotate: true
+  xy: 595, 104
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_mage/FM_mage_back_coat_3
+  rotate: true
+  xy: 1188, 2
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+
+Class_Female10.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Class_back_coat/FM_mage/FM_mage_back_coat_4
+  rotate: false
+  xy: 2, 404
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_mage/FM_mage_back_coat_5
+  rotate: false
+  xy: 404, 404
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_mage/FM_mage_back_coat_6
+  rotate: true
+  xy: 2, 2
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_pirate/FM_pirate_back_coat_4
+  rotate: false
+  xy: 806, 404
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
+Class_back_coat/FM_priest/FM_priest_back_coat_1
+  rotate: true
+  xy: 595, 2
+  size: 400, 591
+  orig: 400, 591
+  offset: 0, 0
+  index: -1
