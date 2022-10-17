@@ -809,7 +809,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &592246824
 Transform:
   m_ObjectHideFlags: 0
@@ -866,7 +866,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 2289412031294fc4fa0116fd83ce8612, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5ca6aaa3a37c642298c96c80f75081db, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -874,7 +874,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
 --- !u!1 &831752708
@@ -1601,15 +1601,25 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: e6b527f44eceb4ed484fc553aa00e966, type: 2}
-  - {fileID: 2100000, guid: 2ef862237c81341ceaaf0fbbac20b5d4, type: 2}
+  - {fileID: 2100000, guid: 0a5c242c4ba194f5d8024db916f473ab, type: 2}
   - {fileID: 2100000, guid: 6764bf69928484ad99ce413c668a0ab0, type: 2}
-  - {fileID: 2100000, guid: 2ef862237c81341ceaaf0fbbac20b5d4, type: 2}
+  - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
+  - {fileID: 2100000, guid: 6764bf69928484ad99ce413c668a0ab0, type: 2}
+  - {fileID: 2100000, guid: 2bd7e72fde02e418e8828139328d762b, type: 2}
+  - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
+  - {fileID: 2100000, guid: 78472d13ab1c6485a94cc3be6fb15e84, type: 2}
+  - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
+  - {fileID: 2100000, guid: a545707e2c516436f9247efe972ae43c, type: 2}
+  - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
+  - {fileID: 2100000, guid: 3253543bf3fee47ee885d4c7cbda21f5, type: 2}
   - {fileID: 2100000, guid: f4b0d5fb021f14fb2b0f8ce78f6f5e04, type: 2}
+  - {fileID: 2100000, guid: 672856762dafe43adb9d882f58ddc8df, type: 2}
   - {fileID: 2100000, guid: 6764bf69928484ad99ce413c668a0ab0, type: 2}
-  - {fileID: 2100000, guid: e2b36a0f2c54144e5b59ed2f2ebc87d6, type: 2}
-  - {fileID: 2100000, guid: ccef0ed59291e41d7b875f90d766b61d, type: 2}
-  - {fileID: 2100000, guid: 6764bf69928484ad99ce413c668a0ab0, type: 2}
+  - {fileID: 2100000, guid: 0a5c242c4ba194f5d8024db916f473ab, type: 2}
+  - {fileID: 2100000, guid: 7834d952457a649498d777ae92c6be28, type: 2}
+  - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
+  - {fileID: 2100000, guid: 78472d13ab1c6485a94cc3be6fb15e84, type: 2}
+  - {fileID: 2100000, guid: 2bd7e72fde02e418e8828139328d762b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -11751,7 +11761,7 @@ MonoBehaviour:
   raceBackgrounds:
   - raceType: 0
     background: {fileID: 1217774693}
-    characterPos: {x: 0, y: -3.7, z: 0}
+    characterPos: {x: 0, y: -4, z: 0}
   - raceType: 1
     background: {fileID: 2001661869}
     characterPos: {x: 0, y: -3.5, z: 0}
@@ -11763,10 +11773,10 @@ MonoBehaviour:
     characterPos: {x: 0, y: -3.7, z: 0}
   - raceType: 4
     background: {fileID: 206691269}
-    characterPos: {x: 0, y: -3.7, z: 0}
+    characterPos: {x: 0, y: -4, z: 0}
   - raceType: 5
     background: {fileID: 1058547134}
-    characterPos: {x: 0, y: -3.7, z: 0}
+    characterPos: {x: 0, y: -3.5, z: 0}
   - raceType: 6
     background: {fileID: 1013779372}
     characterPos: {x: 0, y: -4, z: 0}

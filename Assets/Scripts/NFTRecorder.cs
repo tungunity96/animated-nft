@@ -210,7 +210,7 @@ public class NFTRecorder : MonoBehaviour
             }
             else if (!recordVideo && captureScreen)
             {
-                SetupScreenResolution(480, 480);
+                // SetupScreenResolution(480, 480);
                 SetupMagicCircle((ElementalType)character.elemental);
                 StartCoroutine(CaptureCharacterImage(isFemale, (RaceType)character.race, (ClassType)character.classType, (ElementalType)character.elemental, character.hair, character.eyes, character.mouth, character.clothes, 0.2f, true));
             }
@@ -254,7 +254,7 @@ public class NFTRecorder : MonoBehaviour
         string fileName = Helpers.GetNFTName(isFemale, raceType, classType, elementalType, hair, eyes, mouth, clothes) + ".png";
         yield return new WaitForSeconds(delay);
         ScreenCapture.CaptureScreenshot(System.IO.Path.Combine(folderPath, fileName), 1);
-        Debug.Log("- Captured " + raceType.ToString() + " - " + classType.ToString() + folderPath + fileName);
+        Debug.Log("- Captured " + " - " + folderPath + fileName);
         if (captureScreenOnly) isFinishSingle = true;
     }
 }
