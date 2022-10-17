@@ -35,22 +35,19 @@ public class RecordController
 
         controllerSettings.AddRecorderSettings(videoRecorder);
         controllerSettings.SetRecordModeToManual();
-        // controllerSettings.SetRecordModeToTimeInterval(0, timeInterval);
         controllerSettings.FrameRatePlayback = FrameRatePlayback.Constant;
         controllerSettings.FrameRate = 60;
 
         RecorderOptions.VerboseMode = false;
     }
 
-    public void StartRecording(bool isFemale, RaceType raceType, ClassType classType, ElementalType elementalType, int hairName, int eyeName)
+    public void StartRecording(bool isFemale, RaceType raceType, ClassType classType, ElementalType elementalType, int hairName, int eyeName, int mouth, int clothes)
     {
-        // string mediaOutputFolder = Path.Combine(Application.dataPath, "..", "Recordings");
-        // string mediaOutputFolder = "Assets/NFTVideos/";
         string mediaOutputFolder = System.Environment.GetFolderPath(System.Environment.SpecialFolder.DesktopDirectory) + "/NFTVideos/";
         if (!System.IO.Directory.Exists(mediaOutputFolder))
             System.IO.Directory.CreateDirectory(mediaOutputFolder);
 
-        videoRecorder.OutputFile = Path.Combine(mediaOutputFolder, Helpers.GetNFTName(isFemale, raceType, classType, elementalType, hairName, eyeName));
+        videoRecorder.OutputFile = Path.Combine(mediaOutputFolder, Helpers.GetNFTName(isFemale, raceType, classType, elementalType, hairName, eyeName, mouth, clothes));
 
         recorderController.PrepareRecording();
         recorderController.StartRecording();

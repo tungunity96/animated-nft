@@ -80,11 +80,3 @@ public enum AnimationName
     CastSkill1,
     CastSkill2
 }
-
-[System.Serializable]
-public struct RaceBackground
-{
-    public RaceType raceType;
-    public GameObject background;
-    public Vector3 characterPos;
-}

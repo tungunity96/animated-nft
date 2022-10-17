@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Helpers
 {
-    public static string GetNFTName(bool isFemale, RaceType raceType, ClassType classType, ElementalType elementalType, int hairName, int eyeName)
+    public static string GetNFTName(bool isFemale, RaceType raceType, ClassType classType, ElementalType elementalType, int hairName, int eyeName, int mouth, int clothes)
     {
-        return FromDecimalToHex(isFemale ? 1 : 0) + FromDecimalToHex((int)raceType) + FromDecimalToHex((int)classType) + FromDecimalToHex((int)elementalType) + FromDecimalToHex(hairName) + FromDecimalToHex(eyeName);
+        return FromDecimalToHex(isFemale ? 1 : 0) + FromDecimalToHex((int)raceType) + FromDecimalToHex((int)classType) + FromDecimalToHex((int)elementalType) + FromDecimalToHex(hairName) + FromDecimalToHex(eyeName) + FromDecimalToHex(mouth) + FromDecimalToHex(clothes);
     }
 
     public static Color GetElementalColor(ElementalType elementalType)
