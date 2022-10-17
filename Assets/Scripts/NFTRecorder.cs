@@ -64,12 +64,17 @@ public class NFTRecorder : MonoBehaviour
         femaleCharacterController.gameObject.SetActive(isFemale);
         maleCharacterController.gameObject.SetActive(!isFemale);
         spineController.ChangeSkin(raceType, classType, clothes.ToString(), eye.ToString(), hair.ToString(), mouth.ToString());
-        SetupMagicCircle(elementalType);
+        // SetupMagicCircle(elementalType);
         SetupBackgrounds(raceType);
     }
 
     private void SetupParticles(ElementalType elementalType)
     {
+        if (!recordVideo)
+        {
+            psMagicCircle.gameObject.SetActive(false);
+            return;
+        }
         var sprite = elementalSprites.FirstOrDefault((elementalSprite) => elementalType == elementalSprite.elementalType);
         if (sprite.elementalCircleSprite == null)
         {
@@ -206,7 +211,7 @@ public class NFTRecorder : MonoBehaviour
             isFinishSingle = false;
             count++;
             var character = characters[i];
-            if (character == null) continue;
+            // if (character == null) continue;
             var isFemale = character.gender == 1;
             SetupCharacter(character.gender, (RaceType)character.race, (ClassType)character.classType, (ElementalType)character.elemental, character.hair + 1, character.eyes + 1, character.mouth + 1, character.clothes + 1);
             Debug.Log("**** Start record character index " + count);
