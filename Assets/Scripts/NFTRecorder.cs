@@ -42,6 +42,7 @@ public class NFTRecorder : MonoBehaviour
     public bool captureScreen = false;
     public bool saveCount = true;
     private int count = 0;
+    [SerializeField] private int startIndex = 0;
     private CharacterList characterList;
     private bool isFinishSingle = false;
 
@@ -87,6 +88,11 @@ public class NFTRecorder : MonoBehaviour
 
     private void SetupMagicCircle(ElementalType elementalType)
     {
+        if (recordVideo)
+        {
+            magicCircleSprite.gameObject.SetActive(false);
+            return;
+        }
         var sprite = elementalSprites.FirstOrDefault((elementalSprite) => elementalType == elementalSprite.elementalType);
         if (sprite.elementalCircleSprite == null)
         {
@@ -191,8 +197,11 @@ public class NFTRecorder : MonoBehaviour
     {
         GetPlayerPrefs();
         var characters = characterList.characters;
-        if (!saveCount) count = 0;
-        for (int i = count; i < characters.Length; i++)
+        if (!saveCount)
+            count = 0;
+        else
+            startIndex = count;
+        for (int i = startIndex; i < characters.Length; i++)
         {
             isFinishSingle = false;
             count++;
@@ -210,7 +219,7 @@ public class NFTRecorder : MonoBehaviour
             }
             else if (!recordVideo && captureScreen)
             {
-                // SetupScreenResolution(480, 480);
+                SetupScreenResolution(480, 480);
                 SetupMagicCircle((ElementalType)character.elemental);
                 StartCoroutine(CaptureCharacterImage(isFemale, (RaceType)character.race, (ClassType)character.classType, (ElementalType)character.elemental, character.hair, character.eyes, character.mouth, character.clothes, 0.2f, true));
             }
@@ -236,9 +245,9 @@ public class NFTRecorder : MonoBehaviour
     {
         recordController.StartRecording(isFemale, raceType, classType, elementalType, hairName, eyeName, mouth, clothes);
         Debug.Log("- Start Recording NFT");
-        yield return spineController.PlayAnimation("Idle");
-        yield return spineController.PlayAnimation("Idle");
-        yield return spineController.PlayAnimation("Idle");
+        yield return spineController.PlayAnimation(Helpers.GetAnimationName(AnimationName.Idle1));
+        yield return spineController.PlayAnimation(Helpers.GetAnimationName(AnimationName.Idle1));
+        yield return spineController.PlayAnimation(Helpers.GetAnimationName(AnimationName.Idle1));
         recordController.StopRecording();
         isFinishSingle = true;
         Debug.Log("- Stop Recording NFT");

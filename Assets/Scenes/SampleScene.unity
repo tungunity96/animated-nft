@@ -809,7 +809,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &592246824
 Transform:
   m_ObjectHideFlags: 0
@@ -1602,14 +1602,15 @@ MeshRenderer:
   m_RendererPriority: 0
   m_Materials:
   - {fileID: 2100000, guid: 0a5c242c4ba194f5d8024db916f473ab, type: 2}
-  - {fileID: 2100000, guid: 6764bf69928484ad99ce413c668a0ab0, type: 2}
+  - {fileID: 2100000, guid: 9f8666df9c6c54fb09cb7d9e0016cea5, type: 2}
   - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
-  - {fileID: 2100000, guid: 6764bf69928484ad99ce413c668a0ab0, type: 2}
+  - {fileID: 2100000, guid: 78472d13ab1c6485a94cc3be6fb15e84, type: 2}
   - {fileID: 2100000, guid: 2bd7e72fde02e418e8828139328d762b, type: 2}
   - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
   - {fileID: 2100000, guid: 78472d13ab1c6485a94cc3be6fb15e84, type: 2}
   - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
   - {fileID: 2100000, guid: a545707e2c516436f9247efe972ae43c, type: 2}
+  - {fileID: 2100000, guid: 9f8666df9c6c54fb09cb7d9e0016cea5, type: 2}
   - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
   - {fileID: 2100000, guid: 3253543bf3fee47ee885d4c7cbda21f5, type: 2}
   - {fileID: 2100000, guid: f4b0d5fb021f14fb2b0f8ce78f6f5e04, type: 2}
@@ -1879,7 +1880,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1620948290
 Transform:
   m_ObjectHideFlags: 0
@@ -1889,7 +1890,7 @@ Transform:
   m_GameObject: {fileID: 1620948289}
   m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.2, y: 0.3, z: 1.5000001}
+  m_LocalScale: {x: 1.6, y: 0.4, z: 1.5000001}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 1901283359}
@@ -1942,7 +1943,7 @@ ParticleSystemRenderer:
   m_MeshDistribution: 0
   m_SortMode: 0
   m_MinParticleSize: 0
-  m_MaxParticleSize: 0.5
+  m_MaxParticleSize: 1
   m_CameraVelocityScale: 0
   m_VelocityScale: 0
   m_LengthScale: 2
@@ -7161,8 +7162,8 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 2
-      minScalar: 1.75
+      scalar: 2.5
+      minScalar: 2
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -11795,9 +11796,10 @@ MonoBehaviour:
     elementalCircleSprite: {fileID: 21300000, guid: 2289412031294fc4fa0116fd83ce8612, type: 3}
   - elementalType: 6
     elementalCircleSprite: {fileID: 21300000, guid: 3440fac0c4c034c48958d8a25b548b53, type: 3}
-  recordVideo: 0
-  captureScreen: 1
+  recordVideo: 1
+  captureScreen: 0
   saveCount: 0
+  startIndex: 0
 --- !u!114 &1949355032
 MonoBehaviour:
   m_ObjectHideFlags: 0
