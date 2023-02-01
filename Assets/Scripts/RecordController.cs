@@ -43,7 +43,7 @@ public class RecordController
 
     public void StartRecording(bool isFemale, RaceType raceType, ClassType classType, ElementalType elementalType, int hairName, int eyeName, int mouth, int clothes)
     {
-        string mediaOutputFolder = System.Environment.GetFolderPath(System.Environment.SpecialFolder.DesktopDirectory) + "/NFTVideos/";
+        string mediaOutputFolder = System.Environment.GetFolderPath(System.Environment.SpecialFolder.DesktopDirectory) + "/FemaleKnightVideos/";
         if (!System.IO.Directory.Exists(mediaOutputFolder))
             System.IO.Directory.CreateDirectory(mediaOutputFolder);
 

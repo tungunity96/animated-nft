@@ -935,7 +935,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &889012997
 Transform:
   m_ObjectHideFlags: 0
@@ -1008,14 +1008,28 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 54793312bc63241a4aeabb5d1c038035, type: 2}
-  - {fileID: 2100000, guid: 210c31aa87aa14e5681771e3de37097b, type: 2}
+  - {fileID: 2100000, guid: fdbe114389ea046ceb7ce6dd0a212d9b, type: 2}
   - {fileID: 2100000, guid: 233319e026ddb4e9887630b5e8bdce86, type: 2}
+  - {fileID: 2100000, guid: 2e561215219284eb989c2b3761d5ac4f, type: 2}
+  - {fileID: 2100000, guid: 233319e026ddb4e9887630b5e8bdce86, type: 2}
+  - {fileID: 2100000, guid: 7f51eb5e3855f4d7e85aab9580e8531c, type: 2}
+  - {fileID: 2100000, guid: 5077f0584ad4c40578831a749b15497f, type: 2}
+  - {fileID: 2100000, guid: 2e561215219284eb989c2b3761d5ac4f, type: 2}
+  - {fileID: 2100000, guid: dd058ca44b54b4ec7ab060a63564d535, type: 2}
+  - {fileID: 2100000, guid: 13e7fe28118ac40cd9dd11a49cec6baa, type: 2}
+  - {fileID: 2100000, guid: 2e561215219284eb989c2b3761d5ac4f, type: 2}
+  - {fileID: 2100000, guid: 233319e026ddb4e9887630b5e8bdce86, type: 2}
+  - {fileID: 2100000, guid: 2e561215219284eb989c2b3761d5ac4f, type: 2}
+  - {fileID: 2100000, guid: a7bc62d9b90864df7b792b45082cfca3, type: 2}
   - {fileID: 2100000, guid: 1de3cf1a30879405cbec04f5e829a7e0, type: 2}
+  - {fileID: 2100000, guid: e85e35f9ab8d74496a6f766a1f1bf9e3, type: 2}
   - {fileID: 2100000, guid: 233319e026ddb4e9887630b5e8bdce86, type: 2}
-  - {fileID: 2100000, guid: e3527256b17dd40248c34dee799516d8, type: 2}
-  - {fileID: 2100000, guid: 210c31aa87aa14e5681771e3de37097b, type: 2}
+  - {fileID: 2100000, guid: fdbe114389ea046ceb7ce6dd0a212d9b, type: 2}
+  - {fileID: 2100000, guid: 7834d952457a649498d777ae92c6be28, type: 2}
+  - {fileID: 2100000, guid: 2e561215219284eb989c2b3761d5ac4f, type: 2}
   - {fileID: 2100000, guid: 233319e026ddb4e9887630b5e8bdce86, type: 2}
+  - {fileID: 2100000, guid: c7c2d4769346443628db1e304f924e26, type: 2}
+  - {fileID: 2100000, guid: 5bb94353a249e4be5b081fe93470a418, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1058,7 +1072,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rootAtlas: {fileID: 11400000, guid: 2fc0bb89145034af5b8349b481d86491, type: 2}
-  weaponAtlas: {fileID: 11400000, guid: aab270d4a1f074427a68636b1ff61415, type: 2}
+  weaponAtlas: {fileID: 11400000, guid: 4e7744f16e3d442358168d584ffedc7c, type: 2}
   classAtlas: {fileID: 11400000, guid: 81f7b251db4124fedae9938c73027350, type: 2}
   raceAtlas: {fileID: 11400000, guid: a23474993a0124dcb9e416f9473e80c5, type: 2}
   hairAtlas: {fileID: 11400000, guid: e7c19edf0aae642a6aece91611367bc2, type: 2}
@@ -1077,13 +1091,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   raceType: 0
-  classType: 8
+  classType: 1
   elementalType: 0
-  hairName: 12
-  eyeName: 12
-  mouthName: 8
-  clothesId: 6
-  animationName: 7
+  hairName: 10
+  eyeName: 10
+  mouthName: 4
+  clothesId: 5
+  animationName: 1
   isTestAll: 0
 --- !u!1 &1013779372
 GameObject:
@@ -1488,7 +1502,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1345672262
 Transform:
   m_ObjectHideFlags: 0
@@ -1601,26 +1615,15 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 0a5c242c4ba194f5d8024db916f473ab, type: 2}
-  - {fileID: 2100000, guid: 9f8666df9c6c54fb09cb7d9e0016cea5, type: 2}
-  - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
-  - {fileID: 2100000, guid: 78472d13ab1c6485a94cc3be6fb15e84, type: 2}
-  - {fileID: 2100000, guid: 2bd7e72fde02e418e8828139328d762b, type: 2}
-  - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
-  - {fileID: 2100000, guid: 78472d13ab1c6485a94cc3be6fb15e84, type: 2}
-  - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
-  - {fileID: 2100000, guid: a545707e2c516436f9247efe972ae43c, type: 2}
-  - {fileID: 2100000, guid: 9f8666df9c6c54fb09cb7d9e0016cea5, type: 2}
-  - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
-  - {fileID: 2100000, guid: 3253543bf3fee47ee885d4c7cbda21f5, type: 2}
-  - {fileID: 2100000, guid: f4b0d5fb021f14fb2b0f8ce78f6f5e04, type: 2}
-  - {fileID: 2100000, guid: 672856762dafe43adb9d882f58ddc8df, type: 2}
+  - {fileID: 2100000, guid: e6b527f44eceb4ed484fc553aa00e966, type: 2}
+  - {fileID: 2100000, guid: 2ef862237c81341ceaaf0fbbac20b5d4, type: 2}
   - {fileID: 2100000, guid: 6764bf69928484ad99ce413c668a0ab0, type: 2}
-  - {fileID: 2100000, guid: 0a5c242c4ba194f5d8024db916f473ab, type: 2}
-  - {fileID: 2100000, guid: 7834d952457a649498d777ae92c6be28, type: 2}
-  - {fileID: 2100000, guid: 704e5183963724a12a658ced98230619, type: 2}
-  - {fileID: 2100000, guid: 78472d13ab1c6485a94cc3be6fb15e84, type: 2}
-  - {fileID: 2100000, guid: 2bd7e72fde02e418e8828139328d762b, type: 2}
+  - {fileID: 2100000, guid: 2ef862237c81341ceaaf0fbbac20b5d4, type: 2}
+  - {fileID: 2100000, guid: f4b0d5fb021f14fb2b0f8ce78f6f5e04, type: 2}
+  - {fileID: 2100000, guid: 6764bf69928484ad99ce413c668a0ab0, type: 2}
+  - {fileID: 2100000, guid: e2b36a0f2c54144e5b59ed2f2ebc87d6, type: 2}
+  - {fileID: 2100000, guid: ccef0ed59291e41d7b875f90d766b61d, type: 2}
+  - {fileID: 2100000, guid: 6764bf69928484ad99ce413c668a0ab0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1880,7 +1883,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1620948290
 Transform:
   m_ObjectHideFlags: 0
@@ -11753,6 +11756,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a74c3b068457446579706e9e952707cc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  recordRace: 0
+  startClass: 0
+  isFemale: 1
   magicCircleSprite: {fileID: 592246825}
   character: {fileID: 1587831452}
   maleCharacterController: {fileID: 1345672264}
@@ -11796,10 +11802,9 @@ MonoBehaviour:
     elementalCircleSprite: {fileID: 21300000, guid: 2289412031294fc4fa0116fd83ce8612, type: 3}
   - elementalType: 6
     elementalCircleSprite: {fileID: 21300000, guid: 3440fac0c4c034c48958d8a25b548b53, type: 3}
-  recordVideo: 1
-  captureScreen: 0
+  recordVideo: 0
+  captureScreen: 1
   saveCount: 0
-  startIndex: 0
 --- !u!114 &1949355032
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -11812,7 +11817,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0ea180a09fbe9574bb7b91e59a4447e5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textAssetData: {fileID: 4900000, guid: ce810a874f9489243920c9a0d37bd542, type: 3}
+  textAssetData: {fileID: 4900000, guid: 6e8f2d0d5aee5da4084af036d7da7f97, type: 3}
   colNum: 9
 --- !u!1 &2001661869
 GameObject:

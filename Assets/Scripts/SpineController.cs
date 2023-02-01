@@ -42,12 +42,29 @@ public class SpineController : MonoBehaviour
 
     public void ChangeSkin(RaceType raceType, ClassType classType, string clothesId, string eyeName, string hairName, string mouthName)
     {
+        var hair = int.Parse(hairName) + 1;
+        var eye = int.Parse(eyeName) + 1;
+        var mouth = int.Parse(mouthName) + 1;
+        var clothes = int.Parse(clothesId) + 1;
+
+        ChangeRaceRegion(raceType);
+        ChangeClassRegion(classType, clothes);
+        // ChangeClassForeHandRegion(classType);
+        ChangeEyesRegion(eye);
+        ChangeHairRegion(hair);
+        ChangeMouthRegion(mouth);
+        ChangeWeaponRegion((WeaponType)classType);
+        // UpdateSkeletonAnimation();
+    }
+
+    public void ChangeSkin(RaceType raceType, ClassType classType, int hair, int eyes, int mouth, int clothesId)
+    {
         ChangeRaceRegion(raceType);
         ChangeClassRegion(classType, clothesId);
         // ChangeClassForeHandRegion(classType);
-        ChangeEyesRegion(eyeName);
-        ChangeHairRegion(hairName);
-        ChangeMouthRegion(mouthName);
+        ChangeEyesRegion(eyes);
+        ChangeHairRegion(hair);
+        ChangeMouthRegion(mouth);
         ChangeWeaponRegion((WeaponType)classType);
         // UpdateSkeletonAnimation();
     }
@@ -61,24 +78,24 @@ public class SpineController : MonoBehaviour
     //     SetSlotRegion(AtlasType.ClassForeHand, "Class_fore_hand", "Class_fore_hand/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_fore_hand");
     // }
 
-    public void ChangeHairRegion(string hairName)
+    public void ChangeHairRegion(int hairName)
     {
         SetSlotRegion(AtlasType.Hair, "B_Hair", "B_Hair/" + (isFemale ? "FM_" : "M_") + "B_Hair_" + hairName);
         SetSlotRegion(AtlasType.Hair, "F_Hair", "F_Hair/" + (isFemale ? "FM_" : "M_") + "F_Hair_" + hairName);
         SetSlotRegion(AtlasType.Hair, "ML_Hair", "ML_Hair/" + (isFemale ? "FM_" : "M_") + "ML_Hair_" + hairName);
         SetSlotRegion(AtlasType.Hair, "MR_Hair", "MR_Hair/" + (isFemale ? "FM_" : "M_") + "MR_Hair_" + hairName);
     }
-    public void ChangeEyesRegion(string eyeName)
+    public void ChangeEyesRegion(int eyeName)
     {
         SetSlotRegion(AtlasType.Eyes, "Eyes", "Eyes/" + (isFemale ? "FM_" : "M_") + "Eyes_" + eyeName);
     }
 
-    public void ChangeMouthRegion(string mouthName)
+    public void ChangeMouthRegion(int mouthName)
     {
         SetSlotRegion(AtlasType.Race, "mouth", "mouth/Mouth_" + mouthName);
     }
 
-    public void ChangeClassRegion(ClassType classType, string clothesId)
+    public void ChangeClassRegion(ClassType classType, int clothesId)
     {
         SetSlotRegion(AtlasType.Class, "Class_Body", "Class_Body/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_Body_" + clothesId);
         SetSlotRegion(AtlasType.Class, "Class_back_arm1", "Class_back_arm1/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "/" + (isFemale ? "FM_" : "M_") + classType.ToString() + "_back_arm1_" + clothesId);
